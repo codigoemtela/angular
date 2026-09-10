@@ -1,0 +1,198 @@
+{
+  "id": 78,
+  "chapter": "05 Como o Angular ajuda a organizar nossa central",
+  "section": "Componentes e responsabilidades",
+  "speaker": "PROF. RODRIGO",
+  "text": "É um bom ponto de partida. Ao implementar, vamos avaliar essas divisões pelo comportamento e pelas mudanças que precisamos fazer. A possibilidade de criar componentes nos ajuda a organizar o código; o tamanho adequado depende da responsabilidade.",
+  "voice": "pt-BR-AntonioNeural",
+  "rate": "-10%",
+  "pitch": "+0Hz",
+  "audio": "audio/078.mp3",
+  "words": [
+    {
+      "text": "É",
+      "start": 0.105541,
+      "duration": 0.138875
+    },
+    {
+      "text": "um",
+      "start": 0.258333,
+      "duration": 0.166666
+    },
+    {
+      "text": "bom",
+      "start": 0.438875,
+      "duration": 0.291666
+    },
+    {
+      "text": "ponto",
+      "start": 0.744458,
+      "duration": 0.388875
+    },
+    {
+      "text": "de",
+      "start": 1.147208,
+      "duration": 0.097208
+    },
+    {
+      "text": "partida",
+      "start": 1.258333,
+      "duration": 0.597208
+    },
+    {
+      "text": "Ao",
+      "start": 2.819458,
+      "duration": 0.208333
+    },
+    {
+      "text": "implementar",
+      "start": 3.041666,
+      "duration": 0.722208
+    },
+    {
+      "text": "vamos",
+      "start": 4.0,
+      "duration": 0.305541
+    },
+    {
+      "text": "avaliar",
+      "start": 4.319458,
+      "duration": 0.555541
+    },
+    {
+      "text": "essas",
+      "start": 4.888875,
+      "duration": 0.277791
+    },
+    {
+      "text": "divisões",
+      "start": 5.180541,
+      "duration": 0.611125
+    },
+    {
+      "text": "pelo",
+      "start": 5.805541,
+      "duration": 0.194458
+    },
+    {
+      "text": "comportamento",
+      "start": 6.013875,
+      "duration": 0.819458
+    },
+    {
+      "text": "e",
+      "start": 6.847208,
+      "duration": 0.055541
+    },
+    {
+      "text": "pelas",
+      "start": 6.916666,
+      "duration": 0.25
+    },
+    {
+      "text": "mudanças",
+      "start": 7.180541,
+      "duration": 0.625
+    },
+    {
+      "text": "que",
+      "start": 7.819458,
+      "duration": 0.125
+    },
+    {
+      "text": "precisamos",
+      "start": 7.958333,
+      "duration": 0.652791
+    },
+    {
+      "text": "fazer",
+      "start": 8.625,
+      "duration": 0.444458
+    },
+    {
+      "text": "A",
+      "start": 10.027791,
+      "duration": 0.138875
+    },
+    {
+      "text": "possibilidade",
+      "start": 10.180541,
+      "duration": 0.902791
+    },
+    {
+      "text": "de",
+      "start": 11.097208,
+      "duration": 0.111125
+    },
+    {
+      "text": "criar",
+      "start": 11.222208,
+      "duration": 0.361125
+    },
+    {
+      "text": "componentes",
+      "start": 11.597208,
+      "duration": 0.763875
+    },
+    {
+      "text": "nos",
+      "start": 12.375,
+      "duration": 0.083333
+    },
+    {
+      "text": "ajuda",
+      "start": 12.472208,
+      "duration": 0.486125
+    },
+    {
+      "text": "a",
+      "start": 12.972208,
+      "duration": 0.0416659
+    },
+    {
+      "text": "organizar",
+      "start": 13.027791,
+      "duration": 0.569458
+    },
+    {
+      "text": "o",
+      "start": 13.611125,
+      "duration": 0.055541
+    },
+    {
+      "text": "código",
+      "start": 13.680541,
+      "duration": 0.513875
+    },
+    {
+      "text": "o",
+      "start": 14.527791,
+      "duration": 0.111125
+    },
+    {
+      "text": "tamanho",
+      "start": 14.652791,
+      "duration": 0.486125
+    },
+    {
+      "text": "adequado",
+      "start": 15.152791,
+      "duration": 0.541666
+    },
+    {
+      "text": "depende",
+      "start": 15.708333,
+      "duration": 0.5
+    },
+    {
+      "text": "da",
+      "start": 16.222208,
+      "duration": 0.111125
+    },
+    {
+      "text": "responsabilidade",
+      "start": 16.347208,
+      "duration": 1.166666
+    }
+  ]
+}

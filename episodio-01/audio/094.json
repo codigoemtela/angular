@@ -1,0 +1,123 @@
+{
+  "id": 94,
+  "chapter": "05 Como o Angular ajuda a organizar nossa central",
+  "section": "Navegação e ferramentas que trabalham juntas",
+  "speaker": "PROF. RODRIGO",
+  "text": "Sim. Essa combinação fará parte do treinamento. Vamos usar o que as ferramentas oferecem e observar o comportamento que a demanda exige.",
+  "voice": "pt-BR-AntonioNeural",
+  "rate": "-10%",
+  "pitch": "+0Hz",
+  "audio": "audio/094.mp3",
+  "words": [
+    {
+      "text": "Sim",
+      "start": 0.105541,
+      "duration": 0.472208
+    },
+    {
+      "text": "Essa",
+      "start": 1.541666,
+      "duration": 0.361125
+    },
+    {
+      "text": "combinação",
+      "start": 1.916666,
+      "duration": 0.680541
+    },
+    {
+      "text": "fará",
+      "start": 2.611125,
+      "duration": 0.305541
+    },
+    {
+      "text": "parte",
+      "start": 2.930541,
+      "duration": 0.416666
+    },
+    {
+      "text": "do",
+      "start": 3.361125,
+      "duration": 0.138875
+    },
+    {
+      "text": "treinamento",
+      "start": 3.513875,
+      "duration": 0.763875
+    },
+    {
+      "text": "Vamos",
+      "start": 5.236125,
+      "duration": 0.375
+    },
+    {
+      "text": "usar",
+      "start": 5.625,
+      "duration": 0.416666
+    },
+    {
+      "text": "o",
+      "start": 6.055541,
+      "duration": 0.055541
+    },
+    {
+      "text": "que",
+      "start": 6.125,
+      "duration": 0.097208
+    },
+    {
+      "text": "as",
+      "start": 6.236125,
+      "duration": 0.111125
+    },
+    {
+      "text": "ferramentas",
+      "start": 6.361125,
+      "duration": 0.638875
+    },
+    {
+      "text": "oferecem",
+      "start": 7.013875,
+      "duration": 0.763875
+    },
+    {
+      "text": "e",
+      "start": 7.791666,
+      "duration": 0.055541
+    },
+    {
+      "text": "observar",
+      "start": 7.861125,
+      "duration": 0.652791
+    },
+    {
+      "text": "o",
+      "start": 8.527791,
+      "duration": 0.055541
+    },
+    {
+      "text": "comportamento",
+      "start": 8.597208,
+      "duration": 0.861125
+    },
+    {
+      "text": "que",
+      "start": 9.472208,
+      "duration": 0.097208
+    },
+    {
+      "text": "a",
+      "start": 9.583333,
+      "duration": 0.069458
+    },
+    {
+      "text": "demanda",
+      "start": 9.666666,
+      "duration": 0.472208
+    },
+    {
+      "text": "exige",
+      "start": 10.152791,
+      "duration": 0.541666
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "id": 68,
+  "chapter": "04 A história do Angular e as mudanças de geração",
+  "section": "A evolução depois da reescrita",
+  "speaker": "LIA",
+  "text": "Isso se relaciona com a nossa conversa sobre manter os dados e a tela coerentes.",
+  "voice": "pt-BR-FranciscaNeural",
+  "rate": "-3%",
+  "pitch": "+0Hz",
+  "audio": "audio/068.mp3",
+  "words": [
+    {
+      "text": "Isso",
+      "start": 0.101541,
+      "duration": 0.270625
+    },
+    {
+      "text": "se",
+      "start": 0.385041,
+      "duration": 0.116
+    },
+    {
+      "text": "relaciona",
+      "start": 0.513916,
+      "duration": 0.631458
+    },
+    {
+      "text": "com",
+      "start": 1.15825,
+      "duration": 0.14175
+    },
+    {
+      "text": "a",
+      "start": 1.312875,
+      "duration": 0.0386659
+    },
+    {
+      "text": "nossa",
+      "start": 1.364416,
+      "duration": 0.270625
+    },
+    {
+      "text": "conversa",
+      "start": 1.647958,
+      "duration": 0.579916
+    },
+    {
+      "text": "sobre",
+      "start": 2.240708,
+      "duration": 0.309291
+    },
+    {
+      "text": "manter",
+      "start": 2.562875,
+      "duration": 0.322166
+    },
+    {
+      "text": "os",
+      "start": 2.897958,
+      "duration": 0.116
+    },
+    {
+      "text": "dados",
+      "start": 3.026791,
+      "duration": 0.373708
+    },
+    {
+      "text": "e",
+      "start": 3.413416,
+      "duration": 0.116
+    },
+    {
+      "text": "a",
+      "start": 3.54225,
+      "duration": 0.090208
+    },
+    {
+      "text": "tela",
+      "start": 3.65825,
+      "duration": 0.244833
+    },
+    {
+      "text": "coerentes",
+      "start": 3.915958,
+      "duration": 0.721666
+    }
+  ]
+}

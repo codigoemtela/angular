@@ -1,0 +1,63 @@
+{
+  "id": 65,
+  "chapter": "04 A história do Angular e as mudanças de geração",
+  "section": "A evolução depois da reescrita",
+  "speaker": "LIA",
+  "text": "Standalone quer dizer que o componente não depende de ninguém?",
+  "voice": "pt-BR-FranciscaNeural",
+  "rate": "-3%",
+  "pitch": "+0Hz",
+  "audio": "audio/065.mp3",
+  "words": [
+    {
+      "text": "Standalone",
+      "start": 0.101541,
+      "duration": 0.760291
+    },
+    {
+      "text": "quer",
+      "start": 0.87475,
+      "duration": 0.180416
+    },
+    {
+      "text": "dizer",
+      "start": 1.068041,
+      "duration": 0.412375
+    },
+    {
+      "text": "que",
+      "start": 1.493291,
+      "duration": 0.116
+    },
+    {
+      "text": "o",
+      "start": 1.622166,
+      "duration": 0.0515409
+    },
+    {
+      "text": "componente",
+      "start": 1.686583,
+      "duration": 0.670083
+    },
+    {
+      "text": "não",
+      "start": 2.369583,
+      "duration": 0.206166
+    },
+    {
+      "text": "depende",
+      "start": 2.588666,
+      "duration": 0.476791
+    },
+    {
+      "text": "de",
+      "start": 3.078333,
+      "duration": 0.103083
+    },
+    {
+      "text": "ninguém",
+      "start": 3.194333,
+      "duration": 0.463916
+    }
+  ]
+}

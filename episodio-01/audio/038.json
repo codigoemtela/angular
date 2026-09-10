@@ -1,0 +1,253 @@
+{
+  "id": 38,
+  "chapter": "04 A história do Angular e as mudanças de geração",
+  "section": "O início do AngularJS",
+  "speaker": "PROF. RODRIGO",
+  "text": "Para entender essa proposta, vamos voltar à origem do AngularJS. Miško Hevery começou o projeto em 2009. A iniciativa se desenvolveu com a participação do Google e da comunidade. O problema que estamos discutindo já estava presente: construir interfaces interativas e manter a apresentação relacionada aos dados da aplicação.",
+  "voice": "pt-BR-AntonioNeural",
+  "rate": "-10%",
+  "pitch": "+0Hz",
+  "audio": "audio/038.mp3",
+  "words": [
+    {
+      "text": "Para",
+      "start": 0.105541,
+      "duration": 0.194458
+    },
+    {
+      "text": "entender",
+      "start": 0.313875,
+      "duration": 0.458333
+    },
+    {
+      "text": "essa",
+      "start": 0.786125,
+      "duration": 0.208333
+    },
+    {
+      "text": "proposta",
+      "start": 1.008333,
+      "duration": 0.611125
+    },
+    {
+      "text": "vamos",
+      "start": 1.911125,
+      "duration": 0.305541
+    },
+    {
+      "text": "voltar",
+      "start": 2.230541,
+      "duration": 0.458333
+    },
+    {
+      "text": "à",
+      "start": 2.702791,
+      "duration": 0.083333
+    },
+    {
+      "text": "origem",
+      "start": 2.8,
+      "duration": 0.416666
+    },
+    {
+      "text": "do",
+      "start": 3.230541,
+      "duration": 0.125
+    },
+    {
+      "text": "AngularJS",
+      "start": 3.369458,
+      "duration": 1.347208
+    },
+    {
+      "text": "Miško",
+      "start": 5.680541,
+      "duration": 0.388875
+    },
+    {
+      "text": "Hevery",
+      "start": 6.083333,
+      "duration": 0.375
+    },
+    {
+      "text": "começou",
+      "start": 6.472208,
+      "duration": 0.513875
+    },
+    {
+      "text": "o",
+      "start": 7.0,
+      "duration": 0.0416659
+    },
+    {
+      "text": "projeto",
+      "start": 7.055541,
+      "duration": 0.569458
+    },
+    {
+      "text": "em 2009",
+      "start": 7.638875,
+      "duration": 1.055583
+    },
+    {
+      "text": "A",
+      "start": 9.652791,
+      "duration": 0.125
+    },
+    {
+      "text": "iniciativa",
+      "start": 9.791666,
+      "duration": 0.75
+    },
+    {
+      "text": "se",
+      "start": 10.555541,
+      "duration": 0.152791
+    },
+    {
+      "text": "desenvolveu",
+      "start": 10.722208,
+      "duration": 0.708333
+    },
+    {
+      "text": "com",
+      "start": 11.444458,
+      "duration": 0.166666
+    },
+    {
+      "text": "a",
+      "start": 11.625,
+      "duration": 0.0416659
+    },
+    {
+      "text": "participação",
+      "start": 11.680541,
+      "duration": 0.736125
+    },
+    {
+      "text": "do",
+      "start": 12.430541,
+      "duration": 0.138875
+    },
+    {
+      "text": "Google",
+      "start": 12.583333,
+      "duration": 0.458333
+    },
+    {
+      "text": "e",
+      "start": 13.055541,
+      "duration": 0.027791
+    },
+    {
+      "text": "da",
+      "start": 13.097208,
+      "duration": 0.125
+    },
+    {
+      "text": "comunidade",
+      "start": 13.236125,
+      "duration": 0.819458
+    },
+    {
+      "text": "O",
+      "start": 15.013875,
+      "duration": 0.152791
+    },
+    {
+      "text": "problema",
+      "start": 15.180541,
+      "duration": 0.611125
+    },
+    {
+      "text": "que",
+      "start": 15.805541,
+      "duration": 0.097208
+    },
+    {
+      "text": "estamos",
+      "start": 15.916666,
+      "duration": 0.361125
+    },
+    {
+      "text": "discutindo",
+      "start": 16.291666,
+      "duration": 0.625
+    },
+    {
+      "text": "já",
+      "start": 16.930541,
+      "duration": 0.138875
+    },
+    {
+      "text": "estava",
+      "start": 17.083333,
+      "duration": 0.388875
+    },
+    {
+      "text": "presente",
+      "start": 17.486125,
+      "duration": 0.611125
+    },
+    {
+      "text": "construir",
+      "start": 18.444458,
+      "duration": 0.541666
+    },
+    {
+      "text": "interfaces",
+      "start": 19.0,
+      "duration": 0.736125
+    },
+    {
+      "text": "interativas",
+      "start": 19.75,
+      "duration": 0.791666
+    },
+    {
+      "text": "e",
+      "start": 20.555541,
+      "duration": 0.111125
+    },
+    {
+      "text": "manter",
+      "start": 20.680541,
+      "duration": 0.444458
+    },
+    {
+      "text": "a",
+      "start": 21.138875,
+      "duration": 0.0416659
+    },
+    {
+      "text": "apresentação",
+      "start": 21.194458,
+      "duration": 0.722208
+    },
+    {
+      "text": "relacionada",
+      "start": 21.930541,
+      "duration": 0.722208
+    },
+    {
+      "text": "aos",
+      "start": 22.666666,
+      "duration": 0.166666
+    },
+    {
+      "text": "dados",
+      "start": 22.847208,
+      "duration": 0.402791
+    },
+    {
+      "text": "da",
+      "start": 23.263875,
+      "duration": 0.138875
+    },
+    {
+      "text": "aplicação",
+      "start": 23.416666,
+      "duration": 0.722208
+    }
+  ]
+}

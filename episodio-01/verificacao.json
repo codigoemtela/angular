@@ -1,0 +1,21 @@
+{
+  "duration_seconds": 1995.375,
+  "resolution": [
+    1280,
+    720
+  ],
+  "fps": "24/1",
+  "video_codec": "h264",
+  "audio_codec": "aac",
+  "chapters": 8,
+  "speech_blocks": 115,
+  "spoken_words": 3883,
+  "caption_blocks": 434,
+  "thumbnail_hold_seconds": 5,
+  "thumbnail_first_last_mean_pixel_difference": 0.045,
+  "thumbnail_source_mean_pixel_difference": 1.9862,
+  "complete_decode_errors": 0,
+  "video_bytes": 78332265,
+  "video_sha256": "308ee69162aac01bfdd9d35a0a4960c82745ac9645022ce72975c66cae02ec0b",
+  "approved_script_sha256": "d52cecd2019ca7f6bce5f34a71ce8e473e5217afc9191023659a1c1af974cf89"
+}

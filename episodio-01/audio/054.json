@@ -1,0 +1,198 @@
+{
+  "id": 54,
+  "chapter": "04 A história do Angular e as mudanças de geração",
+  "section": "A reescrita que levou ao Angular 2",
+  "speaker": "PROF. RODRIGO",
+  "text": "Não. Havia diferenças nas APIs e na organização do código. Migrar exigia trabalho planejado. A própria equipe do Angular disponibilizou recursos para permitir uma transição gradual, com partes antigas e novas convivendo enquanto a aplicação era adaptada.",
+  "voice": "pt-BR-AntonioNeural",
+  "rate": "-10%",
+  "pitch": "+0Hz",
+  "audio": "audio/054.mp3",
+  "words": [
+    {
+      "text": "Não",
+      "start": 0.105541,
+      "duration": 0.430541
+    },
+    {
+      "text": "Havia",
+      "start": 1.5,
+      "duration": 0.416666
+    },
+    {
+      "text": "diferenças",
+      "start": 1.930541,
+      "duration": 0.736125
+    },
+    {
+      "text": "nas",
+      "start": 2.680541,
+      "duration": 0.138875
+    },
+    {
+      "text": "APIs",
+      "start": 2.833333,
+      "duration": 0.416666
+    },
+    {
+      "text": "e",
+      "start": 3.263875,
+      "duration": 0.111125
+    },
+    {
+      "text": "na",
+      "start": 3.388875,
+      "duration": 0.138875
+    },
+    {
+      "text": "organização",
+      "start": 3.541666,
+      "duration": 0.75
+    },
+    {
+      "text": "do",
+      "start": 4.305541,
+      "duration": 0.125
+    },
+    {
+      "text": "código",
+      "start": 4.444458,
+      "duration": 0.527791
+    },
+    {
+      "text": "Migrar",
+      "start": 5.930541,
+      "duration": 0.458333
+    },
+    {
+      "text": "exigia",
+      "start": 6.402791,
+      "duration": 0.430541
+    },
+    {
+      "text": "trabalho",
+      "start": 6.847208,
+      "duration": 0.486125
+    },
+    {
+      "text": "planejado",
+      "start": 7.347208,
+      "duration": 0.736125
+    },
+    {
+      "text": "A",
+      "start": 9.041666,
+      "duration": 0.166666
+    },
+    {
+      "text": "própria",
+      "start": 9.222208,
+      "duration": 0.416666
+    },
+    {
+      "text": "equipe",
+      "start": 9.652791,
+      "duration": 0.416666
+    },
+    {
+      "text": "do",
+      "start": 10.083333,
+      "duration": 0.111125
+    },
+    {
+      "text": "Angular",
+      "start": 10.208333,
+      "duration": 0.458333
+    },
+    {
+      "text": "disponibilizou",
+      "start": 10.680541,
+      "duration": 0.833333
+    },
+    {
+      "text": "recursos",
+      "start": 11.527791,
+      "duration": 0.638875
+    },
+    {
+      "text": "para",
+      "start": 12.180541,
+      "duration": 0.222208
+    },
+    {
+      "text": "permitir",
+      "start": 12.416666,
+      "duration": 0.472208
+    },
+    {
+      "text": "uma",
+      "start": 12.902791,
+      "duration": 0.152791
+    },
+    {
+      "text": "transição",
+      "start": 13.069458,
+      "duration": 0.5
+    },
+    {
+      "text": "gradual",
+      "start": 13.583333,
+      "duration": 0.583333
+    },
+    {
+      "text": "com",
+      "start": 14.541666,
+      "duration": 0.222208
+    },
+    {
+      "text": "partes",
+      "start": 14.777791,
+      "duration": 0.402791
+    },
+    {
+      "text": "antigas",
+      "start": 15.194458,
+      "duration": 0.527791
+    },
+    {
+      "text": "e",
+      "start": 15.736125,
+      "duration": 0.125
+    },
+    {
+      "text": "novas",
+      "start": 15.875,
+      "duration": 0.402791
+    },
+    {
+      "text": "convivendo",
+      "start": 16.291666,
+      "duration": 0.625
+    },
+    {
+      "text": "enquanto",
+      "start": 16.930541,
+      "duration": 0.430541
+    },
+    {
+      "text": "a",
+      "start": 17.375,
+      "duration": 0.027791
+    },
+    {
+      "text": "aplicação",
+      "start": 17.416666,
+      "duration": 0.638875
+    },
+    {
+      "text": "era",
+      "start": 18.069458,
+      "duration": 0.111125
+    },
+    {
+      "text": "adaptada",
+      "start": 18.194458,
+      "duration": 0.680541
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "id": 39,
+  "chapter": "04 A história do Angular e as mudanças de geração",
+  "section": "O início do AngularJS",
+  "speaker": "CAIO",
+  "text": "Era a época em que muita gente usava jQuery para encontrar elementos e responder aos cliques.",
+  "voice": "pt-BR-AntonioNeural",
+  "rate": "+1%",
+  "pitch": "+14Hz",
+  "audio": "audio/039.mp3",
+  "words": [
+    {
+      "text": "Era",
+      "start": 0.0995,
+      "duration": 0.235166
+    },
+    {
+      "text": "a",
+      "start": 0.347041,
+      "duration": 0.0495
+    },
+    {
+      "text": "época",
+      "start": 0.408916,
+      "duration": 0.371291
+    },
+    {
+      "text": "em",
+      "start": 0.792583,
+      "duration": 0.061875
+    },
+    {
+      "text": "que",
+      "start": 0.866833,
+      "duration": 0.111375
+    },
+    {
+      "text": "muita",
+      "start": 0.990583,
+      "duration": 0.383666
+    },
+    {
+      "text": "gente",
+      "start": 1.386625,
+      "duration": 0.284666
+    },
+    {
+      "text": "usava",
+      "start": 1.683666,
+      "duration": 0.321791
+    },
+    {
+      "text": "jQuery",
+      "start": 2.017833,
+      "duration": 0.643583
+    },
+    {
+      "text": "para",
+      "start": 2.67375,
+      "duration": 0.1485
+    },
+    {
+      "text": "encontrar",
+      "start": 2.834666,
+      "duration": 0.408416
+    },
+    {
+      "text": "elementos",
+      "start": 3.255458,
+      "duration": 0.507416
+    },
+    {
+      "text": "e",
+      "start": 3.77525,
+      "duration": 0.086625
+    },
+    {
+      "text": "responder",
+      "start": 3.87425,
+      "duration": 0.495041
+    },
+    {
+      "text": "aos",
+      "start": 4.381666,
+      "duration": 0.185625
+    },
+    {
+      "text": "cliques",
+      "start": 4.579708,
+      "duration": 0.519791
+    }
+  ]
+}

@@ -1,0 +1,243 @@
+{
+  "id": 69,
+  "chapter": "04 A história do Angular e as mudanças de geração",
+  "section": "A evolução depois da reescrita",
+  "speaker": "PROF. RODRIGO",
+  "text": "Sim. E no mesmo ano, Angular 17 apresentou uma nova sintaxe para condições e repetições nos templates, inicialmente como prévia, além da nova documentação em angular ponto dev. São mudanças na experiência de escrever e aprender Angular. Não precisamos percorrer todas as versões para reconhecer essa direção.",
+  "voice": "pt-BR-AntonioNeural",
+  "rate": "-10%",
+  "pitch": "+0Hz",
+  "audio": "audio/069.mp3",
+  "words": [
+    {
+      "text": "Sim",
+      "start": 0.105541,
+      "duration": 0.472208
+    },
+    {
+      "text": "E",
+      "start": 1.541666,
+      "duration": 0.111125
+    },
+    {
+      "text": "no",
+      "start": 1.666666,
+      "duration": 0.125
+    },
+    {
+      "text": "mesmo",
+      "start": 1.805541,
+      "duration": 0.402791
+    },
+    {
+      "text": "ano",
+      "start": 2.222208,
+      "duration": 0.277791
+    },
+    {
+      "text": "Angular",
+      "start": 2.736125,
+      "duration": 0.555541
+    },
+    {
+      "text": "17 apresentou",
+      "start": 3.305541,
+      "duration": 1.152791
+    },
+    {
+      "text": "uma",
+      "start": 4.472208,
+      "duration": 0.152791
+    },
+    {
+      "text": "nova",
+      "start": 4.638875,
+      "duration": 0.333333
+    },
+    {
+      "text": "sintaxe",
+      "start": 4.986125,
+      "duration": 0.652791
+    },
+    {
+      "text": "para",
+      "start": 5.652791,
+      "duration": 0.208333
+    },
+    {
+      "text": "condições",
+      "start": 5.875,
+      "duration": 0.597208
+    },
+    {
+      "text": "e",
+      "start": 6.486125,
+      "duration": 0.111125
+    },
+    {
+      "text": "repetições",
+      "start": 6.611125,
+      "duration": 0.75
+    },
+    {
+      "text": "nos",
+      "start": 7.375,
+      "duration": 0.166666
+    },
+    {
+      "text": "templates",
+      "start": 7.555541,
+      "duration": 0.722208
+    },
+    {
+      "text": "inicialmente",
+      "start": 8.611125,
+      "duration": 0.680541
+    },
+    {
+      "text": "como",
+      "start": 9.305541,
+      "duration": 0.263875
+    },
+    {
+      "text": "prévia",
+      "start": 9.583333,
+      "duration": 0.444458
+    },
+    {
+      "text": "além",
+      "start": 10.388875,
+      "duration": 0.333333
+    },
+    {
+      "text": "da",
+      "start": 10.736125,
+      "duration": 0.125
+    },
+    {
+      "text": "nova",
+      "start": 10.875,
+      "duration": 0.319458
+    },
+    {
+      "text": "documentação",
+      "start": 11.208333,
+      "duration": 0.805541
+    },
+    {
+      "text": "em",
+      "start": 12.027791,
+      "duration": 0.111125
+    },
+    {
+      "text": "angular",
+      "start": 12.152791,
+      "duration": 0.486125
+    },
+    {
+      "text": "ponto",
+      "start": 12.652791,
+      "duration": 0.416666
+    },
+    {
+      "text": "dev.",
+      "start": 13.083333,
+      "duration": 0.375
+    },
+    {
+      "text": "São",
+      "start": 14.416666,
+      "duration": 0.305541
+    },
+    {
+      "text": "mudanças",
+      "start": 14.736125,
+      "duration": 0.666666
+    },
+    {
+      "text": "na",
+      "start": 15.416666,
+      "duration": 0.069458
+    },
+    {
+      "text": "experiência",
+      "start": 15.5,
+      "duration": 0.722208
+    },
+    {
+      "text": "de",
+      "start": 16.236125,
+      "duration": 0.111125
+    },
+    {
+      "text": "escrever",
+      "start": 16.361125,
+      "duration": 0.555541
+    },
+    {
+      "text": "e",
+      "start": 16.930541,
+      "duration": 0.0416659
+    },
+    {
+      "text": "aprender",
+      "start": 16.986125,
+      "duration": 0.486125
+    },
+    {
+      "text": "Angular",
+      "start": 17.486125,
+      "duration": 0.513875
+    },
+    {
+      "text": "Não",
+      "start": 18.958333,
+      "duration": 0.277791
+    },
+    {
+      "text": "precisamos",
+      "start": 19.25,
+      "duration": 0.694458
+    },
+    {
+      "text": "percorrer",
+      "start": 19.958333,
+      "duration": 0.597208
+    },
+    {
+      "text": "todas",
+      "start": 20.569458,
+      "duration": 0.375
+    },
+    {
+      "text": "as",
+      "start": 20.958333,
+      "duration": 0.194458
+    },
+    {
+      "text": "versões",
+      "start": 21.166666,
+      "duration": 0.541666
+    },
+    {
+      "text": "para",
+      "start": 21.722208,
+      "duration": 0.194458
+    },
+    {
+      "text": "reconhecer",
+      "start": 21.930541,
+      "duration": 0.638875
+    },
+    {
+      "text": "essa",
+      "start": 22.583333,
+      "duration": 0.222208
+    },
+    {
+      "text": "direção",
+      "start": 22.819458,
+      "duration": 0.597208
+    }
+  ]
+}

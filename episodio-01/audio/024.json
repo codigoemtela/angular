@@ -1,0 +1,243 @@
+{
+  "id": 24,
+  "chapter": "03 O que fica difícil quando a interface cresce",
+  "section": "A tela também precisa representar a espera",
+  "speaker": "PROF. RODRIGO",
+  "text": "Poderia. O cuidado é manter essas atualizações corretas em todos os caminhos. No sucesso, o indicador de espera precisa parar. No erro, também. Ao tentar novamente, a mensagem anterior precisa ser tratada. Conforme surgem mais interações, cresce a quantidade de relações que o código precisa expressar.",
+  "voice": "pt-BR-AntonioNeural",
+  "rate": "-10%",
+  "pitch": "+0Hz",
+  "audio": "audio/024.mp3",
+  "words": [
+    {
+      "text": "Poderia",
+      "start": 0.105541,
+      "duration": 0.708333
+    },
+    {
+      "text": "O",
+      "start": 1.777791,
+      "duration": 0.125
+    },
+    {
+      "text": "cuidado",
+      "start": 1.916666,
+      "duration": 0.611125
+    },
+    {
+      "text": "é",
+      "start": 2.541666,
+      "duration": 0.0416659
+    },
+    {
+      "text": "manter",
+      "start": 2.597208,
+      "duration": 0.388875
+    },
+    {
+      "text": "essas",
+      "start": 3.0,
+      "duration": 0.222208
+    },
+    {
+      "text": "atualizações",
+      "start": 3.236125,
+      "duration": 0.819458
+    },
+    {
+      "text": "corretas",
+      "start": 4.069458,
+      "duration": 0.541666
+    },
+    {
+      "text": "em",
+      "start": 4.625,
+      "duration": 0.236125
+    },
+    {
+      "text": "todos",
+      "start": 4.875,
+      "duration": 0.347208
+    },
+    {
+      "text": "os",
+      "start": 5.236125,
+      "duration": 0.166666
+    },
+    {
+      "text": "caminhos",
+      "start": 5.416666,
+      "duration": 0.666666
+    },
+    {
+      "text": "No",
+      "start": 7.041666,
+      "duration": 0.194458
+    },
+    {
+      "text": "sucesso",
+      "start": 7.25,
+      "duration": 0.708333
+    },
+    {
+      "text": "o",
+      "start": 8.194458,
+      "duration": 0.083333
+    },
+    {
+      "text": "indicador",
+      "start": 8.291666,
+      "duration": 0.625
+    },
+    {
+      "text": "de",
+      "start": 8.930541,
+      "duration": 0.097208
+    },
+    {
+      "text": "espera",
+      "start": 9.041666,
+      "duration": 0.375
+    },
+    {
+      "text": "precisa",
+      "start": 9.430541,
+      "duration": 0.513875
+    },
+    {
+      "text": "parar",
+      "start": 9.958333,
+      "duration": 0.361125
+    },
+    {
+      "text": "No",
+      "start": 11.277791,
+      "duration": 0.277791
+    },
+    {
+      "text": "erro",
+      "start": 11.569458,
+      "duration": 0.333333
+    },
+    {
+      "text": "também",
+      "start": 12.111125,
+      "duration": 0.555541
+    },
+    {
+      "text": "Ao",
+      "start": 13.625,
+      "duration": 0.208333
+    },
+    {
+      "text": "tentar",
+      "start": 13.847208,
+      "duration": 0.472208
+    },
+    {
+      "text": "novamente",
+      "start": 14.333333,
+      "duration": 0.694458
+    },
+    {
+      "text": "a",
+      "start": 15.236125,
+      "duration": 0.069458
+    },
+    {
+      "text": "mensagem",
+      "start": 15.319458,
+      "duration": 0.666666
+    },
+    {
+      "text": "anterior",
+      "start": 16.0,
+      "duration": 0.513875
+    },
+    {
+      "text": "precisa",
+      "start": 16.527791,
+      "duration": 0.472208
+    },
+    {
+      "text": "ser",
+      "start": 17.013875,
+      "duration": 0.222208
+    },
+    {
+      "text": "tratada",
+      "start": 17.25,
+      "duration": 0.569458
+    },
+    {
+      "text": "Conforme",
+      "start": 18.777791,
+      "duration": 0.638875
+    },
+    {
+      "text": "surgem",
+      "start": 19.430541,
+      "duration": 0.430541
+    },
+    {
+      "text": "mais",
+      "start": 19.875,
+      "duration": 0.236125
+    },
+    {
+      "text": "interações",
+      "start": 20.125,
+      "duration": 0.847208
+    },
+    {
+      "text": "cresce",
+      "start": 21.208333,
+      "duration": 0.375
+    },
+    {
+      "text": "a",
+      "start": 21.597208,
+      "duration": 0.0416659
+    },
+    {
+      "text": "quantidade",
+      "start": 21.652791,
+      "duration": 0.666666
+    },
+    {
+      "text": "de",
+      "start": 22.333333,
+      "duration": 0.111125
+    },
+    {
+      "text": "relações",
+      "start": 22.458333,
+      "duration": 0.638875
+    },
+    {
+      "text": "que",
+      "start": 23.111125,
+      "duration": 0.069458
+    },
+    {
+      "text": "o",
+      "start": 23.194458,
+      "duration": 0.055541
+    },
+    {
+      "text": "código",
+      "start": 23.263875,
+      "duration": 0.444458
+    },
+    {
+      "text": "precisa",
+      "start": 23.722208,
+      "duration": 0.430541
+    },
+    {
+      "text": "expressar",
+      "start": 24.166666,
+      "duration": 0.597208
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "id": 17,
+  "chapter": "03 O que fica difícil quando a interface cresce",
+  "section": "A tela também precisa representar a espera",
+  "speaker": "LIA",
+  "text": "Então clicar em enviar começa uma conversa entre essas partes.",
+  "voice": "pt-BR-FranciscaNeural",
+  "rate": "-3%",
+  "pitch": "+0Hz",
+  "audio": "audio/017.mp3",
+  "words": [
+    {
+      "text": "Então",
+      "start": 0.101541,
+      "duration": 0.347958
+    },
+    {
+      "text": "clicar",
+      "start": 0.462375,
+      "duration": 0.386583
+    },
+    {
+      "text": "em",
+      "start": 0.861875,
+      "duration": 0.128875
+    },
+    {
+      "text": "enviar",
+      "start": 1.003625,
+      "duration": 0.373708
+    },
+    {
+      "text": "começa",
+      "start": 1.403083,
+      "duration": 0.476791
+    },
+    {
+      "text": "uma",
+      "start": 1.892791,
+      "duration": 0.14175
+    },
+    {
+      "text": "conversa",
+      "start": 2.047416,
+      "duration": 0.592791
+    },
+    {
+      "text": "entre",
+      "start": 2.653083,
+      "duration": 0.206166
+    },
+    {
+      "text": "essas",
+      "start": 2.872166,
+      "duration": 0.322166
+    },
+    {
+      "text": "partes",
+      "start": 3.207208,
+      "duration": 0.631458
+    }
+  ]
+}

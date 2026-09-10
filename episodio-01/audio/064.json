@@ -1,0 +1,198 @@
+{
+  "id": 64,
+  "chapter": "04 A história do Angular e as mudanças de geração",
+  "section": "A evolução depois da reescrita",
+  "speaker": "PROF. RODRIGO",
+  "text": "Em 2022, Angular 14 apresentou os componentes standalone como uma prévia. Angular 15 tornou essas APIs estáveis. A proposta foi reduzir a necessidade de NgModules na composição das aplicações. Isso permitiu declarar dependências de componentes de uma maneira mais direta.",
+  "voice": "pt-BR-AntonioNeural",
+  "rate": "-10%",
+  "pitch": "+0Hz",
+  "audio": "audio/064.mp3",
+  "words": [
+    {
+      "text": "Em 2022",
+      "start": 0.105541,
+      "duration": 1.236125
+    },
+    {
+      "text": "Angular",
+      "start": 1.633333,
+      "duration": 0.555541
+    },
+    {
+      "text": "14 apresentou",
+      "start": 2.202791,
+      "duration": 1.236125
+    },
+    {
+      "text": "os",
+      "start": 3.452791,
+      "duration": 0.138875
+    },
+    {
+      "text": "componentes",
+      "start": 3.605541,
+      "duration": 0.722208
+    },
+    {
+      "text": "standalone",
+      "start": 4.341666,
+      "duration": 0.694458
+    },
+    {
+      "text": "como",
+      "start": 5.05,
+      "duration": 0.25
+    },
+    {
+      "text": "uma",
+      "start": 5.313875,
+      "duration": 0.208333
+    },
+    {
+      "text": "prévia",
+      "start": 5.536125,
+      "duration": 0.444458
+    },
+    {
+      "text": "Angular",
+      "start": 6.944458,
+      "duration": 0.597208
+    },
+    {
+      "text": "15 tornou",
+      "start": 7.555541,
+      "duration": 0.8333339
+    },
+    {
+      "text": "essas",
+      "start": 8.402791,
+      "duration": 0.263875
+    },
+    {
+      "text": "APIs",
+      "start": 8.680541,
+      "duration": 0.347208
+    },
+    {
+      "text": "estáveis",
+      "start": 9.041666,
+      "duration": 0.805541
+    },
+    {
+      "text": "A",
+      "start": 10.805541,
+      "duration": 0.111125
+    },
+    {
+      "text": "proposta",
+      "start": 10.930541,
+      "duration": 0.680541
+    },
+    {
+      "text": "foi",
+      "start": 11.625,
+      "duration": 0.152791
+    },
+    {
+      "text": "reduzir",
+      "start": 11.791666,
+      "duration": 0.472208
+    },
+    {
+      "text": "a",
+      "start": 12.277791,
+      "duration": 0.027791
+    },
+    {
+      "text": "necessidade",
+      "start": 12.319458,
+      "duration": 0.763875
+    },
+    {
+      "text": "de",
+      "start": 13.097208,
+      "duration": 0.111125
+    },
+    {
+      "text": "NgModules",
+      "start": 13.222208,
+      "duration": 0.986125
+    },
+    {
+      "text": "na",
+      "start": 14.222208,
+      "duration": 0.111125
+    },
+    {
+      "text": "composição",
+      "start": 14.347208,
+      "duration": 0.75
+    },
+    {
+      "text": "das",
+      "start": 15.111125,
+      "duration": 0.097208
+    },
+    {
+      "text": "aplicações",
+      "start": 15.222208,
+      "duration": 1.013875
+    },
+    {
+      "text": "Isso",
+      "start": 17.194458,
+      "duration": 0.361125
+    },
+    {
+      "text": "permitiu",
+      "start": 17.569458,
+      "duration": 0.486125
+    },
+    {
+      "text": "declarar",
+      "start": 18.069458,
+      "duration": 0.513875
+    },
+    {
+      "text": "dependências",
+      "start": 18.597208,
+      "duration": 0.763875
+    },
+    {
+      "text": "de",
+      "start": 19.375,
+      "duration": 0.083333
+    },
+    {
+      "text": "componentes",
+      "start": 19.472208,
+      "duration": 0.722208
+    },
+    {
+      "text": "de",
+      "start": 20.208333,
+      "duration": 0.069458
+    },
+    {
+      "text": "uma",
+      "start": 20.291666,
+      "duration": 0.111125
+    },
+    {
+      "text": "maneira",
+      "start": 20.416666,
+      "duration": 0.444458
+    },
+    {
+      "text": "mais",
+      "start": 20.875,
+      "duration": 0.277791
+    },
+    {
+      "text": "direta",
+      "start": 21.166666,
+      "duration": 0.541666
+    }
+  ]
+}

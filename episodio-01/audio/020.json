@@ -1,0 +1,78 @@
+{
+  "id": 20,
+  "chapter": "03 O que fica difícil quando a interface cresce",
+  "section": "A tela também precisa representar a espera",
+  "speaker": "LIA",
+  "text": "Podemos mudar o texto do botão para Enviando e evitar um segundo clique.",
+  "voice": "pt-BR-FranciscaNeural",
+  "rate": "-3%",
+  "pitch": "+0Hz",
+  "audio": "audio/020.mp3",
+  "words": [
+    {
+      "text": "Podemos",
+      "start": 0.101541,
+      "duration": 0.489708
+    },
+    {
+      "text": "mudar",
+      "start": 0.604125,
+      "duration": 0.335041
+    },
+    {
+      "text": "o",
+      "start": 0.952041,
+      "duration": 0.064416
+    },
+    {
+      "text": "texto",
+      "start": 1.029375,
+      "duration": 0.386583
+    },
+    {
+      "text": "do",
+      "start": 1.428875,
+      "duration": 0.103083
+    },
+    {
+      "text": "botão",
+      "start": 1.544833,
+      "duration": 0.438125
+    },
+    {
+      "text": "para",
+      "start": 1.995875,
+      "duration": 0.180416
+    },
+    {
+      "text": "Enviando",
+      "start": 2.189166,
+      "duration": 0.592791
+    },
+    {
+      "text": "e",
+      "start": 2.794833,
+      "duration": 0.077333
+    },
+    {
+      "text": "evitar",
+      "start": 2.885041,
+      "duration": 0.412375
+    },
+    {
+      "text": "um",
+      "start": 3.310291,
+      "duration": 0.064416
+    },
+    {
+      "text": "segundo",
+      "start": 3.387625,
+      "duration": 0.451041
+    },
+    {
+      "text": "clique",
+      "start": 3.851541,
+      "duration": 0.463916
+    }
+  ]
+}

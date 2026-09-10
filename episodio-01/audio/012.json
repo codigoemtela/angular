@@ -1,0 +1,208 @@
+{
+  "id": 12,
+  "chapter": "02 Como vamos aprender nesta formação",
+  "section": "02 Como vamos aprender nesta formação",
+  "speaker": "PROF. RODRIGO",
+  "text": "Se funções, objetos, eventos ou organização de uma página ainda forem assuntos novos, reserve tempo para essa base. Você pode avançar no seu ritmo. Compreender o JavaScript vai ajudar muito quando chegarmos ao TypeScript e ao comportamento dos componentes.",
+  "voice": "pt-BR-AntonioNeural",
+  "rate": "-10%",
+  "pitch": "+0Hz",
+  "audio": "audio/012.mp3",
+  "words": [
+    {
+      "text": "Se",
+      "start": 0.105541,
+      "duration": 0.25
+    },
+    {
+      "text": "funções",
+      "start": 0.369458,
+      "duration": 0.611125
+    },
+    {
+      "text": "objetos",
+      "start": 1.286125,
+      "duration": 0.75
+    },
+    {
+      "text": "eventos",
+      "start": 2.383333,
+      "duration": 0.513875
+    },
+    {
+      "text": "ou",
+      "start": 2.911125,
+      "duration": 0.166666
+    },
+    {
+      "text": "organização",
+      "start": 3.091666,
+      "duration": 0.763875
+    },
+    {
+      "text": "de",
+      "start": 3.869458,
+      "duration": 0.083333
+    },
+    {
+      "text": "uma",
+      "start": 3.966666,
+      "duration": 0.194458
+    },
+    {
+      "text": "página",
+      "start": 4.175,
+      "duration": 0.416666
+    },
+    {
+      "text": "ainda",
+      "start": 4.605541,
+      "duration": 0.333333
+    },
+    {
+      "text": "forem",
+      "start": 4.952791,
+      "duration": 0.291666
+    },
+    {
+      "text": "assuntos",
+      "start": 5.258333,
+      "duration": 0.527791
+    },
+    {
+      "text": "novos",
+      "start": 5.8,
+      "duration": 0.513875
+    },
+    {
+      "text": "reserve",
+      "start": 6.577791,
+      "duration": 0.555541
+    },
+    {
+      "text": "tempo",
+      "start": 7.147208,
+      "duration": 0.361125
+    },
+    {
+      "text": "para",
+      "start": 7.522208,
+      "duration": 0.208333
+    },
+    {
+      "text": "essa",
+      "start": 7.744458,
+      "duration": 0.263875
+    },
+    {
+      "text": "base",
+      "start": 8.022208,
+      "duration": 0.458333
+    },
+    {
+      "text": "Você",
+      "start": 9.444458,
+      "duration": 0.333333
+    },
+    {
+      "text": "pode",
+      "start": 9.791666,
+      "duration": 0.319458
+    },
+    {
+      "text": "avançar",
+      "start": 10.125,
+      "duration": 0.555541
+    },
+    {
+      "text": "no",
+      "start": 10.694458,
+      "duration": 0.125
+    },
+    {
+      "text": "seu",
+      "start": 10.833333,
+      "duration": 0.236125
+    },
+    {
+      "text": "ritmo",
+      "start": 11.083333,
+      "duration": 0.486125
+    },
+    {
+      "text": "Compreender",
+      "start": 12.527791,
+      "duration": 0.694458
+    },
+    {
+      "text": "o",
+      "start": 13.236125,
+      "duration": 0.027791
+    },
+    {
+      "text": "JavaScript",
+      "start": 13.277791,
+      "duration": 0.902791
+    },
+    {
+      "text": "vai",
+      "start": 14.194458,
+      "duration": 0.138875
+    },
+    {
+      "text": "ajudar",
+      "start": 14.347208,
+      "duration": 0.388875
+    },
+    {
+      "text": "muito",
+      "start": 14.75,
+      "duration": 0.430541
+    },
+    {
+      "text": "quando",
+      "start": 15.194458,
+      "duration": 0.208333
+    },
+    {
+      "text": "chegarmos",
+      "start": 15.416666,
+      "duration": 0.527791
+    },
+    {
+      "text": "ao",
+      "start": 15.958333,
+      "duration": 0.180541
+    },
+    {
+      "text": "TypeScript",
+      "start": 16.152791,
+      "duration": 0.888875
+    },
+    {
+      "text": "e",
+      "start": 17.055541,
+      "duration": 0.013875
+    },
+    {
+      "text": "ao",
+      "start": 17.083333,
+      "duration": 0.083333
+    },
+    {
+      "text": "comportamento",
+      "start": 17.180541,
+      "duration": 0.763875
+    },
+    {
+      "text": "dos",
+      "start": 17.958333,
+      "duration": 0.194458
+    },
+    {
+      "text": "componentes",
+      "start": 18.166666,
+      "duration": 0.847208
+    }
+  ]
+}

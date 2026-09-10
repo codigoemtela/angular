@@ -1,0 +1,228 @@
+{
+  "id": 91,
+  "chapter": "05 Como o Angular ajuda a organizar nossa central",
+  "section": "Navegação e ferramentas que trabalham juntas",
+  "speaker": "PROF. RODRIGO",
+  "text": "Ele também oferece renderização no servidor e geração de páginas estáticas. A estratégia depende do produto. Nossa primeira preocupação será compreender a interface interativa da central. Depois podemos avaliar as necessidades de publicação sem confundir Angular com uma única forma de entregar páginas.",
+  "voice": "pt-BR-AntonioNeural",
+  "rate": "-10%",
+  "pitch": "+0Hz",
+  "audio": "audio/091.mp3",
+  "words": [
+    {
+      "text": "Ele",
+      "start": 0.105541,
+      "duration": 0.263875
+    },
+    {
+      "text": "também",
+      "start": 0.383333,
+      "duration": 0.416666
+    },
+    {
+      "text": "oferece",
+      "start": 0.813875,
+      "duration": 0.541666
+    },
+    {
+      "text": "renderização",
+      "start": 1.369458,
+      "duration": 0.819458
+    },
+    {
+      "text": "no",
+      "start": 2.202791,
+      "duration": 0.111125
+    },
+    {
+      "text": "servidor",
+      "start": 2.327791,
+      "duration": 0.638875
+    },
+    {
+      "text": "e",
+      "start": 2.980541,
+      "duration": 0.027791
+    },
+    {
+      "text": "geração",
+      "start": 3.022208,
+      "duration": 0.513875
+    },
+    {
+      "text": "de",
+      "start": 3.55,
+      "duration": 0.138875
+    },
+    {
+      "text": "páginas",
+      "start": 3.702791,
+      "duration": 0.458333
+    },
+    {
+      "text": "estáticas",
+      "start": 4.175,
+      "duration": 0.902791
+    },
+    {
+      "text": "A",
+      "start": 6.041666,
+      "duration": 0.138875
+    },
+    {
+      "text": "estratégia",
+      "start": 6.194458,
+      "duration": 0.694458
+    },
+    {
+      "text": "depende",
+      "start": 6.902791,
+      "duration": 0.472208
+    },
+    {
+      "text": "do",
+      "start": 7.388875,
+      "duration": 0.138875
+    },
+    {
+      "text": "produto",
+      "start": 7.541666,
+      "duration": 0.569458
+    },
+    {
+      "text": "Nossa",
+      "start": 9.069458,
+      "duration": 0.402791
+    },
+    {
+      "text": "primeira",
+      "start": 9.486125,
+      "duration": 0.388875
+    },
+    {
+      "text": "preocupação",
+      "start": 9.888875,
+      "duration": 0.777791
+    },
+    {
+      "text": "será",
+      "start": 10.680541,
+      "duration": 0.263875
+    },
+    {
+      "text": "compreender",
+      "start": 10.958333,
+      "duration": 0.597208
+    },
+    {
+      "text": "a",
+      "start": 11.569458,
+      "duration": 0.0416659
+    },
+    {
+      "text": "interface",
+      "start": 11.625,
+      "duration": 0.722208
+    },
+    {
+      "text": "interativa",
+      "start": 12.361125,
+      "duration": 0.652791
+    },
+    {
+      "text": "da",
+      "start": 13.027791,
+      "duration": 0.097208
+    },
+    {
+      "text": "central",
+      "start": 13.138875,
+      "duration": 0.555541
+    },
+    {
+      "text": "Depois",
+      "start": 14.652791,
+      "duration": 0.513875
+    },
+    {
+      "text": "podemos",
+      "start": 15.180541,
+      "duration": 0.416666
+    },
+    {
+      "text": "avaliar",
+      "start": 15.611125,
+      "duration": 0.597208
+    },
+    {
+      "text": "as",
+      "start": 16.222208,
+      "duration": 0.125
+    },
+    {
+      "text": "necessidades",
+      "start": 16.361125,
+      "duration": 0.819458
+    },
+    {
+      "text": "de",
+      "start": 17.194458,
+      "duration": 0.097208
+    },
+    {
+      "text": "publicação",
+      "start": 17.305541,
+      "duration": 0.694458
+    },
+    {
+      "text": "sem",
+      "start": 18.013875,
+      "duration": 0.222208
+    },
+    {
+      "text": "confundir",
+      "start": 18.25,
+      "duration": 0.555541
+    },
+    {
+      "text": "Angular",
+      "start": 18.819458,
+      "duration": 0.486125
+    },
+    {
+      "text": "com",
+      "start": 19.319458,
+      "duration": 0.180541
+    },
+    {
+      "text": "uma",
+      "start": 19.513875,
+      "duration": 0.166666
+    },
+    {
+      "text": "única",
+      "start": 19.694458,
+      "duration": 0.458333
+    },
+    {
+      "text": "forma",
+      "start": 20.166666,
+      "duration": 0.430541
+    },
+    {
+      "text": "de",
+      "start": 20.611125,
+      "duration": 0.083333
+    },
+    {
+      "text": "entregar",
+      "start": 20.708333,
+      "duration": 0.5
+    },
+    {
+      "text": "páginas",
+      "start": 21.222208,
+      "duration": 0.694458
+    }
+  ]
+}

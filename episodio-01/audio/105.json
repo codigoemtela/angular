@@ -1,0 +1,238 @@
+{
+  "id": 105,
+  "chapter": "07 Sua primeira análise de uma demanda",
+  "section": "07 Sua primeira análise de uma demanda",
+  "speaker": "LIA",
+  "text": "A tela afirmou que o pedido estava registrado antes de receber a confirmação. Durante a espera, eu mostraria que o envio está em andamento. E manteria o texto disponível se o registro falhasse, para a pessoa poder corrigir ou tentar de novo conforme a orientação.",
+  "voice": "pt-BR-FranciscaNeural",
+  "rate": "-3%",
+  "pitch": "+0Hz",
+  "audio": "audio/105.mp3",
+  "words": [
+    {
+      "text": "A",
+      "start": 0.101541,
+      "duration": 0.128875
+    },
+    {
+      "text": "tela",
+      "start": 0.243291,
+      "duration": 0.244833
+    },
+    {
+      "text": "afirmou",
+      "start": 0.501041,
+      "duration": 0.463916
+    },
+    {
+      "text": "que",
+      "start": 0.977833,
+      "duration": 0.090208
+    },
+    {
+      "text": "o",
+      "start": 1.080916,
+      "duration": 0.0386659
+    },
+    {
+      "text": "pedido",
+      "start": 1.132458,
+      "duration": 0.438125
+    },
+    {
+      "text": "estava",
+      "start": 1.5835,
+      "duration": 0.335041
+    },
+    {
+      "text": "registrado",
+      "start": 1.931458,
+      "duration": 0.734541
+    },
+    {
+      "text": "antes",
+      "start": 2.704625,
+      "duration": 0.309291
+    },
+    {
+      "text": "de",
+      "start": 3.026791,
+      "duration": 0.077333
+    },
+    {
+      "text": "receber",
+      "start": 3.117,
+      "duration": 0.451041
+    },
+    {
+      "text": "a",
+      "start": 3.580916,
+      "duration": 0.0515409
+    },
+    {
+      "text": "confirmação",
+      "start": 3.645375,
+      "duration": 0.811875
+    },
+    {
+      "text": "Durante",
+      "start": 4.729375,
+      "duration": 0.412375
+    },
+    {
+      "text": "a",
+      "start": 5.154625,
+      "duration": 0.025791
+    },
+    {
+      "text": "espera",
+      "start": 5.193291,
+      "duration": 0.515458
+    },
+    {
+      "text": "eu",
+      "start": 5.863416,
+      "duration": 0.077333
+    },
+    {
+      "text": "mostraria",
+      "start": 5.953625,
+      "duration": 0.631458
+    },
+    {
+      "text": "que",
+      "start": 6.597958,
+      "duration": 0.116
+    },
+    {
+      "text": "o",
+      "start": 6.726791,
+      "duration": 0.0515409
+    },
+    {
+      "text": "envio",
+      "start": 6.79125,
+      "duration": 0.335041
+    },
+    {
+      "text": "está",
+      "start": 7.139166,
+      "duration": 0.270625
+    },
+    {
+      "text": "em",
+      "start": 7.422666,
+      "duration": 0.116
+    },
+    {
+      "text": "andamento",
+      "start": 7.551541,
+      "duration": 0.631458
+    },
+    {
+      "text": "E",
+      "start": 8.453625,
+      "duration": 0.090208
+    },
+    {
+      "text": "manteria",
+      "start": 8.556708,
+      "duration": 0.476791
+    },
+    {
+      "text": "o",
+      "start": 9.046375,
+      "duration": 0.064416
+    },
+    {
+      "text": "texto",
+      "start": 9.123708,
+      "duration": 0.373708
+    },
+    {
+      "text": "disponível",
+      "start": 9.510291,
+      "duration": 0.695875
+    },
+    {
+      "text": "se",
+      "start": 10.219083,
+      "duration": 0.128875
+    },
+    {
+      "text": "o",
+      "start": 10.360833,
+      "duration": 0.0386659
+    },
+    {
+      "text": "registro",
+      "start": 10.412375,
+      "duration": 0.502583
+    },
+    {
+      "text": "falhasse",
+      "start": 10.927833,
+      "duration": 0.605666
+    },
+    {
+      "text": "para",
+      "start": 11.67525,
+      "duration": 0.154625
+    },
+    {
+      "text": "a",
+      "start": 11.842791,
+      "duration": 0.0386659
+    },
+    {
+      "text": "pessoa",
+      "start": 11.894333,
+      "duration": 0.373708
+    },
+    {
+      "text": "poder",
+      "start": 12.280916,
+      "duration": 0.322166
+    },
+    {
+      "text": "corrigir",
+      "start": 12.615958,
+      "duration": 0.579916
+    },
+    {
+      "text": "ou",
+      "start": 13.20875,
+      "duration": 0.103083
+    },
+    {
+      "text": "tentar",
+      "start": 13.32475,
+      "duration": 0.386583
+    },
+    {
+      "text": "de",
+      "start": 13.724208,
+      "duration": 0.128875
+    },
+    {
+      "text": "novo",
+      "start": 13.865958,
+      "duration": 0.386583
+    },
+    {
+      "text": "conforme",
+      "start": 14.265458,
+      "duration": 0.554125
+    },
+    {
+      "text": "a",
+      "start": 14.832458,
+      "duration": 0.103083
+    },
+    {
+      "text": "orientação",
+      "start": 14.948458,
+      "duration": 0.721666
+    }
+  ]
+}

@@ -1,0 +1,258 @@
+{
+  "id": 21,
+  "chapter": "03 O que fica difícil quando a interface cresce",
+  "section": "A tela também precisa representar a espera",
+  "speaker": "PROF. RODRIGO",
+  "text": "Boa decisão para esse fluxo. Quando chegar a confirmação, mostramos o protocolo. Se houver uma falha, precisamos explicar a situação e preservar o que foi preenchido. Agora temos dados que influenciam a apresentação: o texto digitado, a indicação de envio, a resposta recebida e uma possível mensagem de erro.",
+  "voice": "pt-BR-AntonioNeural",
+  "rate": "-10%",
+  "pitch": "+0Hz",
+  "audio": "audio/021.mp3",
+  "words": [
+    {
+      "text": "Boa",
+      "start": 0.105541,
+      "duration": 0.347208
+    },
+    {
+      "text": "decisão",
+      "start": 0.466666,
+      "duration": 0.597208
+    },
+    {
+      "text": "para",
+      "start": 1.077791,
+      "duration": 0.25
+    },
+    {
+      "text": "esse",
+      "start": 1.341666,
+      "duration": 0.263875
+    },
+    {
+      "text": "fluxo",
+      "start": 1.619458,
+      "duration": 0.541666
+    },
+    {
+      "text": "Quando",
+      "start": 3.125,
+      "duration": 0.277791
+    },
+    {
+      "text": "chegar",
+      "start": 3.416666,
+      "duration": 0.347208
+    },
+    {
+      "text": "a",
+      "start": 3.777791,
+      "duration": 0.055541
+    },
+    {
+      "text": "confirmação",
+      "start": 3.847208,
+      "duration": 0.819458
+    },
+    {
+      "text": "mostramos",
+      "start": 4.958333,
+      "duration": 0.597208
+    },
+    {
+      "text": "o",
+      "start": 5.569458,
+      "duration": 0.138875
+    },
+    {
+      "text": "protocolo",
+      "start": 5.722208,
+      "duration": 0.722208
+    },
+    {
+      "text": "Se",
+      "start": 7.402791,
+      "duration": 0.222208
+    },
+    {
+      "text": "houver",
+      "start": 7.638875,
+      "duration": 0.347208
+    },
+    {
+      "text": "uma",
+      "start": 8.0,
+      "duration": 0.194458
+    },
+    {
+      "text": "falha",
+      "start": 8.208333,
+      "duration": 0.416666
+    },
+    {
+      "text": "precisamos",
+      "start": 8.875,
+      "duration": 0.638875
+    },
+    {
+      "text": "explicar",
+      "start": 9.527791,
+      "duration": 0.583333
+    },
+    {
+      "text": "a",
+      "start": 10.125,
+      "duration": 0.0416659
+    },
+    {
+      "text": "situação",
+      "start": 10.180541,
+      "duration": 0.708333
+    },
+    {
+      "text": "e",
+      "start": 10.902791,
+      "duration": 0.055541
+    },
+    {
+      "text": "preservar",
+      "start": 10.972208,
+      "duration": 0.625
+    },
+    {
+      "text": "o",
+      "start": 11.611125,
+      "duration": 0.055541
+    },
+    {
+      "text": "que",
+      "start": 11.680541,
+      "duration": 0.138875
+    },
+    {
+      "text": "foi",
+      "start": 11.833333,
+      "duration": 0.222208
+    },
+    {
+      "text": "preenchido",
+      "start": 12.069458,
+      "duration": 0.680541
+    },
+    {
+      "text": "Agora",
+      "start": 13.708333,
+      "duration": 0.527791
+    },
+    {
+      "text": "temos",
+      "start": 14.25,
+      "duration": 0.305541
+    },
+    {
+      "text": "dados",
+      "start": 14.569458,
+      "duration": 0.458333
+    },
+    {
+      "text": "que",
+      "start": 15.041666,
+      "duration": 0.083333
+    },
+    {
+      "text": "influenciam",
+      "start": 15.138875,
+      "duration": 0.708333
+    },
+    {
+      "text": "a",
+      "start": 15.861125,
+      "duration": 0.027791
+    },
+    {
+      "text": "apresentação",
+      "start": 15.902791,
+      "duration": 0.791666
+    },
+    {
+      "text": "o",
+      "start": 17.055541,
+      "duration": 0.125
+    },
+    {
+      "text": "texto",
+      "start": 17.194458,
+      "duration": 0.416666
+    },
+    {
+      "text": "digitado",
+      "start": 17.625,
+      "duration": 0.736125
+    },
+    {
+      "text": "a",
+      "start": 18.652791,
+      "duration": 0.083333
+    },
+    {
+      "text": "indicação",
+      "start": 18.75,
+      "duration": 0.666666
+    },
+    {
+      "text": "de",
+      "start": 19.430541,
+      "duration": 0.111125
+    },
+    {
+      "text": "envio",
+      "start": 19.555541,
+      "duration": 0.486125
+    },
+    {
+      "text": "a",
+      "start": 20.305541,
+      "duration": 0.083333
+    },
+    {
+      "text": "resposta",
+      "start": 20.402791,
+      "duration": 0.597208
+    },
+    {
+      "text": "recebida",
+      "start": 21.013875,
+      "duration": 0.611125
+    },
+    {
+      "text": "e",
+      "start": 21.638875,
+      "duration": 0.083333
+    },
+    {
+      "text": "uma",
+      "start": 21.736125,
+      "duration": 0.180541
+    },
+    {
+      "text": "possível",
+      "start": 21.930541,
+      "duration": 0.541666
+    },
+    {
+      "text": "mensagem",
+      "start": 22.486125,
+      "duration": 0.666666
+    },
+    {
+      "text": "de",
+      "start": 23.166666,
+      "duration": 0.194458
+    },
+    {
+      "text": "erro",
+      "start": 23.375,
+      "duration": 0.333333
+    }
+  ]
+}

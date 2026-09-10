@@ -1,0 +1,203 @@
+{
+  "id": 37,
+  "chapter": "03 O que fica difícil quando a interface cresce",
+  "section": "Manter o produto envolve a equipe inteira",
+  "speaker": "PROF. RODRIGO",
+  "text": "Exato. Reaproveitar exige entender a responsabilidade daquele trecho. O Angular nos dá uma estrutura para construir partes da interface e combiná-las. Isso ajuda na manutenção, mas ainda precisamos escolher bons limites e conversar sobre as regras do produto.",
+  "voice": "pt-BR-AntonioNeural",
+  "rate": "-10%",
+  "pitch": "+0Hz",
+  "audio": "audio/037.mp3",
+  "words": [
+    {
+      "text": "Exato",
+      "start": 0.105541,
+      "duration": 0.652791
+    },
+    {
+      "text": "Reaproveitar",
+      "start": 1.722208,
+      "duration": 0.847208
+    },
+    {
+      "text": "exige",
+      "start": 2.583333,
+      "duration": 0.430541
+    },
+    {
+      "text": "entender",
+      "start": 3.027791,
+      "duration": 0.472208
+    },
+    {
+      "text": "a",
+      "start": 3.513875,
+      "duration": 0.055541
+    },
+    {
+      "text": "responsabilidade",
+      "start": 3.583333,
+      "duration": 1.097208
+    },
+    {
+      "text": "daquele",
+      "start": 4.694458,
+      "duration": 0.458333
+    },
+    {
+      "text": "trecho",
+      "start": 5.166666,
+      "duration": 0.444458
+    },
+    {
+      "text": "O",
+      "start": 6.569458,
+      "duration": 0.138875
+    },
+    {
+      "text": "Angular",
+      "start": 6.722208,
+      "duration": 0.597208
+    },
+    {
+      "text": "nos",
+      "start": 7.333333,
+      "duration": 0.180541
+    },
+    {
+      "text": "dá",
+      "start": 7.527791,
+      "duration": 0.152791
+    },
+    {
+      "text": "uma",
+      "start": 7.694458,
+      "duration": 0.111125
+    },
+    {
+      "text": "estrutura",
+      "start": 7.819458,
+      "duration": 0.625
+    },
+    {
+      "text": "para",
+      "start": 8.458333,
+      "duration": 0.208333
+    },
+    {
+      "text": "construir",
+      "start": 8.680541,
+      "duration": 0.555541
+    },
+    {
+      "text": "partes",
+      "start": 9.25,
+      "duration": 0.5
+    },
+    {
+      "text": "da",
+      "start": 9.763875,
+      "duration": 0.083333
+    },
+    {
+      "text": "interface",
+      "start": 9.861125,
+      "duration": 0.75
+    },
+    {
+      "text": "e",
+      "start": 10.625,
+      "duration": 0.0416659
+    },
+    {
+      "text": "combiná-las",
+      "start": 10.680541,
+      "duration": 0.833333
+    },
+    {
+      "text": "Isso",
+      "start": 12.472208,
+      "duration": 0.333333
+    },
+    {
+      "text": "ajuda",
+      "start": 12.819458,
+      "duration": 0.402791
+    },
+    {
+      "text": "na",
+      "start": 13.236125,
+      "duration": 0.111125
+    },
+    {
+      "text": "manutenção",
+      "start": 13.361125,
+      "duration": 0.791666
+    },
+    {
+      "text": "mas",
+      "start": 14.430541,
+      "duration": 0.152791
+    },
+    {
+      "text": "ainda",
+      "start": 14.597208,
+      "duration": 0.430541
+    },
+    {
+      "text": "precisamos",
+      "start": 15.041666,
+      "duration": 0.625
+    },
+    {
+      "text": "escolher",
+      "start": 15.680541,
+      "duration": 0.555541
+    },
+    {
+      "text": "bons",
+      "start": 16.25,
+      "duration": 0.361125
+    },
+    {
+      "text": "limites",
+      "start": 16.625,
+      "duration": 0.486125
+    },
+    {
+      "text": "e",
+      "start": 17.125,
+      "duration": 0.111125
+    },
+    {
+      "text": "conversar",
+      "start": 17.25,
+      "duration": 0.625
+    },
+    {
+      "text": "sobre",
+      "start": 17.888875,
+      "duration": 0.236125
+    },
+    {
+      "text": "as",
+      "start": 18.138875,
+      "duration": 0.097208
+    },
+    {
+      "text": "regras",
+      "start": 18.25,
+      "duration": 0.444458
+    },
+    {
+      "text": "do",
+      "start": 18.708333,
+      "duration": 0.125
+    },
+    {
+      "text": "produto",
+      "start": 18.847208,
+      "duration": 0.569458
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "id": 36,
+  "chapter": "03 O que fica difícil quando a interface cresce",
+  "section": "Manter o produto envolve a equipe inteira",
+  "speaker": "BIA",
+  "text": "Podemos compartilhar uma apresentação quando ela tiver o mesmo significado. Mas duas coisas parecidas podem precisar de comportamentos diferentes.",
+  "voice": "pt-BR-FranciscaNeural",
+  "rate": "-1%",
+  "pitch": "-13Hz",
+  "audio": "audio/036.mp3",
+  "words": [
+    {
+      "text": "Podemos",
+      "start": 0.1005,
+      "duration": 0.454541
+    },
+    {
+      "text": "compartilhar",
+      "start": 0.567666,
+      "duration": 0.694458
+    },
+    {
+      "text": "uma",
+      "start": 1.27475,
+      "duration": 0.113625
+    },
+    {
+      "text": "apresentação",
+      "start": 1.401,
+      "duration": 0.795458
+    },
+    {
+      "text": "quando",
+      "start": 2.209083,
+      "duration": 0.239916
+    },
+    {
+      "text": "ela",
+      "start": 2.461625,
+      "duration": 0.1515
+    },
+    {
+      "text": "tiver",
+      "start": 2.62575,
+      "duration": 0.340916
+    },
+    {
+      "text": "o",
+      "start": 2.979291,
+      "duration": 0.037875
+    },
+    {
+      "text": "mesmo",
+      "start": 3.029791,
+      "duration": 0.378791
+    },
+    {
+      "text": "significado",
+      "start": 3.421208,
+      "duration": 0.883833
+    },
+    {
+      "text": "Mas",
+      "start": 4.570708,
+      "duration": 0.214666
+    },
+    {
+      "text": "duas",
+      "start": 4.798,
+      "duration": 0.290416
+    },
+    {
+      "text": "coisas",
+      "start": 5.101,
+      "duration": 0.353541
+    },
+    {
+      "text": "parecidas",
+      "start": 5.467166,
+      "duration": 0.643958
+    },
+    {
+      "text": "podem",
+      "start": 6.12375,
+      "duration": 0.340916
+    },
+    {
+      "text": "precisar",
+      "start": 6.477291,
+      "duration": 0.530291
+    },
+    {
+      "text": "de",
+      "start": 7.020208,
+      "duration": 0.088375
+    },
+    {
+      "text": "comportamentos",
+      "start": 7.121208,
+      "duration": 0.782833
+    },
+    {
+      "text": "diferentes",
+      "start": 7.916666,
+      "duration": 0.757583
+    }
+  ]
+}

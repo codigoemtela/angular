@@ -1,0 +1,258 @@
+{
+  "id": 40,
+  "chapter": "04 A história do Angular e as mudanças de geração",
+  "section": "O início do AngularJS",
+  "speaker": "PROF. RODRIGO",
+  "text": "Esse era um caminho bastante conhecido. Pense na diferença entre escrever uma sequência de comandos para alterar uma mensagem e declarar de qual dado aquela mensagem depende. AngularJS apostou em estender o HTML com recursos para descrever interfaces dinâmicas. Essa maneira de expressar o resultado é chamada de declarativa.",
+  "voice": "pt-BR-AntonioNeural",
+  "rate": "-10%",
+  "pitch": "+0Hz",
+  "audio": "audio/040.mp3",
+  "words": [
+    {
+      "text": "Esse",
+      "start": 0.105541,
+      "duration": 0.333333
+    },
+    {
+      "text": "era",
+      "start": 0.452791,
+      "duration": 0.097208
+    },
+    {
+      "text": "um",
+      "start": 0.563875,
+      "duration": 0.055541
+    },
+    {
+      "text": "caminho",
+      "start": 0.633333,
+      "duration": 0.375
+    },
+    {
+      "text": "bastante",
+      "start": 1.022208,
+      "duration": 0.569458
+    },
+    {
+      "text": "conhecido",
+      "start": 1.605541,
+      "duration": 0.680541
+    },
+    {
+      "text": "Pense",
+      "start": 3.25,
+      "duration": 0.375
+    },
+    {
+      "text": "na",
+      "start": 3.638875,
+      "duration": 0.111125
+    },
+    {
+      "text": "diferença",
+      "start": 3.763875,
+      "duration": 0.625
+    },
+    {
+      "text": "entre",
+      "start": 4.402791,
+      "duration": 0.194458
+    },
+    {
+      "text": "escrever",
+      "start": 4.611125,
+      "duration": 0.5
+    },
+    {
+      "text": "uma",
+      "start": 5.125,
+      "duration": 0.166666
+    },
+    {
+      "text": "sequência",
+      "start": 5.305541,
+      "duration": 0.541666
+    },
+    {
+      "text": "de",
+      "start": 5.861125,
+      "duration": 0.097208
+    },
+    {
+      "text": "comandos",
+      "start": 5.972208,
+      "duration": 0.597208
+    },
+    {
+      "text": "para",
+      "start": 6.583333,
+      "duration": 0.180541
+    },
+    {
+      "text": "alterar",
+      "start": 6.777791,
+      "duration": 0.402791
+    },
+    {
+      "text": "uma",
+      "start": 7.194458,
+      "duration": 0.138875
+    },
+    {
+      "text": "mensagem",
+      "start": 7.347208,
+      "duration": 0.680541
+    },
+    {
+      "text": "e",
+      "start": 8.041666,
+      "duration": 0.0416659
+    },
+    {
+      "text": "declarar",
+      "start": 8.097208,
+      "duration": 0.527791
+    },
+    {
+      "text": "de",
+      "start": 8.638875,
+      "duration": 0.152791
+    },
+    {
+      "text": "qual",
+      "start": 8.805541,
+      "duration": 0.291666
+    },
+    {
+      "text": "dado",
+      "start": 9.111125,
+      "duration": 0.25
+    },
+    {
+      "text": "aquela",
+      "start": 9.375,
+      "duration": 0.277791
+    },
+    {
+      "text": "mensagem",
+      "start": 9.666666,
+      "duration": 0.611125
+    },
+    {
+      "text": "depende",
+      "start": 10.291666,
+      "duration": 0.583333
+    },
+    {
+      "text": "AngularJS",
+      "start": 11.833333,
+      "duration": 1.25
+    },
+    {
+      "text": "apostou",
+      "start": 13.097208,
+      "duration": 0.486125
+    },
+    {
+      "text": "em",
+      "start": 13.597208,
+      "duration": 0.111125
+    },
+    {
+      "text": "estender",
+      "start": 13.722208,
+      "duration": 0.527791
+    },
+    {
+      "text": "o",
+      "start": 14.263875,
+      "duration": 0.069458
+    },
+    {
+      "text": "HTML",
+      "start": 14.347208,
+      "duration": 0.986125
+    },
+    {
+      "text": "com",
+      "start": 15.347208,
+      "duration": 0.152791
+    },
+    {
+      "text": "recursos",
+      "start": 15.513875,
+      "duration": 0.611125
+    },
+    {
+      "text": "para",
+      "start": 16.138875,
+      "duration": 0.222208
+    },
+    {
+      "text": "descrever",
+      "start": 16.375,
+      "duration": 0.555541
+    },
+    {
+      "text": "interfaces",
+      "start": 16.944458,
+      "duration": 0.75
+    },
+    {
+      "text": "dinâmicas",
+      "start": 17.708333,
+      "duration": 0.791666
+    },
+    {
+      "text": "Essa",
+      "start": 19.458333,
+      "duration": 0.319458
+    },
+    {
+      "text": "maneira",
+      "start": 19.791666,
+      "duration": 0.416666
+    },
+    {
+      "text": "de",
+      "start": 20.222208,
+      "duration": 0.083333
+    },
+    {
+      "text": "expressar",
+      "start": 20.319458,
+      "duration": 0.541666
+    },
+    {
+      "text": "o",
+      "start": 20.875,
+      "duration": 0.0416659
+    },
+    {
+      "text": "resultado",
+      "start": 20.930541,
+      "duration": 0.666666
+    },
+    {
+      "text": "é",
+      "start": 21.611125,
+      "duration": 0.0416659
+    },
+    {
+      "text": "chamada",
+      "start": 21.666666,
+      "duration": 0.5
+    },
+    {
+      "text": "de",
+      "start": 22.180541,
+      "duration": 0.097208
+    },
+    {
+      "text": "declarativa",
+      "start": 22.291666,
+      "duration": 0.847208
+    }
+  ]
+}

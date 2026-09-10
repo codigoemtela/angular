@@ -1,0 +1,233 @@
+{
+  "id": 52,
+  "chapter": "04 A história do Angular e as mudanças de geração",
+  "section": "A reescrita que levou ao Angular 2",
+  "speaker": "PROF. RODRIGO",
+  "text": "Em setembro de 2016, foi lançada a versão final do Angular 2. Essa passagem marcou uma reescrita do framework. A arquitetura foi reorganizada em torno da composição por componentes, e o TypeScript passou a ter um papel central na forma de desenvolver com Angular.",
+  "voice": "pt-BR-AntonioNeural",
+  "rate": "-10%",
+  "pitch": "+0Hz",
+  "audio": "audio/052.mp3",
+  "words": [
+    {
+      "text": "Em",
+      "start": 0.105541,
+      "duration": 0.166666
+    },
+    {
+      "text": "setembro",
+      "start": 0.286125,
+      "duration": 0.611125
+    },
+    {
+      "text": "de",
+      "start": 0.911125,
+      "duration": 0.083333
+    },
+    {
+      "text": "2016",
+      "start": 1.008333,
+      "duration": 1.083333
+    },
+    {
+      "text": "foi",
+      "start": 2.383333,
+      "duration": 0.166666
+    },
+    {
+      "text": "lançada",
+      "start": 2.563875,
+      "duration": 0.597208
+    },
+    {
+      "text": "a",
+      "start": 3.175,
+      "duration": 0.027791
+    },
+    {
+      "text": "versão",
+      "start": 3.216666,
+      "duration": 0.458333
+    },
+    {
+      "text": "final",
+      "start": 3.688875,
+      "duration": 0.402791
+    },
+    {
+      "text": "do",
+      "start": 4.105541,
+      "duration": 0.125
+    },
+    {
+      "text": "Angular",
+      "start": 4.244458,
+      "duration": 0.513875
+    },
+    {
+      "text": "2",
+      "start": 4.772208,
+      "duration": 0.5
+    },
+    {
+      "text": "Essa",
+      "start": 6.236125,
+      "duration": 0.361125
+    },
+    {
+      "text": "passagem",
+      "start": 6.611125,
+      "duration": 0.555541
+    },
+    {
+      "text": "marcou",
+      "start": 7.180541,
+      "duration": 0.402791
+    },
+    {
+      "text": "uma",
+      "start": 7.597208,
+      "duration": 0.138875
+    },
+    {
+      "text": "reescrita",
+      "start": 7.75,
+      "duration": 0.652791
+    },
+    {
+      "text": "do",
+      "start": 8.416666,
+      "duration": 0.111125
+    },
+    {
+      "text": "framework",
+      "start": 8.541666,
+      "duration": 0.833333
+    },
+    {
+      "text": "A",
+      "start": 10.333333,
+      "duration": 0.097208
+    },
+    {
+      "text": "arquitetura",
+      "start": 10.444458,
+      "duration": 0.777791
+    },
+    {
+      "text": "foi",
+      "start": 11.236125,
+      "duration": 0.152791
+    },
+    {
+      "text": "reorganizada",
+      "start": 11.402791,
+      "duration": 0.805541
+    },
+    {
+      "text": "em",
+      "start": 12.222208,
+      "duration": 0.111125
+    },
+    {
+      "text": "torno",
+      "start": 12.347208,
+      "duration": 0.361125
+    },
+    {
+      "text": "da",
+      "start": 12.722208,
+      "duration": 0.111125
+    },
+    {
+      "text": "composição",
+      "start": 12.847208,
+      "duration": 0.694458
+    },
+    {
+      "text": "por",
+      "start": 13.555541,
+      "duration": 0.125
+    },
+    {
+      "text": "componentes",
+      "start": 13.694458,
+      "duration": 0.791666
+    },
+    {
+      "text": "e",
+      "start": 14.805541,
+      "duration": 0.055541
+    },
+    {
+      "text": "o",
+      "start": 14.875,
+      "duration": 0.083333
+    },
+    {
+      "text": "TypeScript",
+      "start": 14.972208,
+      "duration": 0.944458
+    },
+    {
+      "text": "passou",
+      "start": 15.930541,
+      "duration": 0.388875
+    },
+    {
+      "text": "a",
+      "start": 16.333333,
+      "duration": 0.055541
+    },
+    {
+      "text": "ter",
+      "start": 16.402791,
+      "duration": 0.152791
+    },
+    {
+      "text": "um",
+      "start": 16.569458,
+      "duration": 0.083333
+    },
+    {
+      "text": "papel",
+      "start": 16.666666,
+      "duration": 0.319458
+    },
+    {
+      "text": "central",
+      "start": 17.0,
+      "duration": 0.416666
+    },
+    {
+      "text": "na",
+      "start": 17.430541,
+      "duration": 0.138875
+    },
+    {
+      "text": "forma",
+      "start": 17.583333,
+      "duration": 0.402791
+    },
+    {
+      "text": "de",
+      "start": 18.0,
+      "duration": 0.125
+    },
+    {
+      "text": "desenvolver",
+      "start": 18.138875,
+      "duration": 0.611125
+    },
+    {
+      "text": "com",
+      "start": 18.763875,
+      "duration": 0.222208
+    },
+    {
+      "text": "Angular",
+      "start": 19.0,
+      "duration": 0.472208
+    }
+  ]
+}

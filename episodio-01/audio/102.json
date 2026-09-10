@@ -1,0 +1,208 @@
+{
+  "id": 102,
+  "chapter": "06 O que continua sendo responsabilidade da equipe",
+  "section": "06 O que continua sendo responsabilidade da equipe",
+  "speaker": "PROF. RODRIGO",
+  "text": "Esse é o objetivo. Ao justificar uma decisão, procure relacioná-la a um problema observável: duplicação de comportamento, dificuldade de manutenção, informação inconsistente ou uma necessidade de uso. Assim a conversa técnica ajuda a equipe a decidir o que fazer.",
+  "voice": "pt-BR-AntonioNeural",
+  "rate": "-10%",
+  "pitch": "+0Hz",
+  "audio": "audio/102.mp3",
+  "words": [
+    {
+      "text": "Esse",
+      "start": 0.105541,
+      "duration": 0.375
+    },
+    {
+      "text": "é",
+      "start": 0.494458,
+      "duration": 0.0416659
+    },
+    {
+      "text": "o",
+      "start": 0.55,
+      "duration": 0.027791
+    },
+    {
+      "text": "objetivo",
+      "start": 0.591666,
+      "duration": 0.819458
+    },
+    {
+      "text": "Ao",
+      "start": 2.375,
+      "duration": 0.208333
+    },
+    {
+      "text": "justificar",
+      "start": 2.597208,
+      "duration": 0.694458
+    },
+    {
+      "text": "uma",
+      "start": 3.305541,
+      "duration": 0.152791
+    },
+    {
+      "text": "decisão",
+      "start": 3.472208,
+      "duration": 0.569458
+    },
+    {
+      "text": "procure",
+      "start": 4.388875,
+      "duration": 0.513875
+    },
+    {
+      "text": "relacioná-la",
+      "start": 4.916666,
+      "duration": 0.666666
+    },
+    {
+      "text": "a",
+      "start": 5.597208,
+      "duration": 0.027791
+    },
+    {
+      "text": "um",
+      "start": 5.638875,
+      "duration": 0.111125
+    },
+    {
+      "text": "problema",
+      "start": 5.763875,
+      "duration": 0.444458
+    },
+    {
+      "text": "observável",
+      "start": 6.222208,
+      "duration": 0.805541
+    },
+    {
+      "text": "duplicação",
+      "start": 7.347208,
+      "duration": 0.736125
+    },
+    {
+      "text": "de",
+      "start": 8.097208,
+      "duration": 0.083333
+    },
+    {
+      "text": "comportamento",
+      "start": 8.194458,
+      "duration": 0.861125
+    },
+    {
+      "text": "dificuldade",
+      "start": 9.361125,
+      "duration": 0.777791
+    },
+    {
+      "text": "de",
+      "start": 10.152791,
+      "duration": 0.083333
+    },
+    {
+      "text": "manutenção",
+      "start": 10.25,
+      "duration": 0.777791
+    },
+    {
+      "text": "informação",
+      "start": 11.361125,
+      "duration": 0.736125
+    },
+    {
+      "text": "inconsistente",
+      "start": 12.111125,
+      "duration": 0.791666
+    },
+    {
+      "text": "ou",
+      "start": 12.916666,
+      "duration": 0.083333
+    },
+    {
+      "text": "uma",
+      "start": 13.013875,
+      "duration": 0.152791
+    },
+    {
+      "text": "necessidade",
+      "start": 13.180541,
+      "duration": 0.722208
+    },
+    {
+      "text": "de",
+      "start": 13.916666,
+      "duration": 0.152791
+    },
+    {
+      "text": "uso",
+      "start": 14.083333,
+      "duration": 0.291666
+    },
+    {
+      "text": "Assim",
+      "start": 15.333333,
+      "duration": 0.5
+    },
+    {
+      "text": "a",
+      "start": 15.847208,
+      "duration": 0.069458
+    },
+    {
+      "text": "conversa",
+      "start": 15.930541,
+      "duration": 0.555541
+    },
+    {
+      "text": "técnica",
+      "start": 16.5,
+      "duration": 0.569458
+    },
+    {
+      "text": "ajuda",
+      "start": 17.083333,
+      "duration": 0.347208
+    },
+    {
+      "text": "a",
+      "start": 17.444458,
+      "duration": 0.055541
+    },
+    {
+      "text": "equipe",
+      "start": 17.513875,
+      "duration": 0.388875
+    },
+    {
+      "text": "a",
+      "start": 17.916666,
+      "duration": 0.055541
+    },
+    {
+      "text": "decidir",
+      "start": 17.986125,
+      "duration": 0.513875
+    },
+    {
+      "text": "o",
+      "start": 18.513875,
+      "duration": 0.0416659
+    },
+    {
+      "text": "que",
+      "start": 18.569458,
+      "duration": 0.125
+    },
+    {
+      "text": "fazer",
+      "start": 18.708333,
+      "duration": 0.458333
+    }
+  ]
+}

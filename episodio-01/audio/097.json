@@ -1,0 +1,88 @@
+{
+  "id": 97,
+  "chapter": "06 O que continua sendo responsabilidade da equipe",
+  "section": "06 O que continua sendo responsabilidade da equipe",
+  "speaker": "RAFAEL",
+  "text": "Então eu verificaria a permissão na operação, além de observar o que aparece na tela.",
+  "voice": "pt-BR-AntonioNeural",
+  "rate": "-5%",
+  "pitch": "-15Hz",
+  "audio": "audio/097.mp3",
+  "words": [
+    {
+      "text": "Então",
+      "start": 0.102625,
+      "duration": 0.5
+    },
+    {
+      "text": "eu",
+      "start": 0.615791,
+      "duration": 0.078958
+    },
+    {
+      "text": "verificaria",
+      "start": 0.707875,
+      "duration": 0.631583
+    },
+    {
+      "text": "a",
+      "start": 1.352625,
+      "duration": 0.039458
+    },
+    {
+      "text": "permissão",
+      "start": 1.40525,
+      "duration": 0.526333
+    },
+    {
+      "text": "na",
+      "start": 1.94475,
+      "duration": 0.10525
+    },
+    {
+      "text": "operação",
+      "start": 2.063166,
+      "duration": 0.592125
+    },
+    {
+      "text": "além",
+      "start": 2.90525,
+      "duration": 0.276333
+    },
+    {
+      "text": "de",
+      "start": 3.19475,
+      "duration": 0.092125
+    },
+    {
+      "text": "observar",
+      "start": 3.3,
+      "duration": 0.592125
+    },
+    {
+      "text": "o",
+      "start": 3.90525,
+      "duration": 0.065791
+    },
+    {
+      "text": "que",
+      "start": 3.984208,
+      "duration": 0.092125
+    },
+    {
+      "text": "aparece",
+      "start": 4.089458,
+      "duration": 0.539458
+    },
+    {
+      "text": "na",
+      "start": 4.642125,
+      "duration": 0.14475
+    },
+    {
+      "text": "tela",
+      "start": 4.8,
+      "duration": 0.35525
+    }
+  ]
+}

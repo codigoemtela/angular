@@ -1,0 +1,133 @@
+{
+  "id": 13,
+  "chapter": "02 Como vamos aprender nesta formação",
+  "section": "02 Como vamos aprender nesta formação",
+  "speaker": "DAVI",
+  "text": "E podemos pausar o vídeo, testar uma ideia e voltar. O andamento da história não precisa ser o ritmo de estudo de cada pessoa.",
+  "voice": "pt-BR-AntonioNeural",
+  "rate": "-4%",
+  "pitch": "+6Hz",
+  "audio": "audio/013.mp3",
+  "words": [
+    {
+      "text": "E",
+      "start": 0.102083,
+      "duration": 0.117208
+    },
+    {
+      "text": "podemos",
+      "start": 0.232291,
+      "duration": 0.45575
+    },
+    {
+      "text": "pausar",
+      "start": 0.701041,
+      "duration": 0.416666
+    },
+    {
+      "text": "o",
+      "start": 1.13075,
+      "duration": 0.065125
+    },
+    {
+      "text": "vídeo",
+      "start": 1.208875,
+      "duration": 0.364583
+    },
+    {
+      "text": "testar",
+      "start": 1.794791,
+      "duration": 0.429708
+    },
+    {
+      "text": "uma",
+      "start": 2.2375,
+      "duration": 0.104166
+    },
+    {
+      "text": "ideia",
+      "start": 2.354708,
+      "duration": 0.390625
+    },
+    {
+      "text": "e",
+      "start": 2.758333,
+      "duration": 0.065125
+    },
+    {
+      "text": "voltar",
+      "start": 2.836458,
+      "duration": 0.45575
+    },
+    {
+      "text": "O",
+      "start": 4.192708,
+      "duration": 0.117208
+    },
+    {
+      "text": "andamento",
+      "start": 4.322916,
+      "duration": 0.520833
+    },
+    {
+      "text": "da",
+      "start": 4.856791,
+      "duration": 0.091166
+    },
+    {
+      "text": "história",
+      "start": 4.960958,
+      "duration": 0.429708
+    },
+    {
+      "text": "não",
+      "start": 5.403666,
+      "duration": 0.15625
+    },
+    {
+      "text": "precisa",
+      "start": 5.572916,
+      "duration": 0.442708
+    },
+    {
+      "text": "ser",
+      "start": 6.028666,
+      "duration": 0.195333
+    },
+    {
+      "text": "o",
+      "start": 6.237,
+      "duration": 0.052083
+    },
+    {
+      "text": "ritmo",
+      "start": 6.302083,
+      "duration": 0.364583
+    },
+    {
+      "text": "de",
+      "start": 6.679708,
+      "duration": 0.078125
+    },
+    {
+      "text": "estudo",
+      "start": 6.770833,
+      "duration": 0.377625
+    },
+    {
+      "text": "de",
+      "start": 7.161458,
+      "duration": 0.130208
+    },
+    {
+      "text": "cada",
+      "start": 7.304708,
+      "duration": 0.3125
+    },
+    {
+      "text": "pessoa",
+      "start": 7.630208,
+      "duration": 0.520833
+    }
+  ]
+}

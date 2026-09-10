@@ -1,0 +1,198 @@
+{
+  "id": 44,
+  "chapter": "04 A história do Angular e as mudanças de geração",
+  "section": "O início do AngularJS",
+  "speaker": "PROF. RODRIGO",
+  "text": "A ligação depende de como o programa foi escrito. Não significa que qualquer variável esteja conectada a qualquer parte da página. Também não envia automaticamente o conteúdo ao banco. Estamos falando da relação entre dados e interface.",
+  "voice": "pt-BR-AntonioNeural",
+  "rate": "-10%",
+  "pitch": "+0Hz",
+  "audio": "audio/044.mp3",
+  "words": [
+    {
+      "text": "A",
+      "start": 0.105541,
+      "duration": 0.125
+    },
+    {
+      "text": "ligação",
+      "start": 0.244458,
+      "duration": 0.569458
+    },
+    {
+      "text": "depende",
+      "start": 0.827791,
+      "duration": 0.513875
+    },
+    {
+      "text": "de",
+      "start": 1.355541,
+      "duration": 0.097208
+    },
+    {
+      "text": "como",
+      "start": 1.466666,
+      "duration": 0.222208
+    },
+    {
+      "text": "o",
+      "start": 1.702791,
+      "duration": 0.027791
+    },
+    {
+      "text": "programa",
+      "start": 1.744458,
+      "duration": 0.541666
+    },
+    {
+      "text": "foi",
+      "start": 2.3,
+      "duration": 0.166666
+    },
+    {
+      "text": "escrito",
+      "start": 2.480541,
+      "duration": 0.513875
+    },
+    {
+      "text": "Não",
+      "start": 3.958333,
+      "duration": 0.291666
+    },
+    {
+      "text": "significa",
+      "start": 4.263875,
+      "duration": 0.708333
+    },
+    {
+      "text": "que",
+      "start": 4.986125,
+      "duration": 0.125
+    },
+    {
+      "text": "qualquer",
+      "start": 5.125,
+      "duration": 0.430541
+    },
+    {
+      "text": "variável",
+      "start": 5.569458,
+      "duration": 0.583333
+    },
+    {
+      "text": "esteja",
+      "start": 6.166666,
+      "duration": 0.375
+    },
+    {
+      "text": "conectada",
+      "start": 6.555541,
+      "duration": 0.638875
+    },
+    {
+      "text": "a",
+      "start": 7.208333,
+      "duration": 0.0416659
+    },
+    {
+      "text": "qualquer",
+      "start": 7.263875,
+      "duration": 0.444458
+    },
+    {
+      "text": "parte",
+      "start": 7.722208,
+      "duration": 0.444458
+    },
+    {
+      "text": "da",
+      "start": 8.180541,
+      "duration": 0.125
+    },
+    {
+      "text": "página",
+      "start": 8.319458,
+      "duration": 0.527791
+    },
+    {
+      "text": "Também",
+      "start": 9.805541,
+      "duration": 0.486125
+    },
+    {
+      "text": "não",
+      "start": 10.305541,
+      "duration": 0.194458
+    },
+    {
+      "text": "envia",
+      "start": 10.513875,
+      "duration": 0.319458
+    },
+    {
+      "text": "automaticamente",
+      "start": 10.847208,
+      "duration": 0.888875
+    },
+    {
+      "text": "o",
+      "start": 11.75,
+      "duration": 0.0416659
+    },
+    {
+      "text": "conteúdo",
+      "start": 11.805541,
+      "duration": 0.555541
+    },
+    {
+      "text": "ao",
+      "start": 12.375,
+      "duration": 0.138875
+    },
+    {
+      "text": "banco",
+      "start": 12.527791,
+      "duration": 0.458333
+    },
+    {
+      "text": "Estamos",
+      "start": 13.944458,
+      "duration": 0.5
+    },
+    {
+      "text": "falando",
+      "start": 14.458333,
+      "duration": 0.527791
+    },
+    {
+      "text": "da",
+      "start": 15.0,
+      "duration": 0.111125
+    },
+    {
+      "text": "relação",
+      "start": 15.125,
+      "duration": 0.583333
+    },
+    {
+      "text": "entre",
+      "start": 15.722208,
+      "duration": 0.236125
+    },
+    {
+      "text": "dados",
+      "start": 15.972208,
+      "duration": 0.388875
+    },
+    {
+      "text": "e",
+      "start": 16.375,
+      "duration": 0.097208
+    },
+    {
+      "text": "interface",
+      "start": 16.486125,
+      "duration": 0.819458
+    }
+  ]
+}

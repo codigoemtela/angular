@@ -1,0 +1,233 @@
+{
+  "id": 56,
+  "chapter": "04 A história do Angular e as mudanças de geração",
+  "section": "A reescrita que levou ao Angular 2",
+  "speaker": "PROF. RODRIGO",
+  "text": "E essa é uma consequência importante da história. Uma escolha técnica também cria compromissos de manutenção. Ao avaliar uma migração, precisamos considerar o que existe, como verificar os fluxos e como realizar a transição. Uma aplicação continuar abrindo é apenas uma parte dessa verificação.",
+  "voice": "pt-BR-AntonioNeural",
+  "rate": "-10%",
+  "pitch": "+0Hz",
+  "audio": "audio/056.mp3",
+  "words": [
+    {
+      "text": "E",
+      "start": 0.105541,
+      "duration": 0.166666
+    },
+    {
+      "text": "essa",
+      "start": 0.286125,
+      "duration": 0.263875
+    },
+    {
+      "text": "é",
+      "start": 0.563875,
+      "duration": 0.027791
+    },
+    {
+      "text": "uma",
+      "start": 0.605541,
+      "duration": 0.152791
+    },
+    {
+      "text": "consequência",
+      "start": 0.772208,
+      "duration": 0.708333
+    },
+    {
+      "text": "importante",
+      "start": 1.494458,
+      "duration": 0.680541
+    },
+    {
+      "text": "da",
+      "start": 2.188875,
+      "duration": 0.097208
+    },
+    {
+      "text": "história",
+      "start": 2.3,
+      "duration": 0.513875
+    },
+    {
+      "text": "Uma",
+      "start": 3.777791,
+      "duration": 0.194458
+    },
+    {
+      "text": "escolha",
+      "start": 3.986125,
+      "duration": 0.472208
+    },
+    {
+      "text": "técnica",
+      "start": 4.472208,
+      "duration": 0.569458
+    },
+    {
+      "text": "também",
+      "start": 5.055541,
+      "duration": 0.361125
+    },
+    {
+      "text": "cria",
+      "start": 5.430541,
+      "duration": 0.291666
+    },
+    {
+      "text": "compromissos",
+      "start": 5.736125,
+      "duration": 0.736125
+    },
+    {
+      "text": "de",
+      "start": 6.486125,
+      "duration": 0.111125
+    },
+    {
+      "text": "manutenção",
+      "start": 6.611125,
+      "duration": 0.819458
+    },
+    {
+      "text": "Ao",
+      "start": 8.388875,
+      "duration": 0.208333
+    },
+    {
+      "text": "avaliar",
+      "start": 8.611125,
+      "duration": 0.527791
+    },
+    {
+      "text": "uma",
+      "start": 9.152791,
+      "duration": 0.166666
+    },
+    {
+      "text": "migração",
+      "start": 9.333333,
+      "duration": 0.625
+    },
+    {
+      "text": "precisamos",
+      "start": 10.263875,
+      "duration": 0.694458
+    },
+    {
+      "text": "considerar",
+      "start": 10.972208,
+      "duration": 0.638875
+    },
+    {
+      "text": "o",
+      "start": 11.625,
+      "duration": 0.055541
+    },
+    {
+      "text": "que",
+      "start": 11.694458,
+      "duration": 0.125
+    },
+    {
+      "text": "existe",
+      "start": 11.833333,
+      "duration": 0.583333
+    },
+    {
+      "text": "como",
+      "start": 12.75,
+      "duration": 0.277791
+    },
+    {
+      "text": "verificar",
+      "start": 13.041666,
+      "duration": 0.611125
+    },
+    {
+      "text": "os",
+      "start": 13.666666,
+      "duration": 0.125
+    },
+    {
+      "text": "fluxos",
+      "start": 13.805541,
+      "duration": 0.513875
+    },
+    {
+      "text": "e",
+      "start": 14.333333,
+      "duration": 0.125
+    },
+    {
+      "text": "como",
+      "start": 14.472208,
+      "duration": 0.263875
+    },
+    {
+      "text": "realizar",
+      "start": 14.75,
+      "duration": 0.611125
+    },
+    {
+      "text": "a",
+      "start": 15.375,
+      "duration": 0.055541
+    },
+    {
+      "text": "transição",
+      "start": 15.444458,
+      "duration": 0.694458
+    },
+    {
+      "text": "Uma",
+      "start": 17.097208,
+      "duration": 0.222208
+    },
+    {
+      "text": "aplicação",
+      "start": 17.333333,
+      "duration": 0.652791
+    },
+    {
+      "text": "continuar",
+      "start": 18.0,
+      "duration": 0.555541
+    },
+    {
+      "text": "abrindo",
+      "start": 18.569458,
+      "duration": 0.388875
+    },
+    {
+      "text": "é",
+      "start": 18.972208,
+      "duration": 0.055541
+    },
+    {
+      "text": "apenas",
+      "start": 19.041666,
+      "duration": 0.402791
+    },
+    {
+      "text": "uma",
+      "start": 19.458333,
+      "duration": 0.277791
+    },
+    {
+      "text": "parte",
+      "start": 19.75,
+      "duration": 0.388875
+    },
+    {
+      "text": "dessa",
+      "start": 20.152791,
+      "duration": 0.263875
+    },
+    {
+      "text": "verificação",
+      "start": 20.430541,
+      "duration": 0.833333
+    }
+  ]
+}

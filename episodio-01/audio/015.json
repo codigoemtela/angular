@@ -1,0 +1,128 @@
+{
+  "id": 15,
+  "chapter": "03 O que fica difícil quando a interface cresce",
+  "section": "A tela também precisa representar a espera",
+  "speaker": "CAIO",
+  "text": "Eu consigo criar esse formulário com HTML, cuidar da aparência com CSS e usar JavaScript para enviar os dados. Onde o Angular entra?",
+  "voice": "pt-BR-AntonioNeural",
+  "rate": "+1%",
+  "pitch": "+14Hz",
+  "audio": "audio/015.mp3",
+  "words": [
+    {
+      "text": "Eu",
+      "start": 0.0995,
+      "duration": 0.17325
+    },
+    {
+      "text": "consigo",
+      "start": 0.285166,
+      "duration": 0.482666
+    },
+    {
+      "text": "criar",
+      "start": 0.780208,
+      "duration": 0.309416
+    },
+    {
+      "text": "esse",
+      "start": 1.102,
+      "duration": 0.17325
+    },
+    {
+      "text": "formulário",
+      "start": 1.287625,
+      "duration": 0.544541
+    },
+    {
+      "text": "com",
+      "start": 1.844541,
+      "duration": 0.136125
+    },
+    {
+      "text": "HTML",
+      "start": 1.993083,
+      "duration": 0.804458
+    },
+    {
+      "text": "cuidar",
+      "start": 3.020291,
+      "duration": 0.396041
+    },
+    {
+      "text": "da",
+      "start": 3.428708,
+      "duration": 0.07425
+    },
+    {
+      "text": "aparência",
+      "start": 3.515333,
+      "duration": 0.507416
+    },
+    {
+      "text": "com",
+      "start": 4.035166,
+      "duration": 0.160875
+    },
+    {
+      "text": "CSS",
+      "start": 4.208416,
+      "duration": 0.816833
+    },
+    {
+      "text": "e",
+      "start": 5.037625,
+      "duration": 0.02475
+    },
+    {
+      "text": "usar",
+      "start": 5.07475,
+      "duration": 0.309416
+    },
+    {
+      "text": "JavaScript",
+      "start": 5.396541,
+      "duration": 0.779708
+    },
+    {
+      "text": "para",
+      "start": 6.188625,
+      "duration": 0.160875
+    },
+    {
+      "text": "enviar",
+      "start": 6.361875,
+      "duration": 0.358916
+    },
+    {
+      "text": "os",
+      "start": 6.733166,
+      "duration": 0.099
+    },
+    {
+      "text": "dados",
+      "start": 6.844541,
+      "duration": 0.482666
+    },
+    {
+      "text": "Onde",
+      "start": 8.180708,
+      "duration": 0.346541
+    },
+    {
+      "text": "o",
+      "start": 8.539583,
+      "duration": 0.086625
+    },
+    {
+      "text": "Angular",
+      "start": 8.638625,
+      "duration": 0.408416
+    },
+    {
+      "text": "entra",
+      "start": 9.059416,
+      "duration": 0.346541
+    }
+  ]
+}

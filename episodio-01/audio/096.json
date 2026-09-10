@@ -1,0 +1,253 @@
+{
+  "id": 96,
+  "chapter": "06 O que continua sendo responsabilidade da equipe",
+  "section": "06 O que continua sendo responsabilidade da equipe",
+  "speaker": "PROF. RODRIGO",
+  "text": "Angular oferece recursos de proteção, mas a segurança depende da implementação inteira. Na nossa central, esconder um botão pode orientar a interface, mas a API também precisa verificar se a pessoa está autorizada a executar a operação. Um pedido enviado diretamente ao servidor não pode ignorar essa regra.",
+  "voice": "pt-BR-AntonioNeural",
+  "rate": "-10%",
+  "pitch": "+0Hz",
+  "audio": "audio/096.mp3",
+  "words": [
+    {
+      "text": "Angular",
+      "start": 0.105541,
+      "duration": 0.541666
+    },
+    {
+      "text": "oferece",
+      "start": 0.661125,
+      "duration": 0.5
+    },
+    {
+      "text": "recursos",
+      "start": 1.175,
+      "duration": 0.583333
+    },
+    {
+      "text": "de",
+      "start": 1.772208,
+      "duration": 0.111125
+    },
+    {
+      "text": "proteção",
+      "start": 1.897208,
+      "duration": 0.638875
+    },
+    {
+      "text": "mas",
+      "start": 2.855541,
+      "duration": 0.125
+    },
+    {
+      "text": "a",
+      "start": 2.994458,
+      "duration": 0.125
+    },
+    {
+      "text": "segurança",
+      "start": 3.133333,
+      "duration": 0.694458
+    },
+    {
+      "text": "depende",
+      "start": 3.841666,
+      "duration": 0.5
+    },
+    {
+      "text": "da",
+      "start": 4.355541,
+      "duration": 0.097208
+    },
+    {
+      "text": "implementação",
+      "start": 4.466666,
+      "duration": 0.819458
+    },
+    {
+      "text": "inteira",
+      "start": 5.3,
+      "duration": 0.5
+    },
+    {
+      "text": "Na",
+      "start": 6.763875,
+      "duration": 0.180541
+    },
+    {
+      "text": "nossa",
+      "start": 6.958333,
+      "duration": 0.319458
+    },
+    {
+      "text": "central",
+      "start": 7.291666,
+      "duration": 0.541666
+    },
+    {
+      "text": "esconder",
+      "start": 8.166666,
+      "duration": 0.458333
+    },
+    {
+      "text": "um",
+      "start": 8.638875,
+      "duration": 0.069458
+    },
+    {
+      "text": "botão",
+      "start": 8.722208,
+      "duration": 0.430541
+    },
+    {
+      "text": "pode",
+      "start": 9.166666,
+      "duration": 0.277791
+    },
+    {
+      "text": "orientar",
+      "start": 9.458333,
+      "duration": 0.472208
+    },
+    {
+      "text": "a",
+      "start": 9.944458,
+      "duration": 0.0416659
+    },
+    {
+      "text": "interface",
+      "start": 10.0,
+      "duration": 0.75
+    },
+    {
+      "text": "mas",
+      "start": 11.097208,
+      "duration": 0.125
+    },
+    {
+      "text": "a",
+      "start": 11.236125,
+      "duration": 0.138875
+    },
+    {
+      "text": "API",
+      "start": 11.388875,
+      "duration": 0.375
+    },
+    {
+      "text": "também",
+      "start": 11.777791,
+      "duration": 0.375
+    },
+    {
+      "text": "precisa",
+      "start": 12.166666,
+      "duration": 0.430541
+    },
+    {
+      "text": "verificar",
+      "start": 12.611125,
+      "duration": 0.597208
+    },
+    {
+      "text": "se",
+      "start": 13.222208,
+      "duration": 0.111125
+    },
+    {
+      "text": "a",
+      "start": 13.347208,
+      "duration": 0.069458
+    },
+    {
+      "text": "pessoa",
+      "start": 13.430541,
+      "duration": 0.361125
+    },
+    {
+      "text": "está",
+      "start": 13.805541,
+      "duration": 0.194458
+    },
+    {
+      "text": "autorizada",
+      "start": 14.013875,
+      "duration": 0.680541
+    },
+    {
+      "text": "a",
+      "start": 14.708333,
+      "duration": 0.0416659
+    },
+    {
+      "text": "executar",
+      "start": 14.763875,
+      "duration": 0.583333
+    },
+    {
+      "text": "a",
+      "start": 15.361125,
+      "duration": 0.069458
+    },
+    {
+      "text": "operação",
+      "start": 15.444458,
+      "duration": 0.680541
+    },
+    {
+      "text": "Um",
+      "start": 17.083333,
+      "duration": 0.194458
+    },
+    {
+      "text": "pedido",
+      "start": 17.291666,
+      "duration": 0.402791
+    },
+    {
+      "text": "enviado",
+      "start": 17.708333,
+      "duration": 0.583333
+    },
+    {
+      "text": "diretamente",
+      "start": 18.305541,
+      "duration": 0.680541
+    },
+    {
+      "text": "ao",
+      "start": 19.0,
+      "duration": 0.069458
+    },
+    {
+      "text": "servidor",
+      "start": 19.083333,
+      "duration": 0.597208
+    },
+    {
+      "text": "não",
+      "start": 19.694458,
+      "duration": 0.236125
+    },
+    {
+      "text": "pode",
+      "start": 19.944458,
+      "duration": 0.319458
+    },
+    {
+      "text": "ignorar",
+      "start": 20.277791,
+      "duration": 0.486125
+    },
+    {
+      "text": "essa",
+      "start": 20.777791,
+      "duration": 0.25
+    },
+    {
+      "text": "regra",
+      "start": 21.041666,
+      "duration": 0.472208
+    }
+  ]
+}

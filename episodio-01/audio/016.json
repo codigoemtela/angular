@@ -1,0 +1,308 @@
+{
+  "id": 16,
+  "chapter": "03 O que fica difícil quando a interface cresce",
+  "section": "A tela também precisa representar a espera",
+  "speaker": "PROF. RODRIGO",
+  "text": "Você consegue, sim. Antes de olhar a contribuição do Angular, vamos localizar as partes. Chamamos de frontend a parte da aplicação com a qual a pessoa interage no navegador. Nossa central também terá um programa no servidor para receber operações, verificar regras e guardar os pedidos. A API é a interface de comunicação que esse programa oferece ao frontend.",
+  "voice": "pt-BR-AntonioNeural",
+  "rate": "-10%",
+  "pitch": "+0Hz",
+  "audio": "audio/016.mp3",
+  "words": [
+    {
+      "text": "Você",
+      "start": 0.105541,
+      "duration": 0.444458
+    },
+    {
+      "text": "consegue",
+      "start": 0.563875,
+      "duration": 0.694458
+    },
+    {
+      "text": "sim",
+      "start": 1.522208,
+      "duration": 0.388875
+    },
+    {
+      "text": "Antes",
+      "start": 2.875,
+      "duration": 0.416666
+    },
+    {
+      "text": "de",
+      "start": 3.305541,
+      "duration": 0.111125
+    },
+    {
+      "text": "olhar",
+      "start": 3.430541,
+      "duration": 0.305541
+    },
+    {
+      "text": "a",
+      "start": 3.75,
+      "duration": 0.055541
+    },
+    {
+      "text": "contribuição",
+      "start": 3.819458,
+      "duration": 0.805541
+    },
+    {
+      "text": "do",
+      "start": 4.638875,
+      "duration": 0.138875
+    },
+    {
+      "text": "Angular",
+      "start": 4.791666,
+      "duration": 0.513875
+    },
+    {
+      "text": "vamos",
+      "start": 5.583333,
+      "duration": 0.319458
+    },
+    {
+      "text": "localizar",
+      "start": 5.916666,
+      "duration": 0.625
+    },
+    {
+      "text": "as",
+      "start": 6.555541,
+      "duration": 0.152791
+    },
+    {
+      "text": "partes",
+      "start": 6.722208,
+      "duration": 0.611125
+    },
+    {
+      "text": "Chamamos",
+      "start": 8.291666,
+      "duration": 0.652791
+    },
+    {
+      "text": "de",
+      "start": 8.958333,
+      "duration": 0.125
+    },
+    {
+      "text": "frontend",
+      "start": 9.097208,
+      "duration": 0.486125
+    },
+    {
+      "text": "a",
+      "start": 9.597208,
+      "duration": 0.111125
+    },
+    {
+      "text": "parte",
+      "start": 9.722208,
+      "duration": 0.361125
+    },
+    {
+      "text": "da",
+      "start": 10.097208,
+      "duration": 0.069458
+    },
+    {
+      "text": "aplicação",
+      "start": 10.180541,
+      "duration": 0.652791
+    },
+    {
+      "text": "com",
+      "start": 10.847208,
+      "duration": 0.222208
+    },
+    {
+      "text": "a",
+      "start": 11.083333,
+      "duration": 0.055541
+    },
+    {
+      "text": "qual",
+      "start": 11.152791,
+      "duration": 0.25
+    },
+    {
+      "text": "a",
+      "start": 11.416666,
+      "duration": 0.069458
+    },
+    {
+      "text": "pessoa",
+      "start": 11.5,
+      "duration": 0.402791
+    },
+    {
+      "text": "interage",
+      "start": 11.916666,
+      "duration": 0.555541
+    },
+    {
+      "text": "no",
+      "start": 12.486125,
+      "duration": 0.069458
+    },
+    {
+      "text": "navegador",
+      "start": 12.569458,
+      "duration": 0.625
+    },
+    {
+      "text": "Nossa",
+      "start": 14.152791,
+      "duration": 0.388875
+    },
+    {
+      "text": "central",
+      "start": 14.555541,
+      "duration": 0.458333
+    },
+    {
+      "text": "também",
+      "start": 15.027791,
+      "duration": 0.388875
+    },
+    {
+      "text": "terá",
+      "start": 15.430541,
+      "duration": 0.180541
+    },
+    {
+      "text": "um",
+      "start": 15.625,
+      "duration": 0.083333
+    },
+    {
+      "text": "programa",
+      "start": 15.722208,
+      "duration": 0.5
+    },
+    {
+      "text": "no",
+      "start": 16.236125,
+      "duration": 0.097208
+    },
+    {
+      "text": "servidor",
+      "start": 16.347208,
+      "duration": 0.611125
+    },
+    {
+      "text": "para",
+      "start": 16.972208,
+      "duration": 0.208333
+    },
+    {
+      "text": "receber",
+      "start": 17.194458,
+      "duration": 0.444458
+    },
+    {
+      "text": "operações",
+      "start": 17.652791,
+      "duration": 0.777791
+    },
+    {
+      "text": "verificar",
+      "start": 18.625,
+      "duration": 0.708333
+    },
+    {
+      "text": "regras",
+      "start": 19.347208,
+      "duration": 0.402791
+    },
+    {
+      "text": "e",
+      "start": 19.763875,
+      "duration": 0.097208
+    },
+    {
+      "text": "guardar",
+      "start": 19.875,
+      "duration": 0.458333
+    },
+    {
+      "text": "os",
+      "start": 20.347208,
+      "duration": 0.111125
+    },
+    {
+      "text": "pedidos",
+      "start": 20.472208,
+      "duration": 0.666666
+    },
+    {
+      "text": "A",
+      "start": 22.097208,
+      "duration": 0.152791
+    },
+    {
+      "text": "API",
+      "start": 22.263875,
+      "duration": 0.555541
+    },
+    {
+      "text": "é",
+      "start": 22.833333,
+      "duration": 0.083333
+    },
+    {
+      "text": "a",
+      "start": 22.930541,
+      "duration": 0.0416659
+    },
+    {
+      "text": "interface",
+      "start": 22.986125,
+      "duration": 0.736125
+    },
+    {
+      "text": "de",
+      "start": 23.736125,
+      "duration": 0.097208
+    },
+    {
+      "text": "comunicação",
+      "start": 23.847208,
+      "duration": 0.791666
+    },
+    {
+      "text": "que",
+      "start": 24.652791,
+      "duration": 0.097208
+    },
+    {
+      "text": "esse",
+      "start": 24.763875,
+      "duration": 0.180541
+    },
+    {
+      "text": "programa",
+      "start": 24.958333,
+      "duration": 0.430541
+    },
+    {
+      "text": "oferece",
+      "start": 25.402791,
+      "duration": 0.513875
+    },
+    {
+      "text": "ao",
+      "start": 25.930541,
+      "duration": 0.083333
+    },
+    {
+      "text": "frontend",
+      "start": 26.027791,
+      "duration": 0.569458
+    }
+  ]
+}

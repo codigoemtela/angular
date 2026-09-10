@@ -1,0 +1,1735 @@
+1
+00:00:05,054 --> 00:00:07,307
+Preciso da ajuda de vocês.
+
+2
+00:00:07,514 --> 00:00:12,391
+Hoje, quando alguém tem um problema com um sistema da empresa, pede ajuda por mensagem,
+
+3
+00:00:12,391 --> 00:00:14,943
+por e-mail ou encontra alguém no corredor.
+
+4
+00:00:15,162 --> 00:00:18,352
+Depois vem a pergunta: quem está cuidando disso?
+
+5
+00:00:18,559 --> 00:00:20,417
+A pessoa que pediu não sabe.
+
+6
+00:00:20,624 --> 00:00:23,950
+A equipe de atendimento precisa procurar a conversa.
+
+7
+00:00:24,158 --> 00:00:27,918
+E às vezes o mesmo problema chega para duas pessoas.
+
+8
+00:00:28,893 --> 00:00:30,832
+Acho que conheço esse sistema.
+
+9
+00:00:30,944 --> 00:00:34,931
+A tela principal é uma conversa com cento e cinquenta mensagens.
+
+10
+00:00:36,387 --> 00:00:39,250
+E a busca depende de lembrar quem respondeu!
+
+11
+00:00:39,472 --> 00:00:44,350
+Queremos dar ao colaborador um lugar para registrar a solicitação e acompanhar o
+
+12
+00:00:44,350 --> 00:00:45,284
+atendimento.
+
+13
+00:00:45,490 --> 00:00:50,653
+A equipe precisa enxergar uma fila organizada, assumir os pedidos e informar o
+
+14
+00:00:50,653 --> 00:00:51,411
+andamento.
+
+15
+00:00:52,356 --> 00:00:57,599
+Esse será o projeto da nossa formação: uma central de solicitações internas.
+
+16
+00:00:58,403 --> 00:01:00,341
+Bem-vindo ao Código em Tela.
+
+17
+00:01:01,139 --> 00:01:06,632
+Eu sou o professor Rodrigo, e você vai acompanhar a construção como parte desta equipe.
+
+18
+00:01:07,431 --> 00:01:13,181
+Vamos partir das necessidades da Helena, nossa PO, discutir as dúvidas e transformar os
+
+19
+00:01:13,181 --> 00:01:15,118
+cards em funcionalidades.
+
+20
+00:01:16,643 --> 00:01:20,798
+Para esse primeiro card, basta criar os campos e fazer o botão salvar?
+
+21
+00:01:22,272 --> 00:01:24,293
+Esse é o começo da conversa.
+
+22
+00:01:25,097 --> 00:01:27,993
+Se a resposta demorar, o que aparece?
+
+23
+00:01:28,792 --> 00:01:32,063
+Se o registro falhar, o texto desaparece?
+
+24
+00:01:32,861 --> 00:01:35,591
+Quem pode consultar esse pedido depois?
+
+25
+00:01:36,389 --> 00:01:39,716
+Nosso formulário já está pedindo algumas decisões.
+
+26
+00:01:41,220 --> 00:01:43,635
+E eu quero conseguir conferir a entrega.
+
+27
+00:01:43,856 --> 00:01:49,043
+O colaborador precisa saber que o pedido foi registrado e como encontrá-lo depois.
+
+28
+00:01:50,022 --> 00:01:53,279
+É nesse tipo de aplicação que vamos estudar Angular.
+
+29
+00:01:54,083 --> 00:02:00,056
+Ele é um framework de desenvolvimento web: oferece recursos e convenções para construir
+
+30
+00:02:00,056 --> 00:02:01,757
+e organizar aplicações.
+
+31
+00:02:02,556 --> 00:02:07,375
+Nesta primeira aula, você vai entender o que ele se propõe a resolver e como chegou à
+
+32
+00:02:07,375 --> 00:02:09,132
+forma que usamos hoje.
+
+33
+00:02:09,931 --> 00:02:14,688
+Ao final, vamos voltar a esse card e analisar uma situação juntos.
+
+34
+00:02:23,727 --> 00:02:28,141
+Vou ajudar a equipe a organizar essas conversas e perceber o que está dificultando o
+
+35
+00:02:28,141 --> 00:02:28,809
+trabalho.
+
+36
+00:02:29,550 --> 00:02:32,027
+Os cards vão acompanhar as entregas.
+
+37
+00:02:32,766 --> 00:02:37,375
+Algumas demandas vão atravessar mais de uma aula, porque precisamos de tempo para
+
+38
+00:02:37,375 --> 00:02:39,605
+entender, construir e verificar.
+
+39
+00:02:41,106 --> 00:02:46,147
+Nosso objetivo é que você consiga receber uma demanda, esclarecer os critérios e
+
+40
+00:02:46,147 --> 00:02:48,182
+implementar uma solução Angular.
+
+41
+00:02:48,986 --> 00:02:54,431
+Isso envolve ler código, consultar documentação e investigar quando alguma coisa dá
+
+42
+00:02:54,431 --> 00:02:55,077
+errado.
+
+43
+00:02:55,875 --> 00:03:00,917
+Você verá a nossa implementação e também terá desafios para resolver com suas próprias
+
+44
+00:03:00,917 --> 00:03:01,882
+decisões.
+
+45
+00:03:03,435 --> 00:03:09,175
+E quem ainda não conhece HTML, CSS e JavaScript consegue começar por aqui?
+
+46
+00:03:10,647 --> 00:03:12,960
+Consegue acompanhar esta introdução.
+
+47
+00:03:13,764 --> 00:03:19,160
+Para construir a aplicação nas aulas práticas, esses fundamentos serão necessários.
+
+48
+00:03:19,958 --> 00:03:26,424
+Teremos um curso completo de HTML, CSS e JavaScript em uma formação própria.
+
+49
+00:03:27,222 --> 00:03:32,222
+Aqui faremos uma revisão aplicada, para retomar o que vamos usar e ajudar você a
+
+50
+00:03:32,222 --> 00:03:34,577
+perceber o que precisa estudar melhor.
+
+51
+00:03:35,856 --> 00:03:42,224
+Se funções, objetos, eventos ou organização de uma página ainda forem assuntos novos,
+
+52
+00:03:42,328 --> 00:03:44,391
+reserve tempo para essa base.
+
+53
+00:03:45,194 --> 00:03:47,479
+Você pode avançar no seu ritmo.
+
+54
+00:03:48,278 --> 00:03:52,931
+Compreender o JavaScript vai ajudar muito quando chegarmos ao TypeScript e ao
+
+55
+00:03:52,931 --> 00:03:54,924
+comportamento dos componentes.
+
+56
+00:03:56,477 --> 00:03:59,827
+E podemos pausar o vídeo, testar uma ideia e voltar.
+
+57
+00:04:00,568 --> 00:04:04,686
+O andamento da história não precisa ser o ritmo de estudo de cada pessoa.
+
+58
+00:04:06,189 --> 00:04:07,363
+Exatamente.
+
+59
+00:04:08,167 --> 00:04:13,750
+O código de referência ficará no meu GitHub, e você poderá manter sua implementação no
+
+60
+00:04:13,750 --> 00:04:15,382
+seu próprio repositório.
+
+61
+00:04:16,181 --> 00:04:20,327
+Hoje, basta acompanhar os exemplos e anotar suas respostas.
+
+62
+00:04:21,125 --> 00:04:26,618
+Vamos começar pelo que acontece entre preencher um formulário e receber uma confirmação.
+
+63
+00:04:31,641 --> 00:04:37,730
+Eu consigo criar esse formulário com HTML, cuidar da aparência com CSS e usar JavaScript
+
+64
+00:04:37,730 --> 00:04:39,029
+para enviar os dados.
+
+65
+00:04:39,722 --> 00:04:41,108
+Onde o Angular entra?
+
+66
+00:04:42,564 --> 00:04:44,529
+Você consegue, sim.
+
+67
+00:04:45,333 --> 00:04:49,952
+Antes de olhar a contribuição do Angular, vamos localizar as partes.
+
+68
+00:04:50,750 --> 00:04:55,813
+Chamamos de frontend a parte da aplicação com a qual a pessoa interage no navegador.
+
+69
+00:04:56,611 --> 00:05:01,806
+Nossa central também terá um programa no servidor para receber operações, verificar
+
+70
+00:05:01,806 --> 00:05:03,757
+regras e guardar os pedidos.
+
+71
+00:05:04,556 --> 00:05:09,216
+A API é a interface de comunicação que esse programa oferece ao frontend.
+
+72
+00:05:10,768 --> 00:05:14,665
+Então clicar em enviar começa uma conversa entre essas partes.
+
+73
+00:05:16,147 --> 00:05:16,793
+Isso.
+
+74
+00:05:17,597 --> 00:05:22,354
+A interface envia uma requisição, e a API devolve uma resposta.
+
+75
+00:05:23,153 --> 00:05:28,313
+Na nossa formação, você poderá executar as duas partes no seu computador.
+
+76
+00:05:29,111 --> 00:05:34,208
+Essa separação de responsabilidades continua existindo mesmo quando elas estão na mesma
+
+77
+00:05:34,208 --> 00:05:34,882
+máquina.
+
+78
+00:05:35,681 --> 00:05:40,966
+Agora vamos acompanhar essa conversa pela perspectiva de quem está preenchendo o pedido.
+
+79
+00:05:42,272 --> 00:05:45,571
+A pessoa preencheu a descrição e clicou em enviar.
+
+80
+00:05:46,375 --> 00:05:49,952
+O pedido saiu, mas a resposta ainda não voltou.
+
+81
+00:05:50,750 --> 00:05:55,952
+Nesse intervalo, a interface precisa representar que há uma operação em andamento.
+
+82
+00:05:57,518 --> 00:06:01,892
+Podemos mudar o texto do botão para Enviando e evitar um segundo clique.
+
+83
+00:06:03,356 --> 00:06:05,571
+Boa decisão para esse fluxo.
+
+84
+00:06:06,375 --> 00:06:09,854
+Quando chegar a confirmação, mostramos o protocolo.
+
+85
+00:06:10,653 --> 00:06:16,160
+Se houver uma falha, precisamos explicar a situação e preservar o que foi preenchido.
+
+86
+00:06:16,958 --> 00:06:22,806
+Agora temos dados que influenciam a apresentação: o texto digitado, a indicação de
+
+87
+00:06:22,806 --> 00:06:27,118
+envio, a resposta recebida e uma possível mensagem de erro.
+
+88
+00:06:28,397 --> 00:06:33,522
+Chamamos de estado as informações que descrevem a situação da aplicação em determinado
+
+89
+00:06:33,522 --> 00:06:34,238
+momento.
+
+90
+00:06:35,042 --> 00:06:37,160
+O filtro selecionado é estado.
+
+91
+00:06:37,958 --> 00:06:40,118
+O pedido aberto na tela também.
+
+92
+00:06:40,917 --> 00:06:43,729
+Estar aguardando uma resposta é outro exemplo.
+
+93
+00:06:44,528 --> 00:06:49,993
+Quando essas informações mudam, a interface precisa acompanhar de maneira coerente.
+
+94
+00:06:51,558 --> 00:06:55,729
+Eu poderia guardar esses valores e escrever funções que atualizam os elementos da
+
+95
+00:06:55,729 --> 00:06:56,371
+página.
+
+96
+00:06:57,814 --> 00:06:58,682
+Poderia.
+
+97
+00:06:59,486 --> 00:07:03,952
+O cuidado é manter essas atualizações corretas em todos os caminhos.
+
+98
+00:07:04,750 --> 00:07:08,188
+No sucesso, o indicador de espera precisa parar.
+
+99
+00:07:08,986 --> 00:07:10,535
+No erro, também.
+
+100
+00:07:11,333 --> 00:07:15,688
+Ao tentar novamente, a mensagem anterior precisa ser tratada.
+
+101
+00:07:16,486 --> 00:07:21,875
+Conforme surgem mais interações, cresce a quantidade de relações que o código precisa
+
+102
+00:07:21,875 --> 00:07:22,632
+expressar.
+
+103
+00:07:32,185 --> 00:07:37,164
+Talvez alguém tenha programado a mudança do botão só no caminho em que tudo dá certo.
+
+104
+00:07:38,647 --> 00:07:41,349
+Essa é uma hipótese que podemos investigar.
+
+105
+00:07:42,153 --> 00:07:47,299
+Repare como entender os estados já ajuda a formular uma pergunta útil sobre o erro.
+
+106
+00:07:48,097 --> 00:07:52,889
+Ainda não precisamos conhecer os comandos do Angular para raciocinar sobre esse
+
+107
+00:07:52,889 --> 00:07:53,924
+comportamento.
+
+108
+00:07:55,189 --> 00:07:57,613
+Vamos olhar outro momento do produto.
+
+109
+00:07:58,417 --> 00:08:03,202
+Um atendente assume uma solicitação, e o sistema confirma a mudança.
+
+110
+00:08:04,000 --> 00:08:06,896
+A lista precisa apresentar o novo status.
+
+111
+00:08:07,694 --> 00:08:13,250
+Se os detalhes dessa mesma solicitação estiverem visíveis, também precisam refletir a
+
+112
+00:08:13,250 --> 00:08:14,938
+informação confirmada.
+
+113
+00:08:16,474 --> 00:08:20,806
+Se cada trecho da tela guardar uma cópia independente, uma delas pode ficar
+
+114
+00:08:20,806 --> 00:08:21,758
+desatualizada.
+
+115
+00:08:23,231 --> 00:08:23,877
+Isso.
+
+116
+00:08:24,681 --> 00:08:29,688
+Precisamos decidir onde a informação é mantida e como chega a quem depende dela.
+
+117
+00:08:30,486 --> 00:08:34,479
+Angular oferece mecanismos para representar essas relações.
+
+118
+00:08:35,278 --> 00:08:39,174
+A organização do estado continua sendo uma decisão nossa.
+
+119
+00:08:39,972 --> 00:08:45,639
+E há outra distinção: atualizar partes desta aplicação é diferente de receber, em tempo
+
+120
+00:08:45,639 --> 00:08:48,771
+real, uma alteração feita em outro computador.
+
+121
+00:08:50,310 --> 00:08:55,405
+Então usar Angular não faz todos os usuários receberem automaticamente as mudanças?
+
+122
+00:08:56,897 --> 00:08:57,488
+Não.
+
+123
+00:08:58,292 --> 00:09:03,333
+A aplicação precisa buscar ou receber os dados atualizados por algum mecanismo de
+
+124
+00:09:03,333 --> 00:09:04,396
+comunicação.
+
+125
+00:09:05,194 --> 00:09:09,827
+Depois disso, organizamos como a informação aparece na interface.
+
+126
+00:09:10,625 --> 00:09:14,424
+Vamos estudar cada responsabilidade no momento adequado.
+
+127
+00:09:15,976 --> 00:09:18,610
+Tenho uma pergunta sobre aquela falha de envio.
+
+128
+00:09:18,716 --> 00:09:20,858
+O que a pessoa vai conseguir entender?
+
+129
+00:09:20,963 --> 00:09:26,115
+Uma mensagem vermelha dizendo Erro pode deixar o usuário sem saber se perdeu o texto ou
+
+130
+00:09:26,115 --> 00:09:27,765
+se deve tentar novamente.
+
+131
+00:09:29,231 --> 00:09:33,182
+Precisamos definir a mensagem e a próxima ação possível.
+
+132
+00:09:33,986 --> 00:09:37,507
+Também precisamos apresentar isso de forma acessível.
+
+133
+00:09:38,306 --> 00:09:43,785
+A cor pode ajudar, mas o conteúdo da mensagem precisa comunicar o que aconteceu.
+
+134
+00:09:45,311 --> 00:09:47,629
+E eu quero verificar mais de um caminho.
+
+135
+00:09:48,379 --> 00:09:53,208
+Vou preencher corretamente, enviar com um campo obrigatório vazio e observar o
+
+136
+00:09:53,208 --> 00:09:56,158
+comportamento quando o serviço estiver indisponível.
+
+137
+00:09:56,906 --> 00:10:01,737
+Se testarmos apenas a confirmação, muita coisa pode passar despercebida.
+
+138
+00:10:03,231 --> 00:10:07,654
+Essas perguntas ajudam a escrever os critérios antes da implementação.
+
+139
+00:10:08,458 --> 00:10:13,604
+Conforme o sistema cresce, várias pessoas vão trabalhar nas mesmas telas.
+
+140
+00:10:14,403 --> 00:10:20,194
+Se copiarmos a apresentação de status em cinco lugares, uma mudança de texto pode exigir
+
+141
+00:10:20,194 --> 00:10:21,646
+cinco correções.
+
+142
+00:10:22,444 --> 00:10:27,243
+Se cada tela tratar os erros de um jeito, a experiência fica inconsistente.
+
+143
+00:10:28,767 --> 00:10:33,132
+Podemos compartilhar uma apresentação quando ela tiver o mesmo significado.
+
+144
+00:10:33,237 --> 00:10:37,501
+Mas duas coisas parecidas podem precisar de comportamentos diferentes.
+
+145
+00:10:38,981 --> 00:10:39,793
+Exato.
+
+146
+00:10:40,597 --> 00:10:44,646
+Reaproveitar exige entender a responsabilidade daquele trecho.
+
+147
+00:10:45,444 --> 00:10:50,549
+O Angular nos dá uma estrutura para construir partes da interface e combiná-las.
+
+148
+00:10:51,347 --> 00:10:57,014
+Isso ajuda na manutenção, mas ainda precisamos escolher bons limites e conversar sobre
+
+149
+00:10:57,014 --> 00:10:58,452
+as regras do produto.
+
+150
+00:11:03,231 --> 00:11:08,002
+Para entender essa proposta, vamos voltar à origem do AngularJS.
+
+151
+00:11:08,806 --> 00:11:11,979
+Miško Hevery começou o projeto em 2009.
+
+152
+00:11:12,778 --> 00:11:17,341
+A iniciativa se desenvolveu com a participação do Google e da comunidade.
+
+153
+00:11:18,139 --> 00:11:23,806
+O problema que estamos discutindo já estava presente: construir interfaces interativas e
+
+154
+00:11:23,806 --> 00:11:27,424
+manter a apresentação relacionada aos dados da aplicação.
+
+155
+00:11:28,974 --> 00:11:33,455
+Era a época em que muita gente usava jQuery para encontrar elementos e responder aos
+
+156
+00:11:33,455 --> 00:11:34,134
+cliques.
+
+157
+00:11:35,564 --> 00:11:37,904
+Esse era um caminho bastante conhecido.
+
+158
+00:11:38,708 --> 00:11:43,556
+Pense na diferença entre escrever uma sequência de comandos para alterar uma mensagem e
+
+159
+00:11:43,556 --> 00:11:46,493
+declarar de qual dado aquela mensagem depende.
+
+160
+00:11:47,292 --> 00:11:54,118
+AngularJS apostou em estender o HTML com recursos para descrever interfaces dinâmicas.
+
+161
+00:11:54,917 --> 00:11:58,757
+Essa maneira de expressar o resultado é chamada de declarativa.
+
+162
+00:12:00,022 --> 00:12:02,224
+Vamos usar um exemplo pequeno.
+
+163
+00:12:03,028 --> 00:12:07,216
+Há um campo para o título da solicitação e uma prévia logo abaixo.
+
+164
+00:12:08,014 --> 00:12:11,716
+A prévia precisa mostrar o título que a pessoa está preenchendo.
+
+165
+00:12:12,514 --> 00:12:18,007
+Em uma descrição declarativa, registramos essa relação no modelo da interface.
+
+166
+00:12:18,806 --> 00:12:22,396
+O framework participa da atualização quando o dado muda.
+
+167
+00:12:23,933 --> 00:12:26,308
+Esse modelo da interface é o template?
+
+168
+00:12:27,731 --> 00:12:28,363
+Sim.
+
+169
+00:12:29,167 --> 00:12:35,403
+Nesse contexto, template é o modelo usado para construir a apresentação, com HTML e
+
+170
+00:12:35,403 --> 00:12:38,229
+instruções que relacionam a tela aos dados.
+
+171
+00:12:39,028 --> 00:12:41,799
+Essa ligação é chamada de data binding.
+
+172
+00:12:42,597 --> 00:12:48,854
+O AngularJS ficou muito associado ao two-way data binding, ou ligação em duas direções:
+
+173
+00:12:49,056 --> 00:12:54,202
+editar o campo pode atualizar o modelo, e alterar o modelo pode atualizar o campo.
+
+174
+00:12:55,481 --> 00:12:58,529
+A ligação depende de como o programa foi escrito.
+
+175
+00:12:59,333 --> 00:13:04,382
+Não significa que qualquer variável esteja conectada a qualquer parte da página.
+
+176
+00:13:05,181 --> 00:13:08,521
+Também não envia automaticamente o conteúdo ao banco.
+
+177
+00:13:09,319 --> 00:13:12,841
+Estamos falando da relação entre dados e interface.
+
+178
+00:13:14,344 --> 00:13:19,278
+Então a equipe passava a descrever melhor as relações da tela, em vez de distribuir as
+
+179
+00:13:19,278 --> 00:13:21,339
+alterações por vários eventos?
+
+180
+00:13:22,272 --> 00:13:25,627
+Essa é uma forma de entender a mudança de abordagem.
+
+181
+00:13:26,431 --> 00:13:30,549
+No nosso exemplo, fica explícito que a prévia depende do título.
+
+182
+00:13:31,347 --> 00:13:36,236
+Quando uma pessoa entra na equipe, ela pode procurar essa relação no template e no
+
+183
+00:13:36,236 --> 00:13:37,854
+código que mantém o dado.
+
+184
+00:13:38,653 --> 00:13:42,216
+Isso facilita discutir a intenção da implementação.
+
+185
+00:13:43,766 --> 00:13:48,469
+Mas o programador ainda precisa decidir quando enviar, como tratar um erro e o que fazer
+
+186
+00:13:48,469 --> 00:13:49,458
+com a resposta.
+
+187
+00:13:50,897 --> 00:13:51,779
+Precisa.
+
+188
+00:13:52,582 --> 00:13:57,381
+A programação declarativa da interface não elimina as demais decisões.
+
+189
+00:13:58,181 --> 00:14:00,854
+Você continua escrevendo comportamento.
+
+190
+00:14:01,653 --> 00:14:07,167
+O benefício é poder expressar certas relações diretamente, sem repetir cada operação
+
+191
+00:14:07,167 --> 00:14:10,743
+visual em todos os lugares que alteram os mesmos dados.
+
+192
+00:14:12,262 --> 00:14:15,161
+Também precisamos pensar nas dependências.
+
+193
+00:14:15,372 --> 00:14:19,641
+A tela vai conversar com algo que busca ou registra a solicitação.
+
+194
+00:14:20,606 --> 00:14:25,224
+AngularJS já trazia serviços e injeção de dependências.
+
+195
+00:14:26,028 --> 00:14:31,292
+A ideia era organizar responsabilidades e fornecer a uma parte do programa aquilo de que
+
+196
+00:14:31,292 --> 00:14:32,424
+ela precisava.
+
+197
+00:14:33,222 --> 00:14:38,528
+Esses conceitos ajudavam a estruturar aplicações e a substituir dependências durante
+
+198
+00:14:38,528 --> 00:14:39,341
+testes.
+
+199
+00:14:40,139 --> 00:14:43,229
+Eles continuariam importantes na história do Angular.
+
+200
+00:14:44,522 --> 00:14:49,397
+Se você encontrar um tutorial com controllers e dólar scope, terá pistas de que o
+
+201
+00:14:49,397 --> 00:14:52,238
+exemplo pertence ao AngularJS.
+
+202
+00:14:53,042 --> 00:14:57,299
+Vamos reconhecer esses nomes para identificar a geração do material.
+
+203
+00:14:58,097 --> 00:15:03,688
+Não será necessário estudar todas essas APIs antigas para começar nossa implementação.
+
+204
+00:15:04,981 --> 00:15:10,307
+Em setembro de 2016, foi lançada a versão final do Angular 2.
+
+205
+00:15:11,111 --> 00:15:14,410
+Essa passagem marcou uma reescrita do framework.
+
+206
+00:15:15,208 --> 00:15:20,806
+A arquitetura foi reorganizada em torno da composição por componentes, e o TypeScript
+
+207
+00:15:20,806 --> 00:15:24,507
+passou a ter um papel central na forma de desenvolver com Angular.
+
+208
+00:15:26,012 --> 00:15:31,943
+Se uma empresa tinha um sistema em AngularJS, bastava atualizar o pacote para continuar?
+
+209
+00:15:32,897 --> 00:15:33,488
+Não.
+
+210
+00:15:34,292 --> 00:15:37,924
+Havia diferenças nas APIs e na organização do código.
+
+211
+00:15:38,722 --> 00:15:41,035
+Migrar exigia trabalho planejado.
+
+212
+00:15:41,833 --> 00:15:47,118
+A própria equipe do Angular disponibilizou recursos para permitir uma transição gradual,
+
+213
+00:15:47,333 --> 00:15:51,827
+com partes antigas e novas convivendo enquanto a aplicação era adaptada.
+
+214
+00:15:53,344 --> 00:15:58,544
+Isso faz diferença para quem precisa manter o atendimento funcionando durante a mudança.
+
+215
+00:15:58,756 --> 00:16:03,637
+Não dá para interromper todos os pedidos enquanto a equipe reescreve as telas.
+
+216
+00:16:04,564 --> 00:16:07,432
+E essa é uma consequência importante da história.
+
+217
+00:16:08,236 --> 00:16:12,049
+Uma escolha técnica também cria compromissos de manutenção.
+
+218
+00:16:12,847 --> 00:16:18,931
+Ao avaliar uma migração, precisamos considerar o que existe, como verificar os fluxos e
+
+219
+00:16:18,931 --> 00:16:20,757
+como realizar a transição.
+
+220
+00:16:21,556 --> 00:16:25,882
+Uma aplicação continuar abrindo é apenas uma parte dessa verificação.
+
+221
+00:16:27,433 --> 00:16:32,593
+Então AngularJS e Angular não são dois nomes intercambiáveis para o mesmo código.
+
+222
+00:16:34,022 --> 00:16:34,668
+Isso.
+
+223
+00:16:35,472 --> 00:16:38,507
+AngularJS identifica a família um.
+
+224
+00:16:39,306 --> 00:16:45,271
+Angular, sem JS no final, identifica a família que começou na versão dois.
+
+225
+00:16:46,069 --> 00:16:50,021
+Você também pode encontrar a expressão Angular dois ou superior.
+
+226
+00:16:50,819 --> 00:16:54,118
+Nossa formação trabalhará com essa família moderna.
+
+227
+00:16:55,594 --> 00:16:58,214
+E a notícia de que o suporte tinha acabado?
+
+228
+00:16:59,147 --> 00:17:05,925
+O suporte oficial ao AngularJS foi encerrado no fim de 2021, com o comunicado publicado
+
+229
+00:17:05,925 --> 00:17:08,043
+em janeiro de 2022.
+
+230
+00:17:08,847 --> 00:17:14,292
+Isso não fez as aplicações pararem de funcionar naquele dia, mas encerrou aquele suporte
+
+231
+00:17:14,292 --> 00:17:15,063
+oficial.
+
+232
+00:17:15,861 --> 00:17:22,139
+A informação se refere ao AngularJS, e precisa ser distinguida da evolução do Angular
+
+233
+00:17:22,139 --> 00:17:22,896
+moderno.
+
+234
+00:17:24,189 --> 00:17:27,446
+A história continuou depois de 2016.
+
+235
+00:17:28,250 --> 00:17:32,466
+Em 2020, Angular 9 passou a usar Ivy por padrão.
+
+236
+00:17:33,264 --> 00:17:37,382
+Ivy é uma infraestrutura de compilação e execução do framework.
+
+237
+00:17:38,181 --> 00:17:42,118
+Compilar envolve preparar e transformar o código para execução.
+
+238
+00:17:42,917 --> 00:17:47,743
+Essa infraestrutura também participa da produção e atualização da interface.
+
+239
+00:17:48,542 --> 00:17:53,354
+A mudança trouxe avanços nas ferramentas e na maneira de preparar a aplicação.
+
+240
+00:17:54,893 --> 00:17:59,499
+Eu preciso entender esse funcionamento interno para criar meu primeiro componente?
+
+241
+00:18:00,981 --> 00:18:01,571
+Não.
+
+242
+00:18:02,375 --> 00:18:07,035
+Aqui, vale reconhecer que um framework também evolui por dentro.
+
+243
+00:18:07,833 --> 00:18:12,118
+Algumas mudanças aparecem diretamente no código que escrevemos.
+
+244
+00:18:12,917 --> 00:18:17,507
+Outras melhoram a infraestrutura que transforma esse código e o faz funcionar.
+
+245
+00:18:18,814 --> 00:18:24,849
+Em 2022, Angular 14 apresentou os componentes standalone como uma prévia.
+
+246
+00:18:25,653 --> 00:18:28,716
+Angular 15 tornou essas APIs estáveis.
+
+247
+00:18:29,514 --> 00:18:35,104
+A proposta foi reduzir a necessidade de NgModules na composição das aplicações.
+
+248
+00:18:35,903 --> 00:18:40,577
+Isso permitiu declarar dependências de componentes de uma maneira mais direta.
+
+249
+00:18:42,143 --> 00:18:45,860
+Standalone quer dizer que o componente não depende de ninguém?
+
+250
+00:18:47,356 --> 00:18:52,891
+O nome pode sugerir isso, mas ele pode depender de outros componentes e serviços.
+
+251
+00:18:53,694 --> 00:18:57,882
+A mudança está na forma de declarar e organizar essas dependências.
+
+252
+00:18:58,681 --> 00:19:04,306
+Se você encontrar uma aplicação organizada com NgModules, está vendo uma abordagem que
+
+253
+00:19:04,306 --> 00:19:08,729
+faz parte da história do Angular e que ainda aparece em bases existentes.
+
+254
+00:19:10,022 --> 00:19:15,113
+Em 2023, Angular 16 introduziu uma prévia dos signals.
+
+255
+00:19:15,917 --> 00:19:20,646
+Um signal representa um valor que pode participar de relações reativas.
+
+256
+00:19:21,444 --> 00:19:26,993
+Podemos, por exemplo, representar um título e fazer a apresentação depender dele.
+
+257
+00:19:27,792 --> 00:19:33,125
+Ao atualizar esse valor pelos mecanismos adequados, o Angular consegue acompanhar as
+
+258
+00:19:33,125 --> 00:19:35,924
+partes que dependem dele e precisam reagir.
+
+259
+00:19:37,477 --> 00:19:42,173
+Isso se relaciona com a nossa conversa sobre manter os dados e a tela coerentes.
+
+260
+00:19:43,647 --> 00:19:44,279
+Sim.
+
+261
+00:19:45,083 --> 00:19:51,097
+E no mesmo ano, Angular 17 apresentou uma nova sintaxe para condições e repetições nos
+
+262
+00:19:51,097 --> 00:19:57,160
+templates, inicialmente como prévia, além da nova documentação em angular ponto dev.
+
+263
+00:19:57,958 --> 00:20:01,702
+São mudanças na experiência de escrever e aprender Angular.
+
+264
+00:20:02,500 --> 00:20:07,118
+Não precisamos percorrer todas as versões para reconhecer essa direção.
+
+265
+00:20:08,397 --> 00:20:11,557
+Os marcos continuam depois dessa linha do tempo.
+
+266
+00:20:12,361 --> 00:20:18,104
+Quando formos preparar o ambiente, usaremos versões definidas no material da formação.
+
+267
+00:20:18,903 --> 00:20:24,424
+Ao consultar um exemplo externo, confira a versão e a documentação correspondente.
+
+268
+00:20:25,222 --> 00:20:30,639
+Isso evita juntar instruções de momentos diferentes e interpretar toda diferença como um
+
+269
+00:20:30,639 --> 00:20:31,466
+erro seu.
+
+270
+00:20:36,272 --> 00:20:39,196
+Podemos agora dar uma definição com contexto.
+
+271
+00:20:40,000 --> 00:20:45,542
+Angular é um framework de código aberto para construir aplicações web, mantido por uma
+
+272
+00:20:45,542 --> 00:20:48,479
+equipe no Google com participação da comunidade.
+
+273
+00:20:49,278 --> 00:20:54,854
+Ele oferece uma estrutura para organizar a interface, as dependências e o comportamento,
+
+274
+00:20:54,972 --> 00:20:59,035
+acompanhada de ferramentas e bibliotecas para tarefas frequentes.
+
+275
+00:21:00,560 --> 00:21:03,658
+Qual é a diferença entre isso e usar uma biblioteca?
+
+276
+00:21:05,147 --> 00:21:07,891
+Pense no grau de organização oferecido.
+
+277
+00:21:08,694 --> 00:21:13,361
+Uma biblioteca costuma fornecer recursos que você chama dentro da estrutura que
+
+278
+00:21:13,361 --> 00:21:14,118
+escolheu.
+
+279
+00:21:14,917 --> 00:21:20,049
+Um framework também estabelece convenções e participa da execução da aplicação.
+
+280
+00:21:20,847 --> 00:21:26,708
+Em Angular, escrevemos componentes seguindo seu modelo, e o framework coordena como eles
+
+281
+00:21:26,708 --> 00:21:29,771
+entram na interface e respondem às mudanças.
+
+282
+00:21:31,064 --> 00:21:36,141
+Um componente representa uma parte da interface com uma responsabilidade definida.
+
+283
+00:21:36,944 --> 00:21:42,111
+Podemos ter um componente para apresentar o status de uma solicitação e usá-lo na lista
+
+284
+00:21:42,111 --> 00:21:43,202
+e nos detalhes.
+
+285
+00:21:44,000 --> 00:21:47,118
+Cada uso recebe a informação correspondente.
+
+286
+00:21:47,917 --> 00:21:53,799
+Se alterarmos a apresentação compartilhada, conseguimos manter esses lugares coerentes.
+
+287
+00:21:55,352 --> 00:21:57,676
+E o que existe dentro de um componente?
+
+288
+00:21:59,147 --> 00:22:04,182
+Há um template para descrever a apresentação e código para os dados e comportamentos.
+
+289
+00:22:04,986 --> 00:22:07,979
+Podemos associar estilos àquele componente.
+
+290
+00:22:08,778 --> 00:22:15,827
+No nosso trabalho, você verá HTML, CSS e TypeScript participando dessa construção.
+
+291
+00:22:16,625 --> 00:22:20,841
+Por isso a base da web continua presente quando adotamos Angular.
+
+292
+00:22:22,393 --> 00:22:27,038
+Eu separaria o formulário da listagem, porque eles têm interações diferentes.
+
+293
+00:22:27,150 --> 00:22:31,704
+Mas não criaria um componente para cada palavra só para aumentar a quantidade.
+
+294
+00:22:33,189 --> 00:22:35,099
+É um bom ponto de partida.
+
+295
+00:22:35,903 --> 00:22:41,042
+Ao implementar, vamos avaliar essas divisões pelo comportamento e pelas mudanças que
+
+296
+00:22:41,042 --> 00:22:42,313
+precisamos fazer.
+
+297
+00:22:43,111 --> 00:22:48,792
+A possibilidade de criar componentes nos ajuda a organizar o código; o tamanho adequado
+
+298
+00:22:48,792 --> 00:22:50,757
+depende da responsabilidade.
+
+299
+00:22:52,261 --> 00:22:55,266
+Onde colocamos o código que conversa com a API?
+
+300
+00:22:55,480 --> 00:22:59,562
+Eu não gostaria de repetir os detalhes da comunicação em cada tela.
+
+301
+00:23:00,522 --> 00:23:04,363
+Podemos concentrar essa responsabilidade em um serviço Angular.
+
+302
+00:23:05,167 --> 00:23:10,431
+Por exemplo, um serviço de solicitações pode oferecer operações para consultar e
+
+303
+00:23:10,431 --> 00:23:11,813
+registrar pedidos.
+
+304
+00:23:12,611 --> 00:23:18,174
+Os componentes usam essas operações sem precisar duplicar todos os detalhes da chamada.
+
+305
+00:23:19,439 --> 00:23:24,460
+A injeção de dependências permite fornecer esse serviço a quem precisa dele.
+
+306
+00:23:25,264 --> 00:23:30,486
+O componente declara a dependência, e o sistema de injeção resolve o fornecimento
+
+307
+00:23:30,486 --> 00:23:32,285
+conforme a configuração.
+
+308
+00:23:33,083 --> 00:23:38,347
+Mais adiante vamos ver isso no código e entender como essa organização também ajuda nos
+
+309
+00:23:38,347 --> 00:23:39,132
+testes.
+
+310
+00:23:40,636 --> 00:23:43,482
+E esse serviço Angular não é a própria API.
+
+311
+00:23:44,439 --> 00:23:45,279
+Correto.
+
+312
+00:23:46,083 --> 00:23:48,229
+Aqui ele faz parte do frontend.
+
+313
+00:23:49,028 --> 00:23:54,569
+A API é outra parte do sistema, que recebe as requisições e executa operações no
+
+314
+00:23:54,569 --> 00:23:55,327
+servidor.
+
+315
+00:23:56,125 --> 00:24:01,007
+O Angular oferece o HttpClient para organizar a comunicação HTTP.
+
+316
+00:24:01,806 --> 00:24:07,236
+Ainda precisamos decidir quais dados enviar, como interpretar a resposta e como tratar
+
+317
+00:24:07,236 --> 00:24:08,063
+uma falha.
+
+318
+00:24:09,356 --> 00:24:14,085
+Nossa API em Node será fornecida pronta, com instruções para execução.
+
+319
+00:24:14,889 --> 00:24:18,979
+Durante a formação, vamos aprender a consumi-la pelo Angular.
+
+320
+00:24:19,778 --> 00:24:24,819
+Quando a pessoa registrar uma solicitação, será a API que validará aquela operação e
+
+321
+00:24:24,819 --> 00:24:27,021
+cuidará da persistência no banco.
+
+322
+00:24:27,819 --> 00:24:30,799
+A interface exibirá o resultado recebido.
+
+323
+00:24:32,302 --> 00:24:37,582
+Isso permite estudar o frontend com uma integração concreta, mantendo claro o contrato
+
+324
+00:24:37,582 --> 00:24:38,659
+entre as partes.
+
+325
+00:24:39,606 --> 00:24:40,779
+Exatamente.
+
+326
+00:24:41,583 --> 00:24:45,063
+O contrato descreve o que a API espera e o que devolve.
+
+327
+00:24:45,861 --> 00:24:49,257
+Se ele mudar, precisamos avaliar a integração.
+
+328
+00:24:50,056 --> 00:24:55,688
+Ter uma separação de responsabilidades torna mais fácil localizar o trabalho necessário.
+
+329
+00:24:57,224 --> 00:24:59,402
+E navegar da lista para os detalhes?
+
+330
+00:25:00,095 --> 00:25:02,693
+É outra biblioteca que a equipe precisa escolher?
+
+331
+00:25:04,147 --> 00:25:06,821
+Angular oferece um roteador oficial.
+
+332
+00:25:07,625 --> 00:25:12,924
+Ele relaciona os endereços às partes da aplicação e permite organizar a navegação.
+
+333
+00:25:13,722 --> 00:25:19,444
+Também há recursos para formulários, validação e carregamento de partes do código sob
+
+334
+00:25:19,444 --> 00:25:23,132
+demanda, que você vai encontrar pelo nome lazy loading.
+
+335
+00:25:24,439 --> 00:25:29,383
+Uma aplicação pode trocar a tela dentro do navegador sem recarregar um documento inteiro
+
+336
+00:25:29,383 --> 00:25:30,613
+a cada navegação.
+
+337
+00:25:31,417 --> 00:25:36,313
+Você verá isso associado à expressão single-page application, ou SPA.
+
+338
+00:25:37,111 --> 00:25:41,549
+Isso não quer dizer que o produto tenha uma única tela ou um único endereço.
+
+339
+00:25:43,100 --> 00:25:45,302
+E Angular só funciona dessa maneira?
+
+340
+00:25:46,731 --> 00:25:51,863
+Ele também oferece renderização no servidor e geração de páginas estáticas.
+
+341
+00:25:52,667 --> 00:25:54,896
+A estratégia depende do produto.
+
+342
+00:25:55,694 --> 00:26:00,479
+Nossa primeira preocupação será compreender a interface interativa da central.
+
+343
+00:26:01,278 --> 00:26:06,792
+Depois podemos avaliar as necessidades de publicação sem confundir Angular com uma única
+
+344
+00:26:06,792 --> 00:26:08,702
+forma de entregar páginas.
+
+345
+00:26:09,981 --> 00:26:15,703
+Na prática, usaremos o VS Code e as ferramentas do Angular para criar e trabalhar no
+
+346
+00:26:15,703 --> 00:26:16,502
+projeto.
+
+347
+00:26:17,306 --> 00:26:22,681
+TypeScript ajudará a descrever os tipos dos dados e identificar certas inconsistências
+
+348
+00:26:22,681 --> 00:26:24,299
+durante o desenvolvimento.
+
+349
+00:26:25,097 --> 00:26:30,458
+Ele se apoia no JavaScript, e seu uso não substitui validar o que chega de fora da
+
+350
+00:26:30,458 --> 00:26:31,313
+aplicação.
+
+351
+00:26:32,850 --> 00:26:37,404
+Então podemos ter apoio das ferramentas e ainda assim precisar conferir o resultado em
+
+352
+00:26:37,404 --> 00:26:38,158
+execução.
+
+353
+00:26:39,606 --> 00:26:40,238
+Sim.
+
+354
+00:26:41,042 --> 00:26:43,938
+Essa combinação fará parte do treinamento.
+
+355
+00:26:44,736 --> 00:26:50,354
+Vamos usar o que as ferramentas oferecem e observar o comportamento que a demanda exige.
+
+356
+00:26:55,394 --> 00:26:58,844
+Se usarmos Angular, a aplicação já fica segura?
+
+357
+00:27:00,314 --> 00:27:06,168
+Angular oferece recursos de proteção, mas a segurança depende da implementação inteira.
+
+358
+00:27:06,972 --> 00:27:12,819
+Na nossa central, esconder um botão pode orientar a interface, mas a API também precisa
+
+359
+00:27:12,819 --> 00:27:16,493
+verificar se a pessoa está autorizada a executar a operação.
+
+360
+00:27:17,292 --> 00:27:21,882
+Um pedido enviado diretamente ao servidor não pode ignorar essa regra.
+
+361
+00:27:23,436 --> 00:27:28,649
+Então eu verificaria a permissão na operação, além de observar o que aparece na tela.
+
+362
+00:27:30,147 --> 00:27:30,779
+Sim.
+
+363
+00:27:31,583 --> 00:27:37,368
+Quando estudarmos autenticação, separaremos identificação, permissões e navegação.
+
+364
+00:27:38,167 --> 00:27:43,278
+O frontend participa dessa experiência, e o servidor precisa aplicar os controles de
+
+365
+00:27:43,278 --> 00:27:44,035
+acesso.
+
+366
+00:27:44,833 --> 00:27:49,313
+Esse princípio já deve fazer parte da maneira como pensamos o produto.
+
+367
+00:27:50,850 --> 00:27:55,190
+E a interface não fica clara só porque os componentes estão organizados.
+
+368
+00:27:55,295 --> 00:28:00,119
+Ainda precisamos cuidar dos textos, da navegação por teclado e do que acontece quando a
+
+369
+00:28:00,119 --> 00:28:02,476
+pessoa não consegue concluir uma ação.
+
+370
+00:28:03,939 --> 00:28:08,946
+Também precisaremos cuidar do desempenho, das dependências e da manutenção.
+
+371
+00:28:09,750 --> 00:28:12,466
+Uma ferramenta oferece possibilidades.
+
+372
+00:28:13,264 --> 00:28:17,910
+Para usá-las bem, avaliamos a necessidade e verificamos o resultado.
+
+373
+00:28:18,708 --> 00:28:23,875
+Em um site pequeno com poucas interações, talvez uma estrutura mais simples seja
+
+374
+00:28:23,875 --> 00:28:24,896
+suficiente.
+
+375
+00:28:25,694 --> 00:28:31,202
+Na nossa central, vamos explorar Angular porque teremos várias telas, estados,
+
+376
+00:28:31,347 --> 00:28:34,632
+integrações e responsabilidades compartilhadas.
+
+377
+00:28:36,184 --> 00:28:40,792
+E podemos aprender o motivo de uma escolha, para depois avaliar outro projeto com mais
+
+378
+00:28:40,792 --> 00:28:41,508
+critério.
+
+379
+00:28:42,981 --> 00:28:44,446
+Esse é o objetivo.
+
+380
+00:28:45,250 --> 00:28:51,069
+Ao justificar uma decisão, procure relacioná-la a um problema observável: duplicação de
+
+381
+00:28:51,069 --> 00:28:56,958
+comportamento, dificuldade de manutenção, informação inconsistente ou uma necessidade de
+
+382
+00:28:56,958 --> 00:28:57,410
+uso.
+
+383
+00:28:58,208 --> 00:29:02,202
+Assim a conversa técnica ajuda a equipe a decidir o que fazer.
+
+384
+00:29:07,221 --> 00:29:10,452
+Vamos conferir o que esperamos desse primeiro pedido.
+
+385
+00:29:10,671 --> 00:29:15,926
+A pessoa precisa registrar a solicitação e receber um protocolo para acompanhá-la.
+
+386
+00:29:16,161 --> 00:29:19,256
+Quero mostrar uma situação para vocês avaliarem.
+
+387
+00:29:20,231 --> 00:29:23,377
+A pessoa escreveu a descrição e clicou em enviar.
+
+388
+00:29:24,181 --> 00:29:28,785
+A tela limpou os campos e mostrou Solicitação registrada imediatamente.
+
+389
+00:29:29,583 --> 00:29:33,521
+Só depois chegou uma resposta informando que a operação falhou.
+
+390
+00:29:34,319 --> 00:29:39,396
+Pense em três pontos: qual informação a interface apresentou antes da hora?
+
+391
+00:29:40,194 --> 00:29:42,702
+O que deveria aparecer durante a espera?
+
+392
+00:29:43,500 --> 00:29:46,743
+E o que você faria com o texto diante dessa falha?
+
+393
+00:30:00,310 --> 00:30:04,826
+A tela afirmou que o pedido estava registrado antes de receber a confirmação.
+
+394
+00:30:04,938 --> 00:30:08,551
+Durante a espera, eu mostraria que o envio está em andamento.
+
+395
+00:30:08,662 --> 00:30:13,533
+E manteria o texto disponível se o registro falhasse, para a pessoa poder corrigir ou
+
+396
+00:30:13,533 --> 00:30:16,038
+tentar de novo conforme a orientação.
+
+397
+00:30:17,519 --> 00:30:23,059
+Eu verificaria se a mensagem de sucesso só aparece depois da confirmação, se o protocolo
+
+398
+00:30:23,059 --> 00:30:26,561
+recebido é apresentado e se a falha preserva o preenchimento.
+
+399
+00:30:27,311 --> 00:30:31,563
+Também observaria se o indicador de envio termina nos dois caminhos.
+
+400
+00:30:33,064 --> 00:30:38,377
+Essas respostas relacionam uma necessidade de uso aos estados e à integração.
+
+401
+00:30:39,181 --> 00:30:43,035
+A interface mantém o preenchimento e apresenta o andamento.
+
+402
+00:30:43,833 --> 00:30:47,979
+A API confirma ou rejeita a operação conforme suas regras.
+
+403
+00:30:48,778 --> 00:30:51,632
+O código precisa lidar com cada resultado.
+
+404
+00:30:52,431 --> 00:30:57,931
+Angular ajuda a organizar essa implementação, e o comportamento esperado vem da demanda
+
+405
+00:30:57,931 --> 00:30:59,118
+que discutimos.
+
+406
+00:31:00,637 --> 00:31:04,411
+Agora consigo olhar a entrega com critérios mais claros.
+
+407
+00:31:04,619 --> 00:31:09,059
+Uma mensagem bonita não basta se eu não consigo confiar no que ela informa.
+
+408
+00:31:10,022 --> 00:31:14,293
+Para praticar sozinho, analise o segundo cenário que está na tela.
+
+409
+00:31:15,097 --> 00:31:19,972
+Escreva qual informação precisa ser preservada e um critério que permita verificar o
+
+410
+00:31:19,972 --> 00:31:21,257
+retorno à lista.
+
+411
+00:31:22,056 --> 00:31:24,382
+Você não precisa implementar ainda.
+
+412
+00:31:25,181 --> 00:31:29,966
+Precisa conseguir explicar a expectativa e como observar se ela foi atendida.
+
+413
+00:31:31,272 --> 00:31:36,981
+Antes de terminar, responda também com suas palavras: por que estamos usando Angular
+
+414
+00:31:36,981 --> 00:31:38,043
+neste projeto?
+
+415
+00:31:38,847 --> 00:31:44,341
+E como você distinguiria um tutorial de AngularJS de um material da família Angular?
+
+416
+00:31:45,139 --> 00:31:48,757
+Se precisar voltar a um trecho, use os capítulos.
+
+417
+00:31:49,556 --> 00:31:53,729
+O importante é construir uma explicação que faça sentido para você.
+
+418
+00:31:58,769 --> 00:32:00,947
+Nosso card continua em A fazer.
+
+419
+00:32:01,687 --> 00:32:06,414
+Já entendemos melhor a necessidade e levantamos comportamentos que vamos conferir quando
+
+420
+00:32:06,414 --> 00:32:07,902
+houver uma implementação.
+
+421
+00:32:09,397 --> 00:32:14,863
+Hoje, você viu por que uma interface com várias interações precisa de organização.
+
+422
+00:32:15,667 --> 00:32:22,125
+Acompanhou a proposta do AngularJS, a mudança de geração em 2016 e alguns marcos da
+
+423
+00:32:22,125 --> 00:32:23,521
+evolução do Angular.
+
+424
+00:32:24,319 --> 00:32:29,952
+Também relacionou componentes, estado e comunicação com a API ao nosso projeto.
+
+425
+00:32:31,231 --> 00:32:36,717
+Na próxima aula, vamos observar um componente pequeno e acompanhar como uma ação altera
+
+426
+00:32:36,717 --> 00:32:38,974
+um dado e aparece na interface.
+
+427
+00:32:39,778 --> 00:32:44,299
+Vamos aproximar esses conceitos do código, explicando cada parte.
+
+428
+00:32:45,097 --> 00:32:50,458
+Guarde suas respostas do exercício para comparar com as decisões que faremos ao longo da
+
+429
+00:32:50,458 --> 00:32:51,327
+formação.
+
+430
+00:32:52,606 --> 00:32:57,703
+Se surgir uma dúvida, anote o trecho e tente descrever o que você entendeu e onde a
+
+431
+00:32:57,703 --> 00:33:00,113
+explicação deixou de fazer sentido.
+
+432
+00:33:00,917 --> 00:33:04,021
+Você pode me enviar essa pergunta por mensagem.
+
+433
+00:33:04,819 --> 00:33:07,535
+Obrigado por acompanhar o Código em Tela.
+
+434
+00:33:08,333 --> 00:33:09,938
+Até a próxima aula.

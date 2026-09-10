@@ -1,0 +1,198 @@
+{
+  "id": 48,
+  "chapter": "04 A história do Angular e as mudanças de geração",
+  "section": "O que essa proposta mudou no trabalho",
+  "speaker": "PROF. RODRIGO",
+  "text": "Precisa. A programação declarativa da interface não elimina as demais decisões. Você continua escrevendo comportamento. O benefício é poder expressar certas relações diretamente, sem repetir cada operação visual em todos os lugares que alteram os mesmos dados.",
+  "voice": "pt-BR-AntonioNeural",
+  "rate": "-10%",
+  "pitch": "+0Hz",
+  "audio": "audio/048.mp3",
+  "words": [
+    {
+      "text": "Precisa",
+      "start": 0.105541,
+      "duration": 0.722208
+    },
+    {
+      "text": "A",
+      "start": 1.790291,
+      "duration": 0.138875
+    },
+    {
+      "text": "programação",
+      "start": 1.943041,
+      "duration": 0.777791
+    },
+    {
+      "text": "declarativa",
+      "start": 2.734708,
+      "duration": 0.75
+    },
+    {
+      "text": "da",
+      "start": 3.498625,
+      "duration": 0.083333
+    },
+    {
+      "text": "interface",
+      "start": 3.595833,
+      "duration": 0.763875
+    },
+    {
+      "text": "não",
+      "start": 4.373625,
+      "duration": 0.208333
+    },
+    {
+      "text": "elimina",
+      "start": 4.595833,
+      "duration": 0.444458
+    },
+    {
+      "text": "as",
+      "start": 5.054166,
+      "duration": 0.097208
+    },
+    {
+      "text": "demais",
+      "start": 5.165291,
+      "duration": 0.416666
+    },
+    {
+      "text": "decisões",
+      "start": 5.595833,
+      "duration": 0.833333
+    },
+    {
+      "text": "Você",
+      "start": 7.388875,
+      "duration": 0.375
+    },
+    {
+      "text": "continua",
+      "start": 7.777791,
+      "duration": 0.5
+    },
+    {
+      "text": "escrevendo",
+      "start": 8.291666,
+      "duration": 0.666666
+    },
+    {
+      "text": "comportamento",
+      "start": 8.972208,
+      "duration": 0.930541
+    },
+    {
+      "text": "O",
+      "start": 10.861125,
+      "duration": 0.097208
+    },
+    {
+      "text": "benefício",
+      "start": 10.972208,
+      "duration": 0.666666
+    },
+    {
+      "text": "é",
+      "start": 11.652791,
+      "duration": 0.0416659
+    },
+    {
+      "text": "poder",
+      "start": 11.708333,
+      "duration": 0.319458
+    },
+    {
+      "text": "expressar",
+      "start": 12.041666,
+      "duration": 0.555541
+    },
+    {
+      "text": "certas",
+      "start": 12.611125,
+      "duration": 0.486125
+    },
+    {
+      "text": "relações",
+      "start": 13.111125,
+      "duration": 0.611125
+    },
+    {
+      "text": "diretamente",
+      "start": 13.736125,
+      "duration": 0.763875
+    },
+    {
+      "text": "sem",
+      "start": 14.861125,
+      "duration": 0.194458
+    },
+    {
+      "text": "repetir",
+      "start": 15.069458,
+      "duration": 0.513875
+    },
+    {
+      "text": "cada",
+      "start": 15.597208,
+      "duration": 0.263875
+    },
+    {
+      "text": "operação",
+      "start": 15.875,
+      "duration": 0.486125
+    },
+    {
+      "text": "visual",
+      "start": 16.375,
+      "duration": 0.486125
+    },
+    {
+      "text": "em",
+      "start": 16.875,
+      "duration": 0.152791
+    },
+    {
+      "text": "todos",
+      "start": 17.041666,
+      "duration": 0.347208
+    },
+    {
+      "text": "os",
+      "start": 17.402791,
+      "duration": 0.152791
+    },
+    {
+      "text": "lugares",
+      "start": 17.569458,
+      "duration": 0.527791
+    },
+    {
+      "text": "que",
+      "start": 18.111125,
+      "duration": 0.083333
+    },
+    {
+      "text": "alteram",
+      "start": 18.208333,
+      "duration": 0.444458
+    },
+    {
+      "text": "os",
+      "start": 18.666666,
+      "duration": 0.125
+    },
+    {
+      "text": "mesmos",
+      "start": 18.805541,
+      "duration": 0.416666
+    },
+    {
+      "text": "dados",
+      "start": 19.236125,
+      "duration": 0.555541
+    }
+  ]
+}

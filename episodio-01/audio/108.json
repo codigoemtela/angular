@@ -1,0 +1,128 @@
+{
+  "id": 108,
+  "chapter": "07 Sua primeira análise de uma demanda",
+  "section": "07 Sua primeira análise de uma demanda",
+  "speaker": "HELENA",
+  "text": "Agora consigo olhar a entrega com critérios mais claros. Uma mensagem bonita não basta se eu não consigo confiar no que ela informa.",
+  "voice": "pt-BR-ThalitaMultilingualNeural",
+  "rate": "-8%",
+  "pitch": "+0Hz",
+  "audio": "audio/108.mp3",
+  "words": [
+    {
+      "text": "Agora",
+      "start": 0.05325,
+      "duration": 0.502708
+    },
+    {
+      "text": "consigo",
+      "start": 0.555958,
+      "duration": 0.489125
+    },
+    {
+      "text": "olhar",
+      "start": 1.045125,
+      "duration": 0.298916
+    },
+    {
+      "text": "a",
+      "start": 1.344041,
+      "duration": 0.054333
+    },
+    {
+      "text": "entrega",
+      "start": 1.398375,
+      "duration": 0.516291
+    },
+    {
+      "text": "com",
+      "start": 1.914666,
+      "duration": 0.163041
+    },
+    {
+      "text": "critérios",
+      "start": 2.077708,
+      "duration": 0.58425
+    },
+    {
+      "text": "mais",
+      "start": 2.661958,
+      "duration": 0.394
+    },
+    {
+      "text": "claros",
+      "start": 3.055958,
+      "duration": 0.611416
+    },
+    {
+      "text": "Uma",
+      "start": 4.035333,
+      "duration": 0.203791
+    },
+    {
+      "text": "mensagem",
+      "start": 4.239125,
+      "duration": 0.557083
+    },
+    {
+      "text": "bonita",
+      "start": 4.796208,
+      "duration": 0.570625
+    },
+    {
+      "text": "não",
+      "start": 5.366833,
+      "duration": 0.203791
+    },
+    {
+      "text": "basta",
+      "start": 5.570666,
+      "duration": 0.475541
+    },
+    {
+      "text": "se",
+      "start": 6.046208,
+      "duration": 0.108666
+    },
+    {
+      "text": "eu",
+      "start": 6.154875,
+      "duration": 0.054333
+    },
+    {
+      "text": "não",
+      "start": 6.20925,
+      "duration": 0.163041
+    },
+    {
+      "text": "consigo",
+      "start": 6.372291,
+      "duration": 0.475541
+    },
+    {
+      "text": "confiar",
+      "start": 6.847833,
+      "duration": 0.58425
+    },
+    {
+      "text": "no",
+      "start": 7.432083,
+      "duration": 0.12225
+    },
+    {
+      "text": "que",
+      "start": 7.554333,
+      "duration": 0.081541
+    },
+    {
+      "text": "ela",
+      "start": 7.635875,
+      "duration": 0.135875
+    },
+    {
+      "text": "informa",
+      "start": 7.77175,
+      "duration": 0.543458
+    }
+  ]
+}

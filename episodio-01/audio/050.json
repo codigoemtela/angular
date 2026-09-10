@@ -1,0 +1,233 @@
+{
+  "id": 50,
+  "chapter": "04 A história do Angular e as mudanças de geração",
+  "section": "O que essa proposta mudou no trabalho",
+  "speaker": "PROF. RODRIGO",
+  "text": "AngularJS já trazia serviços e injeção de dependências. A ideia era organizar responsabilidades e fornecer a uma parte do programa aquilo de que ela precisava. Esses conceitos ajudavam a estruturar aplicações e a substituir dependências durante testes. Eles continuariam importantes na história do Angular.",
+  "voice": "pt-BR-AntonioNeural",
+  "rate": "-10%",
+  "pitch": "+0Hz",
+  "audio": "audio/050.mp3",
+  "words": [
+    {
+      "text": "AngularJS",
+      "start": 0.105541,
+      "duration": 1.347208
+    },
+    {
+      "text": "já",
+      "start": 1.466666,
+      "duration": 0.152791
+    },
+    {
+      "text": "trazia",
+      "start": 1.633333,
+      "duration": 0.458333
+    },
+    {
+      "text": "serviços",
+      "start": 2.105541,
+      "duration": 0.638875
+    },
+    {
+      "text": "e",
+      "start": 2.758333,
+      "duration": 0.097208
+    },
+    {
+      "text": "injeção",
+      "start": 2.869458,
+      "duration": 0.583333
+    },
+    {
+      "text": "de",
+      "start": 3.466666,
+      "duration": 0.111125
+    },
+    {
+      "text": "dependências",
+      "start": 3.591666,
+      "duration": 0.972208
+    },
+    {
+      "text": "A",
+      "start": 5.527791,
+      "duration": 0.180541
+    },
+    {
+      "text": "ideia",
+      "start": 5.722208,
+      "duration": 0.472208
+    },
+    {
+      "text": "era",
+      "start": 6.208333,
+      "duration": 0.180541
+    },
+    {
+      "text": "organizar",
+      "start": 6.402791,
+      "duration": 0.583333
+    },
+    {
+      "text": "responsabilidades",
+      "start": 7.0,
+      "duration": 1.097208
+    },
+    {
+      "text": "e",
+      "start": 8.111125,
+      "duration": 0.125
+    },
+    {
+      "text": "fornecer",
+      "start": 8.25,
+      "duration": 0.569458
+    },
+    {
+      "text": "a",
+      "start": 8.833333,
+      "duration": 0.055541
+    },
+    {
+      "text": "uma",
+      "start": 8.902791,
+      "duration": 0.208333
+    },
+    {
+      "text": "parte",
+      "start": 9.125,
+      "duration": 0.347208
+    },
+    {
+      "text": "do",
+      "start": 9.486125,
+      "duration": 0.111125
+    },
+    {
+      "text": "programa",
+      "start": 9.611125,
+      "duration": 0.472208
+    },
+    {
+      "text": "aquilo",
+      "start": 10.097208,
+      "duration": 0.402791
+    },
+    {
+      "text": "de",
+      "start": 10.513875,
+      "duration": 0.125
+    },
+    {
+      "text": "que",
+      "start": 10.652791,
+      "duration": 0.125
+    },
+    {
+      "text": "ela",
+      "start": 10.791666,
+      "duration": 0.194458
+    },
+    {
+      "text": "precisava",
+      "start": 11.0,
+      "duration": 0.763875
+    },
+    {
+      "text": "Esses",
+      "start": 12.722208,
+      "duration": 0.361125
+    },
+    {
+      "text": "conceitos",
+      "start": 13.097208,
+      "duration": 0.583333
+    },
+    {
+      "text": "ajudavam",
+      "start": 13.694458,
+      "duration": 0.680541
+    },
+    {
+      "text": "a",
+      "start": 14.388875,
+      "duration": 0.0416659
+    },
+    {
+      "text": "estruturar",
+      "start": 14.444458,
+      "duration": 0.541666
+    },
+    {
+      "text": "aplicações",
+      "start": 15.0,
+      "duration": 0.680541
+    },
+    {
+      "text": "e",
+      "start": 15.694458,
+      "duration": 0.138875
+    },
+    {
+      "text": "a",
+      "start": 15.847208,
+      "duration": 0.055541
+    },
+    {
+      "text": "substituir",
+      "start": 15.916666,
+      "duration": 0.791666
+    },
+    {
+      "text": "dependências",
+      "start": 16.722208,
+      "duration": 0.805541
+    },
+    {
+      "text": "durante",
+      "start": 17.541666,
+      "duration": 0.472208
+    },
+    {
+      "text": "testes",
+      "start": 18.027791,
+      "duration": 0.652791
+    },
+    {
+      "text": "Eles",
+      "start": 19.638875,
+      "duration": 0.277791
+    },
+    {
+      "text": "continuariam",
+      "start": 19.930541,
+      "duration": 0.666666
+    },
+    {
+      "text": "importantes",
+      "start": 20.611125,
+      "duration": 0.777791
+    },
+    {
+      "text": "na",
+      "start": 21.402791,
+      "duration": 0.083333
+    },
+    {
+      "text": "história",
+      "start": 21.5,
+      "duration": 0.444458
+    },
+    {
+      "text": "do",
+      "start": 21.958333,
+      "duration": 0.111125
+    },
+    {
+      "text": "Angular",
+      "start": 22.083333,
+      "duration": 0.486125
+    }
+  ]
+}

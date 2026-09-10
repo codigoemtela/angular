@@ -1,0 +1,108 @@
+{
+  "id": 47,
+  "chapter": "04 A história do Angular e as mudanças de geração",
+  "section": "O que essa proposta mudou no trabalho",
+  "speaker": "CAIO",
+  "text": "Mas o programador ainda precisa decidir quando enviar, como tratar um erro e o que fazer com a resposta.",
+  "voice": "pt-BR-AntonioNeural",
+  "rate": "+1%",
+  "pitch": "+14Hz",
+  "audio": "audio/047.mp3",
+  "words": [
+    {
+      "text": "Mas",
+      "start": 0.0995,
+      "duration": 0.198
+    },
+    {
+      "text": "o",
+      "start": 0.309916,
+      "duration": 0.12375
+    },
+    {
+      "text": "programador",
+      "start": 0.446041,
+      "duration": 0.569291
+    },
+    {
+      "text": "ainda",
+      "start": 1.027708,
+      "duration": 0.210416
+    },
+    {
+      "text": "precisa",
+      "start": 1.2505,
+      "duration": 0.396041
+    },
+    {
+      "text": "decidir",
+      "start": 1.658916,
+      "duration": 0.457916
+    },
+    {
+      "text": "quando",
+      "start": 2.129208,
+      "duration": 0.210416
+    },
+    {
+      "text": "enviar",
+      "start": 2.352,
+      "duration": 0.433166
+    },
+    {
+      "text": "como",
+      "start": 3.069791,
+      "duration": 0.235166
+    },
+    {
+      "text": "tratar",
+      "start": 3.317333,
+      "duration": 0.371291
+    },
+    {
+      "text": "um",
+      "start": 3.701,
+      "duration": 0.1485
+    },
+    {
+      "text": "erro",
+      "start": 3.861875,
+      "duration": 0.259916
+    },
+    {
+      "text": "e",
+      "start": 4.134166,
+      "duration": 0.061875
+    },
+    {
+      "text": "o",
+      "start": 4.208416,
+      "duration": 0.0495
+    },
+    {
+      "text": "que",
+      "start": 4.270291,
+      "duration": 0.12375
+    },
+    {
+      "text": "fazer",
+      "start": 4.406416,
+      "duration": 0.383666
+    },
+    {
+      "text": "com",
+      "start": 4.802458,
+      "duration": 0.160875
+    },
+    {
+      "text": "a",
+      "start": 4.97575,
+      "duration": 0.037125
+    },
+    {
+      "text": "resposta",
+      "start": 5.02525,
+      "duration": 0.606416
+    }
+  ]
+}

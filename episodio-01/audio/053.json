@@ -1,0 +1,83 @@
+{
+  "id": 53,
+  "chapter": "04 A história do Angular e as mudanças de geração",
+  "section": "A reescrita que levou ao Angular 2",
+  "speaker": "MARINA",
+  "text": "Se uma empresa tinha um sistema em AngularJS, bastava atualizar o pacote para continuar?",
+  "voice": "pt-BR-ThalitaMultilingualNeural",
+  "rate": "-6%",
+  "pitch": "-16Hz",
+  "audio": "audio/053.mp3",
+  "words": [
+    {
+      "text": "Se",
+      "start": 0.053208,
+      "duration": 0.21275
+    },
+    {
+      "text": "uma",
+      "start": 0.265958,
+      "duration": 0.106375
+    },
+    {
+      "text": "empresa",
+      "start": 0.372333,
+      "duration": 0.531916
+    },
+    {
+      "text": "tinha",
+      "start": 0.90425,
+      "duration": 0.226083
+    },
+    {
+      "text": "um",
+      "start": 1.130333,
+      "duration": 0.053166
+    },
+    {
+      "text": "sistema",
+      "start": 1.1835,
+      "duration": 0.531916
+    },
+    {
+      "text": "em",
+      "start": 1.715416,
+      "duration": 0.159583
+    },
+    {
+      "text": "AngularJS",
+      "start": 1.875,
+      "duration": 1.382958
+    },
+    {
+      "text": "bastava",
+      "start": 3.484041,
+      "duration": 0.625
+    },
+    {
+      "text": "atualizar",
+      "start": 4.109041,
+      "duration": 0.598416
+    },
+    {
+      "text": "o",
+      "start": 4.707458,
+      "duration": 0.039875
+    },
+    {
+      "text": "pacote",
+      "start": 4.747333,
+      "duration": 0.41225
+    },
+    {
+      "text": "para",
+      "start": 5.159583,
+      "duration": 0.106375
+    },
+    {
+      "text": "continuar",
+      "start": 5.265958,
+      "duration": 0.5585
+    }
+  ]
+}

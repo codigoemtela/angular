@@ -1,0 +1,253 @@
+{
+  "id": 46,
+  "chapter": "04 A história do Angular e as mudanças de geração",
+  "section": "O que essa proposta mudou no trabalho",
+  "speaker": "PROF. RODRIGO",
+  "text": "Essa é uma forma de entender a mudança de abordagem. No nosso exemplo, fica explícito que a prévia depende do título. Quando uma pessoa entra na equipe, ela pode procurar essa relação no template e no código que mantém o dado. Isso facilita discutir a intenção da implementação.",
+  "voice": "pt-BR-AntonioNeural",
+  "rate": "-10%",
+  "pitch": "+0Hz",
+  "audio": "audio/046.mp3",
+  "words": [
+    {
+      "text": "Essa",
+      "start": 0.105541,
+      "duration": 0.347208
+    },
+    {
+      "text": "é",
+      "start": 0.466666,
+      "duration": 0.027791
+    },
+    {
+      "text": "uma",
+      "start": 0.508333,
+      "duration": 0.180541
+    },
+    {
+      "text": "forma",
+      "start": 0.702791,
+      "duration": 0.416666
+    },
+    {
+      "text": "de",
+      "start": 1.133333,
+      "duration": 0.083333
+    },
+    {
+      "text": "entender",
+      "start": 1.230541,
+      "duration": 0.513875
+    },
+    {
+      "text": "a",
+      "start": 1.758333,
+      "duration": 0.055541
+    },
+    {
+      "text": "mudança",
+      "start": 1.827791,
+      "duration": 0.583333
+    },
+    {
+      "text": "de",
+      "start": 2.425,
+      "duration": 0.083333
+    },
+    {
+      "text": "abordagem",
+      "start": 2.522208,
+      "duration": 0.777791
+    },
+    {
+      "text": "No",
+      "start": 4.263875,
+      "duration": 0.208333
+    },
+    {
+      "text": "nosso",
+      "start": 4.486125,
+      "duration": 0.347208
+    },
+    {
+      "text": "exemplo",
+      "start": 4.847208,
+      "duration": 0.458333
+    },
+    {
+      "text": "fica",
+      "start": 5.527791,
+      "duration": 0.25
+    },
+    {
+      "text": "explícito",
+      "start": 5.791666,
+      "duration": 0.666666
+    },
+    {
+      "text": "que",
+      "start": 6.472208,
+      "duration": 0.069458
+    },
+    {
+      "text": "a",
+      "start": 6.555541,
+      "duration": 0.083333
+    },
+    {
+      "text": "prévia",
+      "start": 6.652791,
+      "duration": 0.388875
+    },
+    {
+      "text": "depende",
+      "start": 7.055541,
+      "duration": 0.513875
+    },
+    {
+      "text": "do",
+      "start": 7.583333,
+      "duration": 0.125
+    },
+    {
+      "text": "título",
+      "start": 7.722208,
+      "duration": 0.5
+    },
+    {
+      "text": "Quando",
+      "start": 9.180541,
+      "duration": 0.305541
+    },
+    {
+      "text": "uma",
+      "start": 9.5,
+      "duration": 0.152791
+    },
+    {
+      "text": "pessoa",
+      "start": 9.666666,
+      "duration": 0.486125
+    },
+    {
+      "text": "entra",
+      "start": 10.166666,
+      "duration": 0.263875
+    },
+    {
+      "text": "na",
+      "start": 10.444458,
+      "duration": 0.097208
+    },
+    {
+      "text": "equipe",
+      "start": 10.555541,
+      "duration": 0.486125
+    },
+    {
+      "text": "ela",
+      "start": 11.291666,
+      "duration": 0.25
+    },
+    {
+      "text": "pode",
+      "start": 11.555541,
+      "duration": 0.291666
+    },
+    {
+      "text": "procurar",
+      "start": 11.861125,
+      "duration": 0.486125
+    },
+    {
+      "text": "essa",
+      "start": 12.361125,
+      "duration": 0.222208
+    },
+    {
+      "text": "relação",
+      "start": 12.597208,
+      "duration": 0.5
+    },
+    {
+      "text": "no",
+      "start": 13.111125,
+      "duration": 0.111125
+    },
+    {
+      "text": "template",
+      "start": 13.236125,
+      "duration": 0.638875
+    },
+    {
+      "text": "e",
+      "start": 13.888875,
+      "duration": 0.027791
+    },
+    {
+      "text": "no",
+      "start": 13.930541,
+      "duration": 0.125
+    },
+    {
+      "text": "código",
+      "start": 14.069458,
+      "duration": 0.444458
+    },
+    {
+      "text": "que",
+      "start": 14.527791,
+      "duration": 0.111125
+    },
+    {
+      "text": "mantém",
+      "start": 14.652791,
+      "duration": 0.375
+    },
+    {
+      "text": "o",
+      "start": 15.041666,
+      "duration": 0.083333
+    },
+    {
+      "text": "dado",
+      "start": 15.138875,
+      "duration": 0.388875
+    },
+    {
+      "text": "Isso",
+      "start": 16.486125,
+      "duration": 0.347208
+    },
+    {
+      "text": "facilita",
+      "start": 16.847208,
+      "duration": 0.680541
+    },
+    {
+      "text": "discutir",
+      "start": 17.541666,
+      "duration": 0.527791
+    },
+    {
+      "text": "a",
+      "start": 18.083333,
+      "duration": 0.0416659
+    },
+    {
+      "text": "intenção",
+      "start": 18.138875,
+      "duration": 0.625
+    },
+    {
+      "text": "da",
+      "start": 18.777791,
+      "duration": 0.097208
+    },
+    {
+      "text": "implementação",
+      "start": 18.888875,
+      "duration": 1.0
+    }
+  ]
+}

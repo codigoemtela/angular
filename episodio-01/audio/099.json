@@ -1,0 +1,178 @@
+{
+  "id": 99,
+  "chapter": "06 O que continua sendo responsabilidade da equipe",
+  "section": "06 O que continua sendo responsabilidade da equipe",
+  "speaker": "BIA",
+  "text": "E a interface não fica clara só porque os componentes estão organizados. Ainda precisamos cuidar dos textos, da navegação por teclado e do que acontece quando a pessoa não consegue concluir uma ação.",
+  "voice": "pt-BR-FranciscaNeural",
+  "rate": "-1%",
+  "pitch": "-13Hz",
+  "audio": "audio/099.mp3",
+  "words": [
+    {
+      "text": "E",
+      "start": 0.1005,
+      "duration": 0.088375
+    },
+    {
+      "text": "a",
+      "start": 0.2015,
+      "duration": 0.037875
+    },
+    {
+      "text": "interface",
+      "start": 0.252,
+      "duration": 0.643958
+    },
+    {
+      "text": "não",
+      "start": 0.908583,
+      "duration": 0.164125
+    },
+    {
+      "text": "fica",
+      "start": 1.085333,
+      "duration": 0.277791
+    },
+    {
+      "text": "clara",
+      "start": 1.37575,
+      "duration": 0.340916
+    },
+    {
+      "text": "só",
+      "start": 1.729291,
+      "duration": 0.239916
+    },
+    {
+      "text": "porque",
+      "start": 1.981833,
+      "duration": 0.277791
+    },
+    {
+      "text": "os",
+      "start": 2.272208,
+      "duration": 0.101
+    },
+    {
+      "text": "componentes",
+      "start": 2.385875,
+      "duration": 0.643958
+    },
+    {
+      "text": "estão",
+      "start": 3.042416,
+      "duration": 0.353541
+    },
+    {
+      "text": "organizados",
+      "start": 3.408583,
+      "duration": 0.871208
+    },
+    {
+      "text": "Ainda",
+      "start": 4.545458,
+      "duration": 0.340916
+    },
+    {
+      "text": "precisamos",
+      "start": 4.899,
+      "duration": 0.618666
+    },
+    {
+      "text": "cuidar",
+      "start": 5.530291,
+      "duration": 0.378791
+    },
+    {
+      "text": "dos",
+      "start": 5.921708,
+      "duration": 0.202
+    },
+    {
+      "text": "textos",
+      "start": 6.136375,
+      "duration": 0.467166
+    },
+    {
+      "text": "da",
+      "start": 6.704541,
+      "duration": 0.113625
+    },
+    {
+      "text": "navegação",
+      "start": 6.830791,
+      "duration": 0.618666
+    },
+    {
+      "text": "por",
+      "start": 7.462125,
+      "duration": 0.138875
+    },
+    {
+      "text": "teclado",
+      "start": 7.613625,
+      "duration": 0.580791
+    },
+    {
+      "text": "e",
+      "start": 8.219708,
+      "duration": 0.0505
+    },
+    {
+      "text": "do",
+      "start": 8.282833,
+      "duration": 0.101
+    },
+    {
+      "text": "que",
+      "start": 8.396458,
+      "duration": 0.07575
+    },
+    {
+      "text": "acontece",
+      "start": 8.484833,
+      "duration": 0.580791
+    },
+    {
+      "text": "quando",
+      "start": 9.078291,
+      "duration": 0.227291
+    },
+    {
+      "text": "a",
+      "start": 9.318166,
+      "duration": 0.037875
+    },
+    {
+      "text": "pessoa",
+      "start": 9.368666,
+      "duration": 0.378791
+    },
+    {
+      "text": "não",
+      "start": 9.760083,
+      "duration": 0.189375
+    },
+    {
+      "text": "consegue",
+      "start": 9.962125,
+      "duration": 0.505041
+    },
+    {
+      "text": "concluir",
+      "start": 10.479791,
+      "duration": 0.530291
+    },
+    {
+      "text": "uma",
+      "start": 11.022708,
+      "duration": 0.138875
+    },
+    {
+      "text": "ação",
+      "start": 11.17425,
+      "duration": 0.391416
+    }
+  ]
+}

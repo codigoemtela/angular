@@ -1,0 +1,168 @@
+{
+  "id": 63,
+  "chapter": "04 A história do Angular e as mudanças de geração",
+  "section": "A evolução depois da reescrita",
+  "speaker": "PROF. RODRIGO",
+  "text": "Não. Aqui, vale reconhecer que um framework também evolui por dentro. Algumas mudanças aparecem diretamente no código que escrevemos. Outras melhoram a infraestrutura que transforma esse código e o faz funcionar.",
+  "voice": "pt-BR-AntonioNeural",
+  "rate": "-10%",
+  "pitch": "+0Hz",
+  "audio": "audio/063.mp3",
+  "words": [
+    {
+      "text": "Não",
+      "start": 0.105541,
+      "duration": 0.430541
+    },
+    {
+      "text": "Aqui",
+      "start": 1.5,
+      "duration": 0.458333
+    },
+    {
+      "text": "vale",
+      "start": 2.319458,
+      "duration": 0.319458
+    },
+    {
+      "text": "reconhecer",
+      "start": 2.652791,
+      "duration": 0.694458
+    },
+    {
+      "text": "que",
+      "start": 3.361125,
+      "duration": 0.111125
+    },
+    {
+      "text": "um",
+      "start": 3.486125,
+      "duration": 0.111125
+    },
+    {
+      "text": "framework",
+      "start": 3.611125,
+      "duration": 0.805541
+    },
+    {
+      "text": "também",
+      "start": 4.430541,
+      "duration": 0.402791
+    },
+    {
+      "text": "evolui",
+      "start": 4.847208,
+      "duration": 0.486125
+    },
+    {
+      "text": "por",
+      "start": 5.347208,
+      "duration": 0.194458
+    },
+    {
+      "text": "dentro",
+      "start": 5.555541,
+      "duration": 0.444458
+    },
+    {
+      "text": "Algumas",
+      "start": 6.958333,
+      "duration": 0.541666
+    },
+    {
+      "text": "mudanças",
+      "start": 7.513875,
+      "duration": 0.569458
+    },
+    {
+      "text": "aparecem",
+      "start": 8.097208,
+      "duration": 0.611125
+    },
+    {
+      "text": "diretamente",
+      "start": 8.722208,
+      "duration": 0.791666
+    },
+    {
+      "text": "no",
+      "start": 9.527791,
+      "duration": 0.111125
+    },
+    {
+      "text": "código",
+      "start": 9.652791,
+      "duration": 0.430541
+    },
+    {
+      "text": "que",
+      "start": 10.097208,
+      "duration": 0.111125
+    },
+    {
+      "text": "escrevemos",
+      "start": 10.222208,
+      "duration": 0.861125
+    },
+    {
+      "text": "Outras",
+      "start": 12.041666,
+      "duration": 0.416666
+    },
+    {
+      "text": "melhoram",
+      "start": 12.472208,
+      "duration": 0.527791
+    },
+    {
+      "text": "a",
+      "start": 13.013875,
+      "duration": 0.027791
+    },
+    {
+      "text": "infraestrutura",
+      "start": 13.055541,
+      "duration": 0.847208
+    },
+    {
+      "text": "que",
+      "start": 13.916666,
+      "duration": 0.125
+    },
+    {
+      "text": "transforma",
+      "start": 14.055541,
+      "duration": 0.625
+    },
+    {
+      "text": "esse",
+      "start": 14.694458,
+      "duration": 0.194458
+    },
+    {
+      "text": "código",
+      "start": 14.902791,
+      "duration": 0.527791
+    },
+    {
+      "text": "e",
+      "start": 15.444458,
+      "duration": 0.069458
+    },
+    {
+      "text": "o",
+      "start": 15.527791,
+      "duration": 0.055541
+    },
+    {
+      "text": "faz",
+      "start": 15.597208,
+      "duration": 0.263875
+    },
+    {
+      "text": "funcionar",
+      "start": 15.875,
+      "duration": 0.597208
+    }
+  ]
+}

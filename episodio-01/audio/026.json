@@ -1,0 +1,188 @@
+{
+  "id": 26,
+  "chapter": "03 O que fica difícil quando a interface cresce",
+  "section": "A tela também precisa representar a espera",
+  "speaker": "PROF. RODRIGO",
+  "text": "Essa é uma hipótese que podemos investigar. Repare como entender os estados já ajuda a formular uma pergunta útil sobre o erro. Ainda não precisamos conhecer os comandos do Angular para raciocinar sobre esse comportamento.",
+  "voice": "pt-BR-AntonioNeural",
+  "rate": "-10%",
+  "pitch": "+0Hz",
+  "audio": "audio/026.mp3",
+  "words": [
+    {
+      "text": "Essa",
+      "start": 0.105541,
+      "duration": 0.375
+    },
+    {
+      "text": "é",
+      "start": 0.494458,
+      "duration": 0.027791
+    },
+    {
+      "text": "uma",
+      "start": 0.536125,
+      "duration": 0.138875
+    },
+    {
+      "text": "hipótese",
+      "start": 0.688875,
+      "duration": 0.569458
+    },
+    {
+      "text": "que",
+      "start": 1.272208,
+      "duration": 0.125
+    },
+    {
+      "text": "podemos",
+      "start": 1.411125,
+      "duration": 0.430541
+    },
+    {
+      "text": "investigar",
+      "start": 1.855541,
+      "duration": 0.791666
+    },
+    {
+      "text": "Repare",
+      "start": 3.611125,
+      "duration": 0.555541
+    },
+    {
+      "text": "como",
+      "start": 4.180541,
+      "duration": 0.194458
+    },
+    {
+      "text": "entender",
+      "start": 4.388875,
+      "duration": 0.472208
+    },
+    {
+      "text": "os",
+      "start": 4.875,
+      "duration": 0.0416659
+    },
+    {
+      "text": "estados",
+      "start": 4.930541,
+      "duration": 0.625
+    },
+    {
+      "text": "já",
+      "start": 5.569458,
+      "duration": 0.125
+    },
+    {
+      "text": "ajuda",
+      "start": 5.708333,
+      "duration": 0.375
+    },
+    {
+      "text": "a",
+      "start": 6.097208,
+      "duration": 0.0416659
+    },
+    {
+      "text": "formular",
+      "start": 6.152791,
+      "duration": 0.597208
+    },
+    {
+      "text": "uma",
+      "start": 6.763875,
+      "duration": 0.152791
+    },
+    {
+      "text": "pergunta",
+      "start": 6.930541,
+      "duration": 0.597208
+    },
+    {
+      "text": "útil",
+      "start": 7.541666,
+      "duration": 0.277791
+    },
+    {
+      "text": "sobre",
+      "start": 7.833333,
+      "duration": 0.319458
+    },
+    {
+      "text": "o",
+      "start": 8.166666,
+      "duration": 0.111125
+    },
+    {
+      "text": "erro",
+      "start": 8.291666,
+      "duration": 0.305541
+    },
+    {
+      "text": "Ainda",
+      "start": 9.555541,
+      "duration": 0.430541
+    },
+    {
+      "text": "não",
+      "start": 10.0,
+      "duration": 0.222208
+    },
+    {
+      "text": "precisamos",
+      "start": 10.236125,
+      "duration": 0.652791
+    },
+    {
+      "text": "conhecer",
+      "start": 10.902791,
+      "duration": 0.5
+    },
+    {
+      "text": "os",
+      "start": 11.416666,
+      "duration": 0.111125
+    },
+    {
+      "text": "comandos",
+      "start": 11.541666,
+      "duration": 0.555541
+    },
+    {
+      "text": "do",
+      "start": 12.111125,
+      "duration": 0.138875
+    },
+    {
+      "text": "Angular",
+      "start": 12.263875,
+      "duration": 0.513875
+    },
+    {
+      "text": "para",
+      "start": 12.791666,
+      "duration": 0.208333
+    },
+    {
+      "text": "raciocinar",
+      "start": 13.013875,
+      "duration": 0.736125
+    },
+    {
+      "text": "sobre",
+      "start": 13.763875,
+      "duration": 0.319458
+    },
+    {
+      "text": "esse",
+      "start": 14.097208,
+      "duration": 0.236125
+    },
+    {
+      "text": "comportamento",
+      "start": 14.347208,
+      "duration": 0.875
+    }
+  ]
+}

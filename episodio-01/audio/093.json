@@ -1,0 +1,88 @@
+{
+  "id": 93,
+  "chapter": "05 Como o Angular ajuda a organizar nossa central",
+  "section": "Navegação e ferramentas que trabalham juntas",
+  "speaker": "CAIO",
+  "text": "Então podemos ter apoio das ferramentas e ainda assim precisar conferir o resultado em execução.",
+  "voice": "pt-BR-AntonioNeural",
+  "rate": "+1%",
+  "pitch": "+14Hz",
+  "audio": "audio/093.mp3",
+  "words": [
+    {
+      "text": "Então",
+      "start": 0.0995,
+      "duration": 0.408416
+    },
+    {
+      "text": "podemos",
+      "start": 0.520291,
+      "duration": 0.470291
+    },
+    {
+      "text": "ter",
+      "start": 1.002958,
+      "duration": 0.136125
+    },
+    {
+      "text": "apoio",
+      "start": 1.1515,
+      "duration": 0.358916
+    },
+    {
+      "text": "das",
+      "start": 1.522791,
+      "duration": 0.160875
+    },
+    {
+      "text": "ferramentas",
+      "start": 1.696041,
+      "duration": 0.606416
+    },
+    {
+      "text": "e",
+      "start": 2.314833,
+      "duration": 0.111375
+    },
+    {
+      "text": "ainda",
+      "start": 2.438625,
+      "duration": 0.272291
+    },
+    {
+      "text": "assim",
+      "start": 2.72325,
+      "duration": 0.259916
+    },
+    {
+      "text": "precisar",
+      "start": 2.995541,
+      "duration": 0.433166
+    },
+    {
+      "text": "conferir",
+      "start": 3.441083,
+      "duration": 0.495041
+    },
+    {
+      "text": "o",
+      "start": 3.9485,
+      "duration": 0.037125
+    },
+    {
+      "text": "resultado",
+      "start": 3.998,
+      "duration": 0.544541
+    },
+    {
+      "text": "em",
+      "start": 4.554958,
+      "duration": 0.086625
+    },
+    {
+      "text": "execução",
+      "start": 4.653958,
+      "duration": 0.594041
+    }
+  ]
+}

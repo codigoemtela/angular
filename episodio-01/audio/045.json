@@ -1,0 +1,113 @@
+{
+  "id": 45,
+  "chapter": "04 A história do Angular e as mudanças de geração",
+  "section": "O que essa proposta mudou no trabalho",
+  "speaker": "MARINA",
+  "text": "Então a equipe passava a descrever melhor as relações da tela, em vez de distribuir as alterações por vários eventos?",
+  "voice": "pt-BR-ThalitaMultilingualNeural",
+  "rate": "-6%",
+  "pitch": "-16Hz",
+  "audio": "audio/045.mp3",
+  "words": [
+    {
+      "text": "Então",
+      "start": 0.052375,
+      "duration": 0.319166
+    },
+    {
+      "text": "a",
+      "start": 0.371541,
+      "duration": 0.079791
+    },
+    {
+      "text": "equipe",
+      "start": 0.451333,
+      "duration": 0.478708
+    },
+    {
+      "text": "passava",
+      "start": 0.930041,
+      "duration": 0.385625
+    },
+    {
+      "text": "a",
+      "start": 1.315708,
+      "duration": 0.026583
+    },
+    {
+      "text": "descrever",
+      "start": 1.342291,
+      "duration": 0.531916
+    },
+    {
+      "text": "melhor",
+      "start": 1.874208,
+      "duration": 0.545208
+    },
+    {
+      "text": "as",
+      "start": 2.419416,
+      "duration": 0.093083
+    },
+    {
+      "text": "relações",
+      "start": 2.5125,
+      "duration": 0.505333
+    },
+    {
+      "text": "da",
+      "start": 3.017833,
+      "duration": 0.159541
+    },
+    {
+      "text": "tela",
+      "start": 3.177375,
+      "duration": 0.398916
+    },
+    {
+      "text": "em",
+      "start": 3.7625,
+      "duration": 0.159583
+    },
+    {
+      "text": "vez",
+      "start": 3.922083,
+      "duration": 0.252666
+    },
+    {
+      "text": "de",
+      "start": 4.17475,
+      "duration": 0.106375
+    },
+    {
+      "text": "distribuir",
+      "start": 4.281125,
+      "duration": 0.664875
+    },
+    {
+      "text": "as",
+      "start": 4.946,
+      "duration": 0.039875
+    },
+    {
+      "text": "alterações",
+      "start": 4.985916,
+      "duration": 0.704791
+    },
+    {
+      "text": "por",
+      "start": 5.690708,
+      "duration": 0.186166
+    },
+    {
+      "text": "vários",
+      "start": 5.876875,
+      "duration": 0.305833
+    },
+    {
+      "text": "eventos",
+      "start": 6.182708,
+      "duration": 0.704791
+    }
+  ]
+}

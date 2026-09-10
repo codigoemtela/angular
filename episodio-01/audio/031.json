@@ -1,0 +1,168 @@
+{
+  "id": 31,
+  "chapter": "03 O que fica difícil quando a interface cresce",
+  "section": "Uma mudança pode aparecer em vários lugares",
+  "speaker": "PROF. RODRIGO",
+  "text": "Não. A aplicação precisa buscar ou receber os dados atualizados por algum mecanismo de comunicação. Depois disso, organizamos como a informação aparece na interface. Vamos estudar cada responsabilidade no momento adequado.",
+  "voice": "pt-BR-AntonioNeural",
+  "rate": "-10%",
+  "pitch": "+0Hz",
+  "audio": "audio/031.mp3",
+  "words": [
+    {
+      "text": "Não",
+      "start": 0.105541,
+      "duration": 0.430541
+    },
+    {
+      "text": "A",
+      "start": 1.5,
+      "duration": 0.166666
+    },
+    {
+      "text": "aplicação",
+      "start": 1.680541,
+      "duration": 0.680541
+    },
+    {
+      "text": "precisa",
+      "start": 2.375,
+      "duration": 0.444458
+    },
+    {
+      "text": "buscar",
+      "start": 2.833333,
+      "duration": 0.513875
+    },
+    {
+      "text": "ou",
+      "start": 3.361125,
+      "duration": 0.069458
+    },
+    {
+      "text": "receber",
+      "start": 3.444458,
+      "duration": 0.444458
+    },
+    {
+      "text": "os",
+      "start": 3.902791,
+      "duration": 0.097208
+    },
+    {
+      "text": "dados",
+      "start": 4.013875,
+      "duration": 0.319458
+    },
+    {
+      "text": "atualizados",
+      "start": 4.347208,
+      "duration": 0.847208
+    },
+    {
+      "text": "por",
+      "start": 5.208333,
+      "duration": 0.166666
+    },
+    {
+      "text": "algum",
+      "start": 5.388875,
+      "duration": 0.277791
+    },
+    {
+      "text": "mecanismo",
+      "start": 5.680541,
+      "duration": 0.722208
+    },
+    {
+      "text": "de",
+      "start": 6.416666,
+      "duration": 0.111125
+    },
+    {
+      "text": "comunicação",
+      "start": 6.541666,
+      "duration": 0.902791
+    },
+    {
+      "text": "Depois",
+      "start": 8.402791,
+      "duration": 0.458333
+    },
+    {
+      "text": "disso",
+      "start": 8.875,
+      "duration": 0.416666
+    },
+    {
+      "text": "organizamos",
+      "start": 9.555541,
+      "duration": 0.791666
+    },
+    {
+      "text": "como",
+      "start": 10.361125,
+      "duration": 0.222208
+    },
+    {
+      "text": "a",
+      "start": 10.597208,
+      "duration": 0.027791
+    },
+    {
+      "text": "informação",
+      "start": 10.638875,
+      "duration": 0.722208
+    },
+    {
+      "text": "aparece",
+      "start": 11.375,
+      "duration": 0.583333
+    },
+    {
+      "text": "na",
+      "start": 11.972208,
+      "duration": 0.083333
+    },
+    {
+      "text": "interface",
+      "start": 12.069458,
+      "duration": 0.805541
+    },
+    {
+      "text": "Vamos",
+      "start": 13.833333,
+      "duration": 0.319458
+    },
+    {
+      "text": "estudar",
+      "start": 14.166666,
+      "duration": 0.583333
+    },
+    {
+      "text": "cada",
+      "start": 14.763875,
+      "duration": 0.319458
+    },
+    {
+      "text": "responsabilidade",
+      "start": 15.097208,
+      "duration": 1.138875
+    },
+    {
+      "text": "no",
+      "start": 16.25,
+      "duration": 0.069458
+    },
+    {
+      "text": "momento",
+      "start": 16.333333,
+      "duration": 0.458333
+    },
+    {
+      "text": "adequado",
+      "start": 16.805541,
+      "duration": 0.666666
+    }
+  ]
+}

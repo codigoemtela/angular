@@ -1,0 +1,303 @@
+{
+  "id": 7,
+  "chapter": "01 O pedido que precisa virar uma aplicação",
+  "section": "01 O pedido que precisa virar uma aplicação",
+  "speaker": "PROF. RODRIGO",
+  "text": "É nesse tipo de aplicação que vamos estudar Angular. Ele é um framework de desenvolvimento web: oferece recursos e convenções para construir e organizar aplicações. Nesta primeira aula, você vai entender o que ele se propõe a resolver e como chegou à forma que usamos hoje. Ao final, vamos voltar a esse card e analisar uma situação juntos.",
+  "voice": "pt-BR-AntonioNeural",
+  "rate": "-10%",
+  "pitch": "+0Hz",
+  "audio": "audio/007.mp3",
+  "words": [
+    {
+      "text": "É",
+      "start": 0.105541,
+      "duration": 0.138875
+    },
+    {
+      "text": "nesse",
+      "start": 0.258333,
+      "duration": 0.388875
+    },
+    {
+      "text": "tipo",
+      "start": 0.661125,
+      "duration": 0.347208
+    },
+    {
+      "text": "de",
+      "start": 1.022208,
+      "duration": 0.055541
+    },
+    {
+      "text": "aplicação",
+      "start": 1.091666,
+      "duration": 0.666666
+    },
+    {
+      "text": "que",
+      "start": 1.772208,
+      "duration": 0.111125
+    },
+    {
+      "text": "vamos",
+      "start": 1.897208,
+      "duration": 0.263875
+    },
+    {
+      "text": "estudar",
+      "start": 2.175,
+      "duration": 0.513875
+    },
+    {
+      "text": "Angular",
+      "start": 2.702791,
+      "duration": 0.5
+    },
+    {
+      "text": "Ele",
+      "start": 4.166666,
+      "duration": 0.25
+    },
+    {
+      "text": "é",
+      "start": 4.430541,
+      "duration": 0.0416659
+    },
+    {
+      "text": "um",
+      "start": 4.486125,
+      "duration": 0.125
+    },
+    {
+      "text": "framework",
+      "start": 4.625,
+      "duration": 0.75
+    },
+    {
+      "text": "de",
+      "start": 5.388875,
+      "duration": 0.125
+    },
+    {
+      "text": "desenvolvimento",
+      "start": 5.527791,
+      "duration": 0.916666
+    },
+    {
+      "text": "web",
+      "start": 6.458333,
+      "duration": 0.402791
+    },
+    {
+      "text": "oferece",
+      "start": 7.263875,
+      "duration": 0.583333
+    },
+    {
+      "text": "recursos",
+      "start": 7.861125,
+      "duration": 0.541666
+    },
+    {
+      "text": "e",
+      "start": 8.416666,
+      "duration": 0.111125
+    },
+    {
+      "text": "convenções",
+      "start": 8.541666,
+      "duration": 0.736125
+    },
+    {
+      "text": "para",
+      "start": 9.291666,
+      "duration": 0.222208
+    },
+    {
+      "text": "construir",
+      "start": 9.527791,
+      "duration": 0.597208
+    },
+    {
+      "text": "e",
+      "start": 10.138875,
+      "duration": 0.0416659
+    },
+    {
+      "text": "organizar",
+      "start": 10.194458,
+      "duration": 0.583333
+    },
+    {
+      "text": "aplicações",
+      "start": 10.791666,
+      "duration": 0.888875
+    },
+    {
+      "text": "Nesta",
+      "start": 12.638875,
+      "duration": 0.375
+    },
+    {
+      "text": "primeira",
+      "start": 13.027791,
+      "duration": 0.361125
+    },
+    {
+      "text": "aula",
+      "start": 13.402791,
+      "duration": 0.361125
+    },
+    {
+      "text": "você",
+      "start": 14.125,
+      "duration": 0.305541
+    },
+    {
+      "text": "vai",
+      "start": 14.444458,
+      "duration": 0.125
+    },
+    {
+      "text": "entender",
+      "start": 14.583333,
+      "duration": 0.486125
+    },
+    {
+      "text": "o",
+      "start": 15.083333,
+      "duration": 0.069458
+    },
+    {
+      "text": "que",
+      "start": 15.166666,
+      "duration": 0.111125
+    },
+    {
+      "text": "ele",
+      "start": 15.291666,
+      "duration": 0.125
+    },
+    {
+      "text": "se",
+      "start": 15.430541,
+      "duration": 0.111125
+    },
+    {
+      "text": "propõe",
+      "start": 15.555541,
+      "duration": 0.430541
+    },
+    {
+      "text": "a",
+      "start": 16.0,
+      "duration": 0.055541
+    },
+    {
+      "text": "resolver",
+      "start": 16.069458,
+      "duration": 0.541666
+    },
+    {
+      "text": "e",
+      "start": 16.625,
+      "duration": 0.055541
+    },
+    {
+      "text": "como",
+      "start": 16.694458,
+      "duration": 0.236125
+    },
+    {
+      "text": "chegou",
+      "start": 16.944458,
+      "duration": 0.416666
+    },
+    {
+      "text": "à",
+      "start": 17.375,
+      "duration": 0.069458
+    },
+    {
+      "text": "forma",
+      "start": 17.458333,
+      "duration": 0.486125
+    },
+    {
+      "text": "que",
+      "start": 17.958333,
+      "duration": 0.152791
+    },
+    {
+      "text": "usamos",
+      "start": 18.125,
+      "duration": 0.416666
+    },
+    {
+      "text": "hoje",
+      "start": 18.555541,
+      "duration": 0.5
+    },
+    {
+      "text": "Ao",
+      "start": 20.013875,
+      "duration": 0.166666
+    },
+    {
+      "text": "final",
+      "start": 20.194458,
+      "duration": 0.444458
+    },
+    {
+      "text": "vamos",
+      "start": 21.027791,
+      "duration": 0.291666
+    },
+    {
+      "text": "voltar",
+      "start": 21.333333,
+      "duration": 0.416666
+    },
+    {
+      "text": "a",
+      "start": 21.763875,
+      "duration": 0.097208
+    },
+    {
+      "text": "esse",
+      "start": 21.875,
+      "duration": 0.25
+    },
+    {
+      "text": "card",
+      "start": 22.138875,
+      "duration": 0.444458
+    },
+    {
+      "text": "e",
+      "start": 22.597208,
+      "duration": 0.027791
+    },
+    {
+      "text": "analisar",
+      "start": 22.638875,
+      "duration": 0.527791
+    },
+    {
+      "text": "uma",
+      "start": 23.180541,
+      "duration": 0.152791
+    },
+    {
+      "text": "situação",
+      "start": 23.347208,
+      "duration": 0.652791
+    },
+    {
+      "text": "juntos",
+      "start": 24.013875,
+      "duration": 0.597208
+    }
+  ]
+}

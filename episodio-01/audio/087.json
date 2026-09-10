@@ -1,0 +1,88 @@
+{
+  "id": 87,
+  "chapter": "05 Como o Angular ajuda a organizar nossa central",
+  "section": "Navegação e ferramentas que trabalham juntas",
+  "speaker": "CAIO",
+  "text": "E navegar da lista para os detalhes? É outra biblioteca que a equipe precisa escolher?",
+  "voice": "pt-BR-AntonioNeural",
+  "rate": "+1%",
+  "pitch": "+14Hz",
+  "audio": "audio/087.mp3",
+  "words": [
+    {
+      "text": "E",
+      "start": 0.0995,
+      "duration": 0.099
+    },
+    {
+      "text": "navegar",
+      "start": 0.210875,
+      "duration": 0.470291
+    },
+    {
+      "text": "da",
+      "start": 0.693583,
+      "duration": 0.099
+    },
+    {
+      "text": "lista",
+      "start": 0.804958,
+      "duration": 0.383666
+    },
+    {
+      "text": "para",
+      "start": 1.201,
+      "duration": 0.160875
+    },
+    {
+      "text": "os",
+      "start": 1.37425,
+      "duration": 0.061875
+    },
+    {
+      "text": "detalhes",
+      "start": 1.4485,
+      "duration": 0.668333
+    },
+    {
+      "text": "É",
+      "start": 2.970291,
+      "duration": 0.1485
+    },
+    {
+      "text": "outra",
+      "start": 3.131208,
+      "duration": 0.259916
+    },
+    {
+      "text": "biblioteca",
+      "start": 3.403458,
+      "duration": 0.631208
+    },
+    {
+      "text": "que",
+      "start": 4.047041,
+      "duration": 0.086625
+    },
+    {
+      "text": "a",
+      "start": 4.146041,
+      "duration": 0.0495
+    },
+    {
+      "text": "equipe",
+      "start": 4.207916,
+      "duration": 0.346541
+    },
+    {
+      "text": "precisa",
+      "start": 4.566833,
+      "duration": 0.396041
+    },
+    {
+      "text": "escolher",
+      "start": 4.97525,
+      "duration": 0.433166
+    }
+  ]
+}

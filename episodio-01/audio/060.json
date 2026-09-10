@@ -1,0 +1,258 @@
+{
+  "id": 60,
+  "chapter": "04 A história do Angular e as mudanças de geração",
+  "section": "A reescrita que levou ao Angular 2",
+  "speaker": "PROF. RODRIGO",
+  "text": "O suporte oficial ao AngularJS foi encerrado no fim de 2021, com o comunicado publicado em janeiro de 2022. Isso não fez as aplicações pararem de funcionar naquele dia, mas encerrou aquele suporte oficial. A informação se refere ao AngularJS, e precisa ser distinguida da evolução do Angular moderno.",
+  "voice": "pt-BR-AntonioNeural",
+  "rate": "-10%",
+  "pitch": "+0Hz",
+  "audio": "audio/060.mp3",
+  "words": [
+    {
+      "text": "O",
+      "start": 0.105541,
+      "duration": 0.125
+    },
+    {
+      "text": "suporte",
+      "start": 0.244458,
+      "duration": 0.541666
+    },
+    {
+      "text": "oficial",
+      "start": 0.8,
+      "duration": 0.555541
+    },
+    {
+      "text": "ao",
+      "start": 1.369458,
+      "duration": 0.152791
+    },
+    {
+      "text": "AngularJS",
+      "start": 1.536125,
+      "duration": 1.180541
+    },
+    {
+      "text": "foi",
+      "start": 2.730541,
+      "duration": 0.152791
+    },
+    {
+      "text": "encerrado",
+      "start": 2.897208,
+      "duration": 0.583333
+    },
+    {
+      "text": "no",
+      "start": 3.494458,
+      "duration": 0.125
+    },
+    {
+      "text": "fim",
+      "start": 3.633333,
+      "duration": 0.208333
+    },
+    {
+      "text": "de",
+      "start": 3.855541,
+      "duration": 0.111125
+    },
+    {
+      "text": "2021",
+      "start": 3.980541,
+      "duration": 0.9999999
+    },
+    {
+      "text": "com",
+      "start": 5.3,
+      "duration": 0.152791
+    },
+    {
+      "text": "o",
+      "start": 5.466666,
+      "duration": 0.0416659
+    },
+    {
+      "text": "comunicado",
+      "start": 5.522208,
+      "duration": 0.708333
+    },
+    {
+      "text": "publicado",
+      "start": 6.244458,
+      "duration": 0.625
+    },
+    {
+      "text": "em",
+      "start": 6.883333,
+      "duration": 0.083333
+    },
+    {
+      "text": "janeiro",
+      "start": 6.980541,
+      "duration": 0.5
+    },
+    {
+      "text": "de",
+      "start": 7.494458,
+      "duration": 0.097208
+    },
+    {
+      "text": "2022",
+      "start": 7.605541,
+      "duration": 1.2361249
+    },
+    {
+      "text": "Isso",
+      "start": 9.805541,
+      "duration": 0.347208
+    },
+    {
+      "text": "não",
+      "start": 10.166666,
+      "duration": 0.194458
+    },
+    {
+      "text": "fez",
+      "start": 10.375,
+      "duration": 0.208333
+    },
+    {
+      "text": "as",
+      "start": 10.597208,
+      "duration": 0.083333
+    },
+    {
+      "text": "aplicações",
+      "start": 10.694458,
+      "duration": 0.777791
+    },
+    {
+      "text": "pararem",
+      "start": 11.486125,
+      "duration": 0.388875
+    },
+    {
+      "text": "de",
+      "start": 11.888875,
+      "duration": 0.125
+    },
+    {
+      "text": "funcionar",
+      "start": 12.027791,
+      "duration": 0.541666
+    },
+    {
+      "text": "naquele",
+      "start": 12.583333,
+      "duration": 0.416666
+    },
+    {
+      "text": "dia",
+      "start": 13.013875,
+      "duration": 0.319458
+    },
+    {
+      "text": "mas",
+      "start": 13.694458,
+      "duration": 0.125
+    },
+    {
+      "text": "encerrou",
+      "start": 13.833333,
+      "duration": 0.555541
+    },
+    {
+      "text": "aquele",
+      "start": 14.402791,
+      "duration": 0.291666
+    },
+    {
+      "text": "suporte",
+      "start": 14.708333,
+      "duration": 0.527791
+    },
+    {
+      "text": "oficial",
+      "start": 15.25,
+      "duration": 0.611125
+    },
+    {
+      "text": "A",
+      "start": 16.819458,
+      "duration": 0.097208
+    },
+    {
+      "text": "informação",
+      "start": 16.930541,
+      "duration": 0.833333
+    },
+    {
+      "text": "se",
+      "start": 17.777791,
+      "duration": 0.125
+    },
+    {
+      "text": "refere",
+      "start": 17.916666,
+      "duration": 0.486125
+    },
+    {
+      "text": "ao",
+      "start": 18.416666,
+      "duration": 0.138875
+    },
+    {
+      "text": "AngularJS",
+      "start": 18.569458,
+      "duration": 1.263875
+    },
+    {
+      "text": "e",
+      "start": 20.222208,
+      "duration": 0.097208
+    },
+    {
+      "text": "precisa",
+      "start": 20.333333,
+      "duration": 0.5
+    },
+    {
+      "text": "ser",
+      "start": 20.847208,
+      "duration": 0.208333
+    },
+    {
+      "text": "distinguida",
+      "start": 21.069458,
+      "duration": 0.75
+    },
+    {
+      "text": "da",
+      "start": 21.833333,
+      "duration": 0.069458
+    },
+    {
+      "text": "evolução",
+      "start": 21.916666,
+      "duration": 0.555541
+    },
+    {
+      "text": "do",
+      "start": 22.486125,
+      "duration": 0.138875
+    },
+    {
+      "text": "Angular",
+      "start": 22.638875,
+      "duration": 0.444458
+    },
+    {
+      "text": "moderno",
+      "start": 23.097208,
+      "duration": 0.597208
+    }
+  ]
+}

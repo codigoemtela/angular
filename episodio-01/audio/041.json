@@ -1,0 +1,258 @@
+{
+  "id": 41,
+  "chapter": "04 A história do Angular e as mudanças de geração",
+  "section": "O início do AngularJS",
+  "speaker": "PROF. RODRIGO",
+  "text": "Vamos usar um exemplo pequeno. Há um campo para o título da solicitação e uma prévia logo abaixo. A prévia precisa mostrar o título que a pessoa está preenchendo. Em uma descrição declarativa, registramos essa relação no modelo da interface. O framework participa da atualização quando o dado muda.",
+  "voice": "pt-BR-AntonioNeural",
+  "rate": "-10%",
+  "pitch": "+0Hz",
+  "audio": "audio/041.mp3",
+  "words": [
+    {
+      "text": "Vamos",
+      "start": 0.105541,
+      "duration": 0.347208
+    },
+    {
+      "text": "usar",
+      "start": 0.466666,
+      "duration": 0.430541
+    },
+    {
+      "text": "um",
+      "start": 0.911125,
+      "duration": 0.138875
+    },
+    {
+      "text": "exemplo",
+      "start": 1.063875,
+      "duration": 0.5
+    },
+    {
+      "text": "pequeno",
+      "start": 1.577791,
+      "duration": 0.569458
+    },
+    {
+      "text": "Há",
+      "start": 3.111125,
+      "duration": 0.111125
+    },
+    {
+      "text": "um",
+      "start": 3.236125,
+      "duration": 0.166666
+    },
+    {
+      "text": "campo",
+      "start": 3.416666,
+      "duration": 0.402791
+    },
+    {
+      "text": "para",
+      "start": 3.833333,
+      "duration": 0.166666
+    },
+    {
+      "text": "o",
+      "start": 4.013875,
+      "duration": 0.027791
+    },
+    {
+      "text": "título",
+      "start": 4.055541,
+      "duration": 0.402791
+    },
+    {
+      "text": "da",
+      "start": 4.472208,
+      "duration": 0.111125
+    },
+    {
+      "text": "solicitação",
+      "start": 4.597208,
+      "duration": 0.861125
+    },
+    {
+      "text": "e",
+      "start": 5.472208,
+      "duration": 0.055541
+    },
+    {
+      "text": "uma",
+      "start": 5.541666,
+      "duration": 0.222208
+    },
+    {
+      "text": "prévia",
+      "start": 5.777791,
+      "duration": 0.416666
+    },
+    {
+      "text": "logo",
+      "start": 6.208333,
+      "duration": 0.375
+    },
+    {
+      "text": "abaixo",
+      "start": 6.597208,
+      "duration": 0.541666
+    },
+    {
+      "text": "A",
+      "start": 8.097208,
+      "duration": 0.152791
+    },
+    {
+      "text": "prévia",
+      "start": 8.263875,
+      "duration": 0.375
+    },
+    {
+      "text": "precisa",
+      "start": 8.652791,
+      "duration": 0.444458
+    },
+    {
+      "text": "mostrar",
+      "start": 9.111125,
+      "duration": 0.444458
+    },
+    {
+      "text": "o",
+      "start": 9.569458,
+      "duration": 0.055541
+    },
+    {
+      "text": "título",
+      "start": 9.638875,
+      "duration": 0.444458
+    },
+    {
+      "text": "que",
+      "start": 10.097208,
+      "duration": 0.083333
+    },
+    {
+      "text": "a",
+      "start": 10.194458,
+      "duration": 0.055541
+    },
+    {
+      "text": "pessoa",
+      "start": 10.263875,
+      "duration": 0.416666
+    },
+    {
+      "text": "está",
+      "start": 10.694458,
+      "duration": 0.222208
+    },
+    {
+      "text": "preenchendo",
+      "start": 10.930541,
+      "duration": 0.708333
+    },
+    {
+      "text": "Em",
+      "start": 12.597208,
+      "duration": 0.166666
+    },
+    {
+      "text": "uma",
+      "start": 12.777791,
+      "duration": 0.180541
+    },
+    {
+      "text": "descrição",
+      "start": 12.972208,
+      "duration": 0.625
+    },
+    {
+      "text": "declarativa",
+      "start": 13.611125,
+      "duration": 0.819458
+    },
+    {
+      "text": "registramos",
+      "start": 14.763875,
+      "duration": 0.666666
+    },
+    {
+      "text": "essa",
+      "start": 15.444458,
+      "duration": 0.333333
+    },
+    {
+      "text": "relação",
+      "start": 15.791666,
+      "duration": 0.569458
+    },
+    {
+      "text": "no",
+      "start": 16.375,
+      "duration": 0.069458
+    },
+    {
+      "text": "modelo",
+      "start": 16.458333,
+      "duration": 0.527791
+    },
+    {
+      "text": "da",
+      "start": 17.0,
+      "duration": 0.097208
+    },
+    {
+      "text": "interface",
+      "start": 17.111125,
+      "duration": 0.819458
+    },
+    {
+      "text": "O",
+      "start": 18.888875,
+      "duration": 0.125
+    },
+    {
+      "text": "framework",
+      "start": 19.027791,
+      "duration": 0.791666
+    },
+    {
+      "text": "participa",
+      "start": 19.833333,
+      "duration": 0.638875
+    },
+    {
+      "text": "da",
+      "start": 20.486125,
+      "duration": 0.069458
+    },
+    {
+      "text": "atualização",
+      "start": 20.569458,
+      "duration": 0.75
+    },
+    {
+      "text": "quando",
+      "start": 21.333333,
+      "duration": 0.222208
+    },
+    {
+      "text": "o",
+      "start": 21.569458,
+      "duration": 0.0416659
+    },
+    {
+      "text": "dado",
+      "start": 21.625,
+      "duration": 0.291666
+    },
+    {
+      "text": "muda",
+      "start": 21.930541,
+      "duration": 0.388875
+    }
+  ]
+}

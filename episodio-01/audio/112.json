@@ -1,0 +1,223 @@
+{
+  "id": 112,
+  "chapter": "08 Fechamento e próxima aula",
+  "section": "08 Fechamento e próxima aula",
+  "speaker": "PROF. RODRIGO",
+  "text": "Hoje, você viu por que uma interface com várias interações precisa de organização. Acompanhou a proposta do AngularJS, a mudança de geração em 2016 e alguns marcos da evolução do Angular. Também relacionou componentes, estado e comunicação com a API ao nosso projeto.",
+  "voice": "pt-BR-AntonioNeural",
+  "rate": "-10%",
+  "pitch": "+0Hz",
+  "audio": "audio/112.mp3",
+  "words": [
+    {
+      "text": "Hoje",
+      "start": 0.105541,
+      "duration": 0.402791
+    },
+    {
+      "text": "você",
+      "start": 0.869458,
+      "duration": 0.319458
+    },
+    {
+      "text": "viu",
+      "start": 1.202791,
+      "duration": 0.208333
+    },
+    {
+      "text": "por",
+      "start": 1.425,
+      "duration": 0.180541
+    },
+    {
+      "text": "que",
+      "start": 1.619458,
+      "duration": 0.125
+    },
+    {
+      "text": "uma",
+      "start": 1.758333,
+      "duration": 0.125
+    },
+    {
+      "text": "interface",
+      "start": 1.897208,
+      "duration": 0.736125
+    },
+    {
+      "text": "com",
+      "start": 2.647208,
+      "duration": 0.208333
+    },
+    {
+      "text": "várias",
+      "start": 2.869458,
+      "duration": 0.305541
+    },
+    {
+      "text": "interações",
+      "start": 3.188875,
+      "duration": 0.722208
+    },
+    {
+      "text": "precisa",
+      "start": 3.925,
+      "duration": 0.5
+    },
+    {
+      "text": "de",
+      "start": 4.438875,
+      "duration": 0.111125
+    },
+    {
+      "text": "organização",
+      "start": 4.563875,
+      "duration": 0.847208
+    },
+    {
+      "text": "Acompanhou",
+      "start": 6.375,
+      "duration": 0.722208
+    },
+    {
+      "text": "a",
+      "start": 7.111125,
+      "duration": 0.055541
+    },
+    {
+      "text": "proposta",
+      "start": 7.180541,
+      "duration": 0.611125
+    },
+    {
+      "text": "do",
+      "start": 7.805541,
+      "duration": 0.083333
+    },
+    {
+      "text": "AngularJS",
+      "start": 7.902791,
+      "duration": 1.263875
+    },
+    {
+      "text": "a",
+      "start": 9.416666,
+      "duration": 0.069458
+    },
+    {
+      "text": "mudança",
+      "start": 9.5,
+      "duration": 0.555541
+    },
+    {
+      "text": "de",
+      "start": 10.069458,
+      "duration": 0.097208
+    },
+    {
+      "text": "geração",
+      "start": 10.180541,
+      "duration": 0.569458
+    },
+    {
+      "text": "em 2016",
+      "start": 10.763875,
+      "duration": 1.013875
+    },
+    {
+      "text": "e",
+      "start": 11.791666,
+      "duration": 0.097208
+    },
+    {
+      "text": "alguns",
+      "start": 11.902791,
+      "duration": 0.347208
+    },
+    {
+      "text": "marcos",
+      "start": 12.263875,
+      "duration": 0.444458
+    },
+    {
+      "text": "da",
+      "start": 12.722208,
+      "duration": 0.097208
+    },
+    {
+      "text": "evolução",
+      "start": 12.833333,
+      "duration": 0.569458
+    },
+    {
+      "text": "do",
+      "start": 13.416666,
+      "duration": 0.138875
+    },
+    {
+      "text": "Angular",
+      "start": 13.569458,
+      "duration": 0.5
+    },
+    {
+      "text": "Também",
+      "start": 15.027791,
+      "duration": 0.486125
+    },
+    {
+      "text": "relacionou",
+      "start": 15.527791,
+      "duration": 0.583333
+    },
+    {
+      "text": "componentes",
+      "start": 16.125,
+      "duration": 0.777791
+    },
+    {
+      "text": "estado",
+      "start": 17.208333,
+      "duration": 0.458333
+    },
+    {
+      "text": "e",
+      "start": 17.680541,
+      "duration": 0.027791
+    },
+    {
+      "text": "comunicação",
+      "start": 17.722208,
+      "duration": 0.819458
+    },
+    {
+      "text": "com",
+      "start": 18.555541,
+      "duration": 0.194458
+    },
+    {
+      "text": "a",
+      "start": 18.763875,
+      "duration": 0.0416659
+    },
+    {
+      "text": "API",
+      "start": 18.819458,
+      "duration": 0.527791
+    },
+    {
+      "text": "ao",
+      "start": 19.361125,
+      "duration": 0.138875
+    },
+    {
+      "text": "nosso",
+      "start": 19.513875,
+      "duration": 0.347208
+    },
+    {
+      "text": "projeto",
+      "start": 19.875,
+      "duration": 0.625
+    }
+  ]
+}

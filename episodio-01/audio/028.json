@@ -1,0 +1,83 @@
+{
+  "id": 28,
+  "chapter": "03 O que fica difícil quando a interface cresce",
+  "section": "Uma mudança pode aparecer em vários lugares",
+  "speaker": "CAIO",
+  "text": "Se cada trecho da tela guardar uma cópia independente, uma delas pode ficar desatualizada.",
+  "voice": "pt-BR-AntonioNeural",
+  "rate": "+1%",
+  "pitch": "+14Hz",
+  "audio": "audio/028.mp3",
+  "words": [
+    {
+      "text": "Se",
+      "start": 0.0995,
+      "duration": 0.235166
+    },
+    {
+      "text": "cada",
+      "start": 0.347041,
+      "duration": 0.272291
+    },
+    {
+      "text": "trecho",
+      "start": 0.631666,
+      "duration": 0.371291
+    },
+    {
+      "text": "da",
+      "start": 1.015333,
+      "duration": 0.111375
+    },
+    {
+      "text": "tela",
+      "start": 1.139125,
+      "duration": 0.198
+    },
+    {
+      "text": "guardar",
+      "start": 1.3495,
+      "duration": 0.371291
+    },
+    {
+      "text": "uma",
+      "start": 1.733166,
+      "duration": 0.160875
+    },
+    {
+      "text": "cópia",
+      "start": 1.906416,
+      "duration": 0.321791
+    },
+    {
+      "text": "independente",
+      "start": 2.240583,
+      "duration": 0.680708
+    },
+    {
+      "text": "uma",
+      "start": 3.218333,
+      "duration": 0.222791
+    },
+    {
+      "text": "delas",
+      "start": 3.453458,
+      "duration": 0.358916
+    },
+    {
+      "text": "pode",
+      "start": 3.82475,
+      "duration": 0.259916
+    },
+    {
+      "text": "ficar",
+      "start": 4.097041,
+      "duration": 0.321791
+    },
+    {
+      "text": "desatualizada",
+      "start": 4.431208,
+      "duration": 0.792083
+    }
+  ]
+}

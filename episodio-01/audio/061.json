@@ -1,0 +1,293 @@
+{
+  "id": 61,
+  "chapter": "04 A história do Angular e as mudanças de geração",
+  "section": "A evolução depois da reescrita",
+  "speaker": "PROF. RODRIGO",
+  "text": "A história continuou depois de 2016. Em 2020, Angular 9 passou a usar Ivy por padrão. Ivy é uma infraestrutura de compilação e execução do framework. Compilar envolve preparar e transformar o código para execução. Essa infraestrutura também participa da produção e atualização da interface. A mudança trouxe avanços nas ferramentas e na maneira de preparar a aplicação.",
+  "voice": "pt-BR-AntonioNeural",
+  "rate": "-10%",
+  "pitch": "+0Hz",
+  "audio": "audio/061.mp3",
+  "words": [
+    {
+      "text": "A",
+      "start": 0.105541,
+      "duration": 0.152791
+    },
+    {
+      "text": "história",
+      "start": 0.272208,
+      "duration": 0.472208
+    },
+    {
+      "text": "continuou",
+      "start": 0.758333,
+      "duration": 0.638875
+    },
+    {
+      "text": "depois",
+      "start": 1.411125,
+      "duration": 0.430541
+    },
+    {
+      "text": "de",
+      "start": 1.855541,
+      "duration": 0.083333
+    },
+    {
+      "text": "2016",
+      "start": 1.952791,
+      "duration": 1.25
+    },
+    {
+      "text": "Em 2020",
+      "start": 4.166666,
+      "duration": 1.041666
+    },
+    {
+      "text": "Angular",
+      "start": 5.513875,
+      "duration": 0.513875
+    },
+    {
+      "text": "9 passou",
+      "start": 6.041666,
+      "duration": 0.7916659
+    },
+    {
+      "text": "a",
+      "start": 6.847208,
+      "duration": 0.0416659
+    },
+    {
+      "text": "usar",
+      "start": 6.902791,
+      "duration": 0.333333
+    },
+    {
+      "text": "Ivy",
+      "start": 7.25,
+      "duration": 0.236125
+    },
+    {
+      "text": "por",
+      "start": 7.5,
+      "duration": 0.180541
+    },
+    {
+      "text": "padrão",
+      "start": 7.694458,
+      "duration": 0.527791
+    },
+    {
+      "text": "Ivy",
+      "start": 9.180541,
+      "duration": 0.319458
+    },
+    {
+      "text": "é",
+      "start": 9.513875,
+      "duration": 0.0416659
+    },
+    {
+      "text": "uma",
+      "start": 9.569458,
+      "duration": 0.152791
+    },
+    {
+      "text": "infraestrutura",
+      "start": 9.736125,
+      "duration": 0.833333
+    },
+    {
+      "text": "de",
+      "start": 10.583333,
+      "duration": 0.097208
+    },
+    {
+      "text": "compilação",
+      "start": 10.694458,
+      "duration": 0.805541
+    },
+    {
+      "text": "e",
+      "start": 11.513875,
+      "duration": 0.0416659
+    },
+    {
+      "text": "execução",
+      "start": 11.569458,
+      "duration": 0.597208
+    },
+    {
+      "text": "do",
+      "start": 12.180541,
+      "duration": 0.097208
+    },
+    {
+      "text": "framework",
+      "start": 12.291666,
+      "duration": 0.847208
+    },
+    {
+      "text": "Compilar",
+      "start": 14.097208,
+      "duration": 0.625
+    },
+    {
+      "text": "envolve",
+      "start": 14.736125,
+      "duration": 0.5
+    },
+    {
+      "text": "preparar",
+      "start": 15.25,
+      "duration": 0.541666
+    },
+    {
+      "text": "e",
+      "start": 15.805541,
+      "duration": 0.0416659
+    },
+    {
+      "text": "transformar",
+      "start": 15.861125,
+      "duration": 0.638875
+    },
+    {
+      "text": "o",
+      "start": 16.513875,
+      "duration": 0.069458
+    },
+    {
+      "text": "código",
+      "start": 16.597208,
+      "duration": 0.444458
+    },
+    {
+      "text": "para",
+      "start": 17.055541,
+      "duration": 0.166666
+    },
+    {
+      "text": "execução",
+      "start": 17.236125,
+      "duration": 0.638875
+    },
+    {
+      "text": "Essa",
+      "start": 18.833333,
+      "duration": 0.305541
+    },
+    {
+      "text": "infraestrutura",
+      "start": 19.152791,
+      "duration": 0.847208
+    },
+    {
+      "text": "também",
+      "start": 20.013875,
+      "duration": 0.361125
+    },
+    {
+      "text": "participa",
+      "start": 20.388875,
+      "duration": 0.625
+    },
+    {
+      "text": "da",
+      "start": 21.027791,
+      "duration": 0.111125
+    },
+    {
+      "text": "produção",
+      "start": 21.152791,
+      "duration": 0.625
+    },
+    {
+      "text": "e",
+      "start": 21.791666,
+      "duration": 0.0416659
+    },
+    {
+      "text": "atualização",
+      "start": 21.847208,
+      "duration": 0.722208
+    },
+    {
+      "text": "da",
+      "start": 22.583333,
+      "duration": 0.097208
+    },
+    {
+      "text": "interface",
+      "start": 22.694458,
+      "duration": 0.805541
+    },
+    {
+      "text": "A",
+      "start": 24.458333,
+      "duration": 0.097208
+    },
+    {
+      "text": "mudança",
+      "start": 24.569458,
+      "duration": 0.611125
+    },
+    {
+      "text": "trouxe",
+      "start": 25.194458,
+      "duration": 0.319458
+    },
+    {
+      "text": "avanços",
+      "start": 25.527791,
+      "duration": 0.527791
+    },
+    {
+      "text": "nas",
+      "start": 26.069458,
+      "duration": 0.152791
+    },
+    {
+      "text": "ferramentas",
+      "start": 26.236125,
+      "duration": 0.666666
+    },
+    {
+      "text": "e",
+      "start": 26.916666,
+      "duration": 0.125
+    },
+    {
+      "text": "na",
+      "start": 27.055541,
+      "duration": 0.111125
+    },
+    {
+      "text": "maneira",
+      "start": 27.180541,
+      "duration": 0.444458
+    },
+    {
+      "text": "de",
+      "start": 27.638875,
+      "duration": 0.111125
+    },
+    {
+      "text": "preparar",
+      "start": 27.763875,
+      "duration": 0.541666
+    },
+    {
+      "text": "a",
+      "start": 28.319458,
+      "duration": 0.0416659
+    },
+    {
+      "text": "aplicação",
+      "start": 28.375,
+      "duration": 0.736125
+    }
+  ]
+}

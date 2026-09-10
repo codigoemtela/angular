@@ -1,0 +1,8 @@
+00:00 O pedido que precisa virar uma aplicação
+02:20 Como vamos aprender nesta formação
+04:28 O que fica difícil quando a interface cresce
+10:59 A história do Angular e as mudanças de geração
+20:32 Como o Angular ajuda a organizar nossa central
+26:51 O que continua sendo responsabilidade da equipe
+29:03 Sua primeira análise de uma demanda
+31:55 Fechamento e próxima aula

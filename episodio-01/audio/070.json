@@ -1,0 +1,248 @@
+{
+  "id": 70,
+  "chapter": "04 A história do Angular e as mudanças de geração",
+  "section": "A evolução depois da reescrita",
+  "speaker": "PROF. RODRIGO",
+  "text": "Os marcos continuam depois dessa linha do tempo. Quando formos preparar o ambiente, usaremos versões definidas no material da formação. Ao consultar um exemplo externo, confira a versão e a documentação correspondente. Isso evita juntar instruções de momentos diferentes e interpretar toda diferença como um erro seu.",
+  "voice": "pt-BR-AntonioNeural",
+  "rate": "-10%",
+  "pitch": "+0Hz",
+  "audio": "audio/070.mp3",
+  "words": [
+    {
+      "text": "Os",
+      "start": 0.105541,
+      "duration": 0.25
+    },
+    {
+      "text": "marcos",
+      "start": 0.369458,
+      "duration": 0.5
+    },
+    {
+      "text": "continuam",
+      "start": 0.883333,
+      "duration": 0.569458
+    },
+    {
+      "text": "depois",
+      "start": 1.466666,
+      "duration": 0.402791
+    },
+    {
+      "text": "dessa",
+      "start": 1.883333,
+      "duration": 0.333333
+    },
+    {
+      "text": "linha",
+      "start": 2.230541,
+      "duration": 0.277791
+    },
+    {
+      "text": "do",
+      "start": 2.522208,
+      "duration": 0.138875
+    },
+    {
+      "text": "tempo",
+      "start": 2.675,
+      "duration": 0.430541
+    },
+    {
+      "text": "Quando",
+      "start": 4.069458,
+      "duration": 0.333333
+    },
+    {
+      "text": "formos",
+      "start": 4.416666,
+      "duration": 0.430541
+    },
+    {
+      "text": "preparar",
+      "start": 4.861125,
+      "duration": 0.513875
+    },
+    {
+      "text": "o",
+      "start": 5.388875,
+      "duration": 0.083333
+    },
+    {
+      "text": "ambiente",
+      "start": 5.486125,
+      "duration": 0.611125
+    },
+    {
+      "text": "usaremos",
+      "start": 6.402791,
+      "duration": 0.555541
+    },
+    {
+      "text": "versões",
+      "start": 6.972208,
+      "duration": 0.513875
+    },
+    {
+      "text": "definidas",
+      "start": 7.5,
+      "duration": 0.638875
+    },
+    {
+      "text": "no",
+      "start": 8.152791,
+      "duration": 0.083333
+    },
+    {
+      "text": "material",
+      "start": 8.25,
+      "duration": 0.569458
+    },
+    {
+      "text": "da",
+      "start": 8.833333,
+      "duration": 0.111125
+    },
+    {
+      "text": "formação",
+      "start": 8.958333,
+      "duration": 0.694458
+    },
+    {
+      "text": "Ao",
+      "start": 10.611125,
+      "duration": 0.208333
+    },
+    {
+      "text": "consultar",
+      "start": 10.833333,
+      "duration": 0.597208
+    },
+    {
+      "text": "um",
+      "start": 11.444458,
+      "duration": 0.138875
+    },
+    {
+      "text": "exemplo",
+      "start": 11.597208,
+      "duration": 0.416666
+    },
+    {
+      "text": "externo",
+      "start": 12.027791,
+      "duration": 0.527791
+    },
+    {
+      "text": "confira",
+      "start": 12.916666,
+      "duration": 0.513875
+    },
+    {
+      "text": "a",
+      "start": 13.444458,
+      "duration": 0.027791
+    },
+    {
+      "text": "versão",
+      "start": 13.486125,
+      "duration": 0.555541
+    },
+    {
+      "text": "e",
+      "start": 14.055541,
+      "duration": 0.069458
+    },
+    {
+      "text": "a",
+      "start": 14.138875,
+      "duration": 0.055541
+    },
+    {
+      "text": "documentação",
+      "start": 14.208333,
+      "duration": 0.819458
+    },
+    {
+      "text": "correspondente",
+      "start": 15.041666,
+      "duration": 0.930541
+    },
+    {
+      "text": "Isso",
+      "start": 16.930541,
+      "duration": 0.333333
+    },
+    {
+      "text": "evita",
+      "start": 17.277791,
+      "duration": 0.444458
+    },
+    {
+      "text": "juntar",
+      "start": 17.736125,
+      "duration": 0.402791
+    },
+    {
+      "text": "instruções",
+      "start": 18.152791,
+      "duration": 0.666666
+    },
+    {
+      "text": "de",
+      "start": 18.833333,
+      "duration": 0.083333
+    },
+    {
+      "text": "momentos",
+      "start": 18.930541,
+      "duration": 0.569458
+    },
+    {
+      "text": "diferentes",
+      "start": 19.513875,
+      "duration": 0.611125
+    },
+    {
+      "text": "e",
+      "start": 20.138875,
+      "duration": 0.083333
+    },
+    {
+      "text": "interpretar",
+      "start": 20.236125,
+      "duration": 0.652791
+    },
+    {
+      "text": "toda",
+      "start": 20.902791,
+      "duration": 0.333333
+    },
+    {
+      "text": "diferença",
+      "start": 21.25,
+      "duration": 0.638875
+    },
+    {
+      "text": "como",
+      "start": 21.902791,
+      "duration": 0.25
+    },
+    {
+      "text": "um",
+      "start": 22.166666,
+      "duration": 0.166666
+    },
+    {
+      "text": "erro",
+      "start": 22.347208,
+      "duration": 0.277791
+    },
+    {
+      "text": "seu",
+      "start": 22.638875,
+      "duration": 0.375
+    }
+  ]
+}

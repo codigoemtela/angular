@@ -1,0 +1,93 @@
+{
+  "id": 101,
+  "chapter": "06 O que continua sendo responsabilidade da equipe",
+  "section": "06 O que continua sendo responsabilidade da equipe",
+  "speaker": "BIA",
+  "text": "E podemos aprender o motivo de uma escolha, para depois avaliar outro projeto com mais critério.",
+  "voice": "pt-BR-FranciscaNeural",
+  "rate": "-1%",
+  "pitch": "-13Hz",
+  "audio": "audio/101.mp3",
+  "words": [
+    {
+      "text": "E",
+      "start": 0.1005,
+      "duration": 0.07575
+    },
+    {
+      "text": "podemos",
+      "start": 0.188875,
+      "duration": 0.416666
+    },
+    {
+      "text": "aprender",
+      "start": 0.618166,
+      "duration": 0.479791
+    },
+    {
+      "text": "o",
+      "start": 1.110625,
+      "duration": 0.037875
+    },
+    {
+      "text": "motivo",
+      "start": 1.161125,
+      "duration": 0.454541
+    },
+    {
+      "text": "de",
+      "start": 1.628291,
+      "duration": 0.088375
+    },
+    {
+      "text": "uma",
+      "start": 1.729291,
+      "duration": 0.12625
+    },
+    {
+      "text": "escolha",
+      "start": 1.868166,
+      "duration": 0.517666
+    },
+    {
+      "text": "para",
+      "start": 2.449,
+      "duration": 0.189375
+    },
+    {
+      "text": "depois",
+      "start": 2.651,
+      "duration": 0.303041
+    },
+    {
+      "text": "avaliar",
+      "start": 2.966666,
+      "duration": 0.517666
+    },
+    {
+      "text": "outro",
+      "start": 3.496958,
+      "duration": 0.277791
+    },
+    {
+      "text": "projeto",
+      "start": 3.787375,
+      "duration": 0.530291
+    },
+    {
+      "text": "com",
+      "start": 4.330291,
+      "duration": 0.138875
+    },
+    {
+      "text": "mais",
+      "start": 4.481833,
+      "duration": 0.214666
+    },
+    {
+      "text": "critério",
+      "start": 4.709083,
+      "duration": 0.555541
+    }
+  ]
+}

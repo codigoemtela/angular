@@ -1,0 +1,268 @@
+{
+  "id": 66,
+  "chapter": "04 A história do Angular e as mudanças de geração",
+  "section": "A evolução depois da reescrita",
+  "speaker": "PROF. RODRIGO",
+  "text": "O nome pode sugerir isso, mas ele pode depender de outros componentes e serviços. A mudança está na forma de declarar e organizar essas dependências. Se você encontrar uma aplicação organizada com NgModules, está vendo uma abordagem que faz parte da história do Angular e que ainda aparece em bases existentes.",
+  "voice": "pt-BR-AntonioNeural",
+  "rate": "-10%",
+  "pitch": "+0Hz",
+  "audio": "audio/066.mp3",
+  "words": [
+    {
+      "text": "O",
+      "start": 0.105541,
+      "duration": 0.125
+    },
+    {
+      "text": "nome",
+      "start": 0.244458,
+      "duration": 0.375
+    },
+    {
+      "text": "pode",
+      "start": 0.633333,
+      "duration": 0.291666
+    },
+    {
+      "text": "sugerir",
+      "start": 0.938875,
+      "duration": 0.486125
+    },
+    {
+      "text": "isso",
+      "start": 1.438875,
+      "duration": 0.291666
+    },
+    {
+      "text": "mas",
+      "start": 2.077791,
+      "duration": 0.111125
+    },
+    {
+      "text": "ele",
+      "start": 2.202791,
+      "duration": 0.277791
+    },
+    {
+      "text": "pode",
+      "start": 2.494458,
+      "duration": 0.319458
+    },
+    {
+      "text": "depender",
+      "start": 2.827791,
+      "duration": 0.541666
+    },
+    {
+      "text": "de",
+      "start": 3.383333,
+      "duration": 0.125
+    },
+    {
+      "text": "outros",
+      "start": 3.522208,
+      "duration": 0.361125
+    },
+    {
+      "text": "componentes",
+      "start": 3.897208,
+      "duration": 0.652791
+    },
+    {
+      "text": "e",
+      "start": 4.563875,
+      "duration": 0.111125
+    },
+    {
+      "text": "serviços",
+      "start": 4.688875,
+      "duration": 0.791666
+    },
+    {
+      "text": "A",
+      "start": 6.444458,
+      "duration": 0.111125
+    },
+    {
+      "text": "mudança",
+      "start": 6.569458,
+      "duration": 0.555541
+    },
+    {
+      "text": "está",
+      "start": 7.138875,
+      "duration": 0.194458
+    },
+    {
+      "text": "na",
+      "start": 7.347208,
+      "duration": 0.125
+    },
+    {
+      "text": "forma",
+      "start": 7.486125,
+      "duration": 0.375
+    },
+    {
+      "text": "de",
+      "start": 7.875,
+      "duration": 0.097208
+    },
+    {
+      "text": "declarar",
+      "start": 7.986125,
+      "duration": 0.569458
+    },
+    {
+      "text": "e",
+      "start": 8.569458,
+      "duration": 0.0416659
+    },
+    {
+      "text": "organizar",
+      "start": 8.625,
+      "duration": 0.611125
+    },
+    {
+      "text": "essas",
+      "start": 9.25,
+      "duration": 0.25
+    },
+    {
+      "text": "dependências",
+      "start": 9.513875,
+      "duration": 0.958333
+    },
+    {
+      "text": "Se",
+      "start": 11.430541,
+      "duration": 0.236125
+    },
+    {
+      "text": "você",
+      "start": 11.680541,
+      "duration": 0.291666
+    },
+    {
+      "text": "encontrar",
+      "start": 11.986125,
+      "duration": 0.513875
+    },
+    {
+      "text": "uma",
+      "start": 12.513875,
+      "duration": 0.138875
+    },
+    {
+      "text": "aplicação",
+      "start": 12.666666,
+      "duration": 0.583333
+    },
+    {
+      "text": "organizada",
+      "start": 13.263875,
+      "duration": 0.75
+    },
+    {
+      "text": "com",
+      "start": 14.027791,
+      "duration": 0.180541
+    },
+    {
+      "text": "NgModules",
+      "start": 14.222208,
+      "duration": 0.958333
+    },
+    {
+      "text": "está",
+      "start": 15.486125,
+      "duration": 0.277791
+    },
+    {
+      "text": "vendo",
+      "start": 15.777791,
+      "duration": 0.361125
+    },
+    {
+      "text": "uma",
+      "start": 16.152791,
+      "duration": 0.097208
+    },
+    {
+      "text": "abordagem",
+      "start": 16.263875,
+      "duration": 0.638875
+    },
+    {
+      "text": "que",
+      "start": 16.916666,
+      "duration": 0.125
+    },
+    {
+      "text": "faz",
+      "start": 17.055541,
+      "duration": 0.291666
+    },
+    {
+      "text": "parte",
+      "start": 17.361125,
+      "duration": 0.361125
+    },
+    {
+      "text": "da",
+      "start": 17.736125,
+      "duration": 0.083333
+    },
+    {
+      "text": "história",
+      "start": 17.833333,
+      "duration": 0.388875
+    },
+    {
+      "text": "do",
+      "start": 18.236125,
+      "duration": 0.097208
+    },
+    {
+      "text": "Angular",
+      "start": 18.347208,
+      "duration": 0.5
+    },
+    {
+      "text": "e",
+      "start": 18.861125,
+      "duration": 0.055541
+    },
+    {
+      "text": "que",
+      "start": 18.930541,
+      "duration": 0.125
+    },
+    {
+      "text": "ainda",
+      "start": 19.069458,
+      "duration": 0.291666
+    },
+    {
+      "text": "aparece",
+      "start": 19.375,
+      "duration": 0.486125
+    },
+    {
+      "text": "em",
+      "start": 19.875,
+      "duration": 0.083333
+    },
+    {
+      "text": "bases",
+      "start": 19.972208,
+      "duration": 0.388875
+    },
+    {
+      "text": "existentes",
+      "start": 20.375,
+      "duration": 0.944458
+    }
+  ]
+}

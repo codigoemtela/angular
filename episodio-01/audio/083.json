@@ -1,0 +1,253 @@
+{
+  "id": 83,
+  "chapter": "05 Como o Angular ajuda a organizar nossa central",
+  "section": "Serviços e comunicação com a API",
+  "speaker": "PROF. RODRIGO",
+  "text": "Correto. Aqui ele faz parte do frontend. A API é outra parte do sistema, que recebe as requisições e executa operações no servidor. O Angular oferece o HttpClient para organizar a comunicação HTTP. Ainda precisamos decidir quais dados enviar, como interpretar a resposta e como tratar uma falha.",
+  "voice": "pt-BR-AntonioNeural",
+  "rate": "-10%",
+  "pitch": "+0Hz",
+  "audio": "audio/083.mp3",
+  "words": [
+    {
+      "text": "Correto",
+      "start": 0.105541,
+      "duration": 0.680541
+    },
+    {
+      "text": "Aqui",
+      "start": 1.75,
+      "duration": 0.347208
+    },
+    {
+      "text": "ele",
+      "start": 2.111125,
+      "duration": 0.194458
+    },
+    {
+      "text": "faz",
+      "start": 2.319458,
+      "duration": 0.305541
+    },
+    {
+      "text": "parte",
+      "start": 2.638875,
+      "duration": 0.375
+    },
+    {
+      "text": "do",
+      "start": 3.027791,
+      "duration": 0.138875
+    },
+    {
+      "text": "frontend",
+      "start": 3.180541,
+      "duration": 0.555541
+    },
+    {
+      "text": "A",
+      "start": 4.694458,
+      "duration": 0.166666
+    },
+    {
+      "text": "API",
+      "start": 4.875,
+      "duration": 0.513875
+    },
+    {
+      "text": "é",
+      "start": 5.402791,
+      "duration": 0.125
+    },
+    {
+      "text": "outra",
+      "start": 5.541666,
+      "duration": 0.347208
+    },
+    {
+      "text": "parte",
+      "start": 5.902791,
+      "duration": 0.361125
+    },
+    {
+      "text": "do",
+      "start": 6.277791,
+      "duration": 0.097208
+    },
+    {
+      "text": "sistema",
+      "start": 6.388875,
+      "duration": 0.625
+    },
+    {
+      "text": "que",
+      "start": 7.25,
+      "duration": 0.125
+    },
+    {
+      "text": "recebe",
+      "start": 7.388875,
+      "duration": 0.486125
+    },
+    {
+      "text": "as",
+      "start": 7.888875,
+      "duration": 0.097208
+    },
+    {
+      "text": "requisições",
+      "start": 8.0,
+      "duration": 0.736125
+    },
+    {
+      "text": "e",
+      "start": 8.75,
+      "duration": 0.111125
+    },
+    {
+      "text": "executa",
+      "start": 8.875,
+      "duration": 0.555541
+    },
+    {
+      "text": "operações",
+      "start": 9.444458,
+      "duration": 0.666666
+    },
+    {
+      "text": "no",
+      "start": 10.125,
+      "duration": 0.097208
+    },
+    {
+      "text": "servidor",
+      "start": 10.236125,
+      "duration": 0.597208
+    },
+    {
+      "text": "O",
+      "start": 11.791666,
+      "duration": 0.138875
+    },
+    {
+      "text": "Angular",
+      "start": 11.944458,
+      "duration": 0.486125
+    },
+    {
+      "text": "oferece",
+      "start": 12.444458,
+      "duration": 0.5
+    },
+    {
+      "text": "o",
+      "start": 12.958333,
+      "duration": 0.0416659
+    },
+    {
+      "text": "HttpClient",
+      "start": 13.013875,
+      "duration": 1.013875
+    },
+    {
+      "text": "para",
+      "start": 14.041666,
+      "duration": 0.180541
+    },
+    {
+      "text": "organizar",
+      "start": 14.236125,
+      "duration": 0.555541
+    },
+    {
+      "text": "a",
+      "start": 14.805541,
+      "duration": 0.055541
+    },
+    {
+      "text": "comunicação",
+      "start": 14.875,
+      "duration": 0.763875
+    },
+    {
+      "text": "HTTP",
+      "start": 15.652791,
+      "duration": 0.861125
+    },
+    {
+      "text": "Ainda",
+      "start": 17.472208,
+      "duration": 0.402791
+    },
+    {
+      "text": "precisamos",
+      "start": 17.888875,
+      "duration": 0.638875
+    },
+    {
+      "text": "decidir",
+      "start": 18.541666,
+      "duration": 0.5
+    },
+    {
+      "text": "quais",
+      "start": 19.055541,
+      "duration": 0.291666
+    },
+    {
+      "text": "dados",
+      "start": 19.361125,
+      "duration": 0.291666
+    },
+    {
+      "text": "enviar",
+      "start": 19.666666,
+      "duration": 0.555541
+    },
+    {
+      "text": "como",
+      "start": 20.527791,
+      "duration": 0.194458
+    },
+    {
+      "text": "interpretar",
+      "start": 20.736125,
+      "duration": 0.680541
+    },
+    {
+      "text": "a",
+      "start": 21.430541,
+      "duration": 0.0416659
+    },
+    {
+      "text": "resposta",
+      "start": 21.486125,
+      "duration": 0.625
+    },
+    {
+      "text": "e",
+      "start": 22.125,
+      "duration": 0.055541
+    },
+    {
+      "text": "como",
+      "start": 22.194458,
+      "duration": 0.263875
+    },
+    {
+      "text": "tratar",
+      "start": 22.472208,
+      "duration": 0.416666
+    },
+    {
+      "text": "uma",
+      "start": 22.902791,
+      "duration": 0.194458
+    },
+    {
+      "text": "falha",
+      "start": 23.111125,
+      "duration": 0.458333
+    }
+  ]
+}

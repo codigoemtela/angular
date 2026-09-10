@@ -1,0 +1,238 @@
+{
+  "id": 74,
+  "chapter": "05 Como o Angular ajuda a organizar nossa central",
+  "section": "Componentes e responsabilidades",
+  "speaker": "PROF. RODRIGO",
+  "text": "Um componente representa uma parte da interface com uma responsabilidade definida. Podemos ter um componente para apresentar o status de uma solicitação e usá-lo na lista e nos detalhes. Cada uso recebe a informação correspondente. Se alterarmos a apresentação compartilhada, conseguimos manter esses lugares coerentes.",
+  "voice": "pt-BR-AntonioNeural",
+  "rate": "-10%",
+  "pitch": "+0Hz",
+  "audio": "audio/074.mp3",
+  "words": [
+    {
+      "text": "Um",
+      "start": 0.105541,
+      "duration": 0.152791
+    },
+    {
+      "text": "componente",
+      "start": 0.272208,
+      "duration": 0.638875
+    },
+    {
+      "text": "representa",
+      "start": 0.925,
+      "duration": 0.555541
+    },
+    {
+      "text": "uma",
+      "start": 1.494458,
+      "duration": 0.180541
+    },
+    {
+      "text": "parte",
+      "start": 1.688875,
+      "duration": 0.402791
+    },
+    {
+      "text": "da",
+      "start": 2.105541,
+      "duration": 0.083333
+    },
+    {
+      "text": "interface",
+      "start": 2.202791,
+      "duration": 0.75
+    },
+    {
+      "text": "com",
+      "start": 2.966666,
+      "duration": 0.166666
+    },
+    {
+      "text": "uma",
+      "start": 3.147208,
+      "duration": 0.138875
+    },
+    {
+      "text": "responsabilidade",
+      "start": 3.3,
+      "duration": 1.027791
+    },
+    {
+      "text": "definida",
+      "start": 4.341666,
+      "duration": 0.680541
+    },
+    {
+      "text": "Podemos",
+      "start": 5.986125,
+      "duration": 0.597208
+    },
+    {
+      "text": "ter",
+      "start": 6.597208,
+      "duration": 0.166666
+    },
+    {
+      "text": "um",
+      "start": 6.777791,
+      "duration": 0.083333
+    },
+    {
+      "text": "componente",
+      "start": 6.875,
+      "duration": 0.638875
+    },
+    {
+      "text": "para",
+      "start": 7.527791,
+      "duration": 0.138875
+    },
+    {
+      "text": "apresentar",
+      "start": 7.680541,
+      "duration": 0.583333
+    },
+    {
+      "text": "o",
+      "start": 8.277791,
+      "duration": 0.0416659
+    },
+    {
+      "text": "status",
+      "start": 8.333333,
+      "duration": 0.583333
+    },
+    {
+      "text": "de",
+      "start": 8.930541,
+      "duration": 0.069458
+    },
+    {
+      "text": "uma",
+      "start": 9.013875,
+      "duration": 0.111125
+    },
+    {
+      "text": "solicitação",
+      "start": 9.138875,
+      "duration": 0.888875
+    },
+    {
+      "text": "e",
+      "start": 10.041666,
+      "duration": 0.055541
+    },
+    {
+      "text": "usá-lo",
+      "start": 10.111125,
+      "duration": 0.430541
+    },
+    {
+      "text": "na",
+      "start": 10.555541,
+      "duration": 0.138875
+    },
+    {
+      "text": "lista",
+      "start": 10.708333,
+      "duration": 0.430541
+    },
+    {
+      "text": "e",
+      "start": 11.152791,
+      "duration": 0.0416659
+    },
+    {
+      "text": "nos",
+      "start": 11.208333,
+      "duration": 0.138875
+    },
+    {
+      "text": "detalhes",
+      "start": 11.361125,
+      "duration": 0.722208
+    },
+    {
+      "text": "Cada",
+      "start": 13.041666,
+      "duration": 0.361125
+    },
+    {
+      "text": "uso",
+      "start": 13.416666,
+      "duration": 0.25
+    },
+    {
+      "text": "recebe",
+      "start": 13.680541,
+      "duration": 0.5
+    },
+    {
+      "text": "a",
+      "start": 14.194458,
+      "duration": 0.027791
+    },
+    {
+      "text": "informação",
+      "start": 14.236125,
+      "duration": 0.75
+    },
+    {
+      "text": "correspondente",
+      "start": 15.0,
+      "duration": 1.0
+    },
+    {
+      "text": "Se",
+      "start": 16.958333,
+      "duration": 0.222208
+    },
+    {
+      "text": "alterarmos",
+      "start": 17.194458,
+      "duration": 0.638875
+    },
+    {
+      "text": "a",
+      "start": 17.847208,
+      "duration": 0.125
+    },
+    {
+      "text": "apresentação",
+      "start": 17.986125,
+      "duration": 0.736125
+    },
+    {
+      "text": "compartilhada",
+      "start": 18.736125,
+      "duration": 0.861125
+    },
+    {
+      "text": "conseguimos",
+      "start": 19.888875,
+      "duration": 0.736125
+    },
+    {
+      "text": "manter",
+      "start": 20.638875,
+      "duration": 0.444458
+    },
+    {
+      "text": "esses",
+      "start": 21.097208,
+      "duration": 0.236125
+    },
+    {
+      "text": "lugares",
+      "start": 21.347208,
+      "duration": 0.527791
+    },
+    {
+      "text": "coerentes",
+      "start": 21.888875,
+      "duration": 0.791666
+    }
+  ]
+}

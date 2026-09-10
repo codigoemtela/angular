@@ -1,0 +1,143 @@
+{
+  "id": 55,
+  "chapter": "04 A história do Angular e as mudanças de geração",
+  "section": "A reescrita que levou ao Angular 2",
+  "speaker": "MARINA",
+  "text": "Isso faz diferença para quem precisa manter o atendimento funcionando durante a mudança. Não dá para interromper todos os pedidos enquanto a equipe reescreve as telas.",
+  "voice": "pt-BR-ThalitaMultilingualNeural",
+  "rate": "-6%",
+  "pitch": "-16Hz",
+  "audio": "audio/055.mp3",
+  "words": [
+    {
+      "text": "Isso",
+      "start": 0.052375,
+      "duration": 0.292541
+    },
+    {
+      "text": "faz",
+      "start": 0.344958,
+      "duration": 0.292541
+    },
+    {
+      "text": "diferença",
+      "start": 0.6375,
+      "duration": 0.6915
+    },
+    {
+      "text": "para",
+      "start": 1.329,
+      "duration": 0.186166
+    },
+    {
+      "text": "quem",
+      "start": 1.515166,
+      "duration": 0.186166
+    },
+    {
+      "text": "precisa",
+      "start": 1.701333,
+      "duration": 0.545208
+    },
+    {
+      "text": "manter",
+      "start": 2.246541,
+      "duration": 0.372333
+    },
+    {
+      "text": "o",
+      "start": 2.618875,
+      "duration": 0.026583
+    },
+    {
+      "text": "atendimento",
+      "start": 2.645458,
+      "duration": 0.638291
+    },
+    {
+      "text": "funcionando",
+      "start": 3.283791,
+      "duration": 0.824458
+    },
+    {
+      "text": "durante",
+      "start": 4.10825,
+      "duration": 0.372333
+    },
+    {
+      "text": "a",
+      "start": 4.480583,
+      "duration": 0.026583
+    },
+    {
+      "text": "mudança",
+      "start": 4.507166,
+      "duration": 0.585125
+    },
+    {
+      "text": "Não",
+      "start": 5.464625,
+      "duration": 0.265958
+    },
+    {
+      "text": "dá",
+      "start": 5.730583,
+      "duration": 0.239375
+    },
+    {
+      "text": "para",
+      "start": 5.969958,
+      "duration": 0.14625
+    },
+    {
+      "text": "interromper",
+      "start": 6.116208,
+      "duration": 0.638291
+    },
+    {
+      "text": "todos",
+      "start": 6.754541,
+      "duration": 0.385625
+    },
+    {
+      "text": "os",
+      "start": 7.140166,
+      "duration": 0.159583
+    },
+    {
+      "text": "pedidos",
+      "start": 7.29975,
+      "duration": 0.531916
+    },
+    {
+      "text": "enquanto",
+      "start": 7.831666,
+      "duration": 0.478708
+    },
+    {
+      "text": "a",
+      "start": 8.310375,
+      "duration": 0.0665
+    },
+    {
+      "text": "equipe",
+      "start": 8.376875,
+      "duration": 0.438833
+    },
+    {
+      "text": "reescreve",
+      "start": 8.815708,
+      "duration": 0.691458
+    },
+    {
+      "text": "as",
+      "start": 9.507166,
+      "duration": 0.119666
+    },
+    {
+      "text": "telas",
+      "start": 9.626875,
+      "duration": 0.5585
+    }
+  ]
+}
